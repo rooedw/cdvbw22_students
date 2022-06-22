@@ -1,0 +1,619 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "name": "Karl Theodor W\u00e4chter",
+      "year_of_birth": 1820,
+      "year_of_death": 1887,
+      "id": "Karl Theodor W\u00e4chter 1820"
+    },
+    {
+      "name": "Eduard L\u00f6flund",
+      "year_of_birth": 1835,
+      "year_of_death": 1920,
+      "Bestellsignatur": "UAT 40/132,50",
+      "Nachname": "L\u00f6flund",
+      "Vorname": "Eduard [(Franz Eduard)]",
+      "Geburtsdatum": "30.10.1835",
+      "Geburtsort": null,
+      "Todesdatum": "31.10.1920",
+      "Sterbeort": "Grunbach",
+      "Konfession": "ev.",
+      "Mitgliedschaft": "Burschenschaft Nordland.",
+      "Vater_name": "Gustav [Adolph] Loeflund (1801-1873)",
+      "Vater_Beruf": "Pfarrer",
+      "Vater_Beruf_Ort": " Sch\u00f6naich",
+      "Fach": "PharmazieHospitierender",
+      "Ort": "Sch\u00f6naich/Oberamt B\u00f6blingen",
+      "Beruf": "Chemiker und Malzextrakt-Fabrikant      in Grunbach",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Adolph L\u00f6flund",
+          1832,
+          1892
+        ],
+        [
+          "Bruder",
+          "Hermann Otto L\u00f6flund",
+          1842,
+          1903
+        ],
+        [
+          "Cousin",
+          "Karl Theodor W\u00e4chter",
+          1820,
+          1888
+        ],
+        [
+          "Cousin",
+          "Wilhelm W\u00e4chter",
+          1826,
+          1862
+        ],
+        [
+          "Cousin",
+          "Gustav Conz",
+          1832,
+          1914
+        ],
+        [
+          "Cousin",
+          "Friedrich Emil Conz",
+          1834,
+          1908
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1859,
+        1860
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1860,
+          "1860-03-21",
+          "SS",
+          null
+        ],
+        [
+          1860,
+          "1860-05-02",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Eduard Loeflund 1835"
+    },
+    {
+      "name": "und des Adolph L\u00f6flund",
+      "year_of_birth": 1832,
+      "year_of_death": 1892,
+      "Bestellsignatur": "UAT 40/132,49",
+      "Nachname": "Loeflund",
+      "Vorname": "Adolph [(Gustav Adolph)]",
+      "Geburtsdatum": "23.7.1832",
+      "Geburtsort": "Scharnhausen",
+      "Todesdatum": "22.2.1892",
+      "Sterbeort": "Heilbronn",
+      "Konfession": "ev.",
+      "Mitgliedschaft": "Burschenschaft Nordland.",
+      "Vater_name": "Gust[av] Adolph L\u00f6flund (1801-1873)",
+      "Vater_Beruf": "Diakon",
+      "Vater_Beruf_Ort": " Geislingenannt",
+      "Fach": "Regiminalistik",
+      "Ort": "Geislingen",
+      "Beruf": "Zuletzt Oberamtmann (Regierungsrat) in Heilbronn",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Eduard Loeflund",
+          1835,
+          1920
+        ],
+        [
+          "Bruder",
+          "Hermann Otto L\u00f6flund",
+          1842,
+          1903
+        ],
+        [
+          "Cousin",
+          "Karl Theodor W\u00e4chter",
+          1820,
+          1888
+        ],
+        [
+          "Cousin",
+          "Wilhelm W\u00e4chter",
+          1826,
+          1862
+        ],
+        [
+          "Cousin",
+          "Gustav Conz",
+          1832,
+          1914
+        ],
+        [
+          "Cousin",
+          "Friedrich Emil Conz",
+          1834,
+          1908
+        ]
+      ],
+      "Studienorte": [
+        [
+          1852,
+          "SS",
+          "T\u00fcbingen"
+        ],
+        [
+          1852,
+          "SS",
+          "Heidelberg"
+        ]
+      ],
+      "Studienjahre": [
+        1850,
+        1851,
+        1852,
+        1853,
+        1854,
+        1855
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1851,
+          "1851-04-23",
+          "SS",
+          null
+        ],
+        [
+          1852,
+          "1852-04-16",
+          "SS",
+          null
+        ],
+        [
+          1851,
+          "1851-05-19",
+          "SS",
+          null
+        ],
+        [
+          1852,
+          "1852-05-07",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Adolph L\u00f6flund 1832"
+    },
+    {
+      "Bestellsignatur": "UAT 40/38,61",
+      "Nachname": "Conz",
+      "Vorname": "Emil (Friedrich Emil)",
+      "Geburtsdatum": "8.5.1834",
+      "Geburtsort": null,
+      "Todesdatum": "1908",
+      "Sterbeort": "Cannstatt",
+      "Konfession": null,
+      "Mitgliedschaft": null,
+      "Vater_name": "verstorben Louis [(Ludwig)] Conz",
+      "Vater_Beruf": "Universit\u00e4tssekret\u00e4r",
+      "Vater_Beruf_Ort": " T\u00fcbingenannt",
+      "Fach": "Seminarist (Angeh\u00f6riger des Evangelischen Stifts)narist (Angeh\u00f6riger des Evangelischen Stifts), meistens Studierender der ev. Theologie, [ev.]theol.opp.",
+      "Ort": "T\u00fcbingen",
+      "Beruf": "Zuletzt Rektor in Cannstatt",
+      "Verwandtschaft": [
+        [
+          "Onkel",
+          "Immanuel Christian Conz",
+          1897,
+          1849
+        ],
+        [
+          "Bruder",
+          "Gustav Conz",
+          1832,
+          1914
+        ],
+        [
+          "Cousin",
+          "Karl Theodor W\u00e4chter",
+          1820,
+          1888
+        ],
+        [
+          "Cousin",
+          "Wilhelm W\u00e4chter",
+          1826,
+          1862
+        ],
+        [
+          "Cousin",
+          "Adolph L\u00f6flund",
+          1832,
+          1892
+        ],
+        [
+          "Cousin",
+          "Eduard L\u00f6flund",
+          1835,
+          1920
+        ],
+        [
+          "Cousin",
+          "Hermann Otto L\u00f6flund",
+          1842,
+          1903
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1852,
+        1853,
+        1854,
+        1855,
+        1856
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1852,
+          "1852-11-02",
+          "WS",
+          null
+        ]
+      ],
+      "student": true,
+      "name": "Friedrich Emil Conz",
+      "year_of_birth": 1834,
+      "year_of_death": 1908,
+      "id": "Emil (Friedrich Emil) Conz 1834"
+    },
+    {
+      "name": "Immanuel Christian Conz",
+      "year_of_birth": 1897,
+      "year_of_death": 1849,
+      "id": "Immanuel Christian Conz 1897"
+    },
+    {
+      "name": "Gustav Conz",
+      "year_of_birth": 1832,
+      "year_of_death": 1914,
+      "id": "Gustav Conz 1832"
+    },
+    {
+      "name": "Hermann Otto L\u00f6flund",
+      "year_of_birth": 1842,
+      "year_of_death": 1903,
+      "Bestellsignatur": "UAT 40/132,51",
+      "Nachname": "L\u00f6flund",
+      "Vorname": "Hermann Otto",
+      "Geburtsdatum": "13.10.1842",
+      "Geburtsort": "Gei\u00dflingen a.d. Steige",
+      "Todesdatum": "27.5.1903",
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Gustav [Adolph] L\u00f6flund (1801-1873)",
+      "Vater_Beruf": "Pfarrer",
+      "Vater_Beruf_Ort": " Sch\u00f6naich",
+      "Fach": "Kameralwissenschaft",
+      "Ort": "Sch\u00f6naich/Oberamt B\u00f6blingen",
+      "Beruf": "Finanzrat in T\u00fcbingen",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "und des Adolph L\u00f6flund",
+          1832,
+          1892
+        ],
+        [
+          "Bruder",
+          "Eduard Loeflund",
+          1835,
+          1920
+        ],
+        [
+          "Cousin",
+          "Karl Theodor W\u00e4chter",
+          1820,
+          1888
+        ],
+        [
+          "Cousin",
+          "Wilhelm W\u00e4chter",
+          1826,
+          1862
+        ],
+        [
+          "Cousin",
+          "Gustav Conz",
+          1832,
+          1914
+        ],
+        [
+          "Cousin",
+          "Friedrich Emil Conz",
+          1834,
+          1908
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1862,
+        1863,
+        1864
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1862,
+          "1862-05-07",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Hermann Otto L\u00f6flund 1842"
+    },
+    {
+      "Bestellsignatur": "UAT 40/238,46",
+      "Nachname": "Waechter",
+      "Vorname": "Wilhelm",
+      "Geburtsdatum": "27.6.1826",
+      "Geburtsort": "Marbach a.N.",
+      "Todesdatum": "1862",
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "verstorben Friedrich Eberh[ard] Waechter (W\u00e4chter)",
+      "Vater_Beruf": "Dekan",
+      "Vater_Beruf_Ort": " Leonberg",
+      "Fach": "Jura",
+      "Ort": "Leonberg",
+      "Beruf": "Oberjustizsekret\u00e4r in Esslingen",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Karl Theodor W\u00e4chter",
+          1820,
+          1887
+        ],
+        [
+          "Cousin",
+          "Gustav Conz",
+          1832,
+          1914
+        ],
+        [
+          "Cousin",
+          "Friedrich Emil Conz",
+          1834,
+          1908
+        ],
+        [
+          "Cousin",
+          "Adolph L\u00f6flund",
+          1832,
+          1892
+        ],
+        [
+          "Cousin",
+          "Eduard L\u00f6flund",
+          1835,
+          1920
+        ],
+        [
+          "Cousin",
+          "Hermann Otto L\u00f6flund",
+          1842,
+          1903
+        ]
+      ],
+      "Studienorte": [
+        [
+          1847,
+          "SS",
+          "T\u00fcbingen"
+        ],
+        [
+          1847,
+          "SS",
+          "Heidelberg"
+        ]
+      ],
+      "Studienjahre": [
+        1844,
+        1845,
+        1846,
+        1847,
+        1848,
+        1849
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1844,
+          "1844-10-24",
+          "WS",
+          null
+        ],
+        [
+          1847,
+          "1847-04-24",
+          "SS",
+          null
+        ],
+        [
+          1844,
+          "1844-11-18",
+          "WS",
+          null
+        ],
+        [
+          1847,
+          "1847-05-12",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "name": "Wilhelm W\u00e4chter",
+      "year_of_birth": 1826,
+      "year_of_death": 1862,
+      "id": "Wilhelm Waechter 1826"
+    },
+    {
+      "Vater_Beruf": "Pfarrer und Diakon",
+      "Vater_Beruf_Ort": " Sch\u00f6naich",
+      "id": "Gustav Adolph L\u00f6flund (1801-1873)"
+    },
+    {
+      "Vater_Beruf": "Universit\u00e4tssekret\u00e4r",
+      "Vater_Beruf_Ort": " T\u00fcbingenannt",
+      "id": "Louis [(Ludwig)] Conz"
+    },
+    {
+      "Vater_Beruf": "Dekan",
+      "Vater_Beruf_Ort": " Leonberg",
+      "id": "Friedrich Eberhard Waechter (W\u00e4chter)"
+    }
+  ],
+  "links": [
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Karl Theodor W\u00e4chter 1820",
+      "target": "Emil (Friedrich Emil) Conz 1834"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Karl Theodor W\u00e4chter 1820",
+      "target": "Hermann Otto L\u00f6flund 1842"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Karl Theodor W\u00e4chter 1820",
+      "target": "Wilhelm Waechter 1826"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Karl Theodor W\u00e4chter 1820",
+      "target": "Adolph L\u00f6flund 1832"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Karl Theodor W\u00e4chter 1820",
+      "target": "Eduard Loeflund 1835"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Eduard Loeflund 1835",
+      "target": "Hermann Otto L\u00f6flund 1842"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Eduard Loeflund 1835",
+      "target": "Adolph L\u00f6flund 1832"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Eduard Loeflund 1835",
+      "target": "Emil (Friedrich Emil) Conz 1834"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Eduard Loeflund 1835",
+      "target": "Wilhelm Waechter 1826"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Eduard Loeflund 1835",
+      "target": "Gustav Conz 1832"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Eduard Loeflund 1835",
+      "target": "Gustav Adolph L\u00f6flund (1801-1873)"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Adolph L\u00f6flund 1832",
+      "target": "Emil (Friedrich Emil) Conz 1834"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Adolph L\u00f6flund 1832",
+      "target": "Wilhelm Waechter 1826"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Adolph L\u00f6flund 1832",
+      "target": "Gustav Conz 1832"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Adolph L\u00f6flund 1832",
+      "target": "Hermann Otto L\u00f6flund 1842"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Adolph L\u00f6flund 1832",
+      "target": "Gustav Adolph L\u00f6flund (1801-1873)"
+    },
+    {
+      "verwandtschaftsgrad": "Onkel",
+      "source": "Emil (Friedrich Emil) Conz 1834",
+      "target": "Immanuel Christian Conz 1897"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Emil (Friedrich Emil) Conz 1834",
+      "target": "Gustav Conz 1832"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Emil (Friedrich Emil) Conz 1834",
+      "target": "Hermann Otto L\u00f6flund 1842"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Emil (Friedrich Emil) Conz 1834",
+      "target": "Wilhelm Waechter 1826"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Emil (Friedrich Emil) Conz 1834",
+      "target": "Louis [(Ludwig)] Conz"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Gustav Conz 1832",
+      "target": "Hermann Otto L\u00f6flund 1842"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Gustav Conz 1832",
+      "target": "Wilhelm Waechter 1826"
+    },
+    {
+      "verwandtschaftsgrad": "Cousin",
+      "source": "Hermann Otto L\u00f6flund 1842",
+      "target": "Wilhelm Waechter 1826"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Hermann Otto L\u00f6flund 1842",
+      "target": "Gustav Adolph L\u00f6flund (1801-1873)"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Wilhelm Waechter 1826",
+      "target": "Friedrich Eberhard Waechter (W\u00e4chter)"
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "name": "Ferdinand August V\u00f6lter",
+      "year_of_birth": 1806,
+      "year_of_death": 1885,
+      "Bestellsignatur": "UAT 40/236,36",
+      "Nachname": "V\u00f6lter",
+      "Vorname": "Ferdinand August",
+      "Geburtsdatum": "11.3.1806",
+      "Geburtsort": null,
+      "Todesdatum": "1885",
+      "Sterbeort": "Reutlingen",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Christoph Erhard [Michael] V\u00f6lter",
+      "Vater_Beruf": "Schulmeister",
+      "Vater_Beruf_Ort": " Metzingenannt",
+      "Fach": "Philosophie, philosophischHospitierender",
+      "Ort": "Metzingen/Oberamt Urach",
+      "Beruf": "Reallehrer in Reutlingenannt",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Johannes V\u00f6lter",
+          1804,
+          1899
+        ],
+        [
+          "Bruder",
+          "Louis V\u00f6lter",
+          1809,
+          1888
+        ],
+        [
+          "Bruder",
+          "Daniel V\u00f6lter",
+          1814,
+          1865
+        ],
+        [
+          "Bruder",
+          "Christian V\u00f6lter",
+          1816,
+          1890
+        ],
+        [
+          "Bruder",
+          "Friedrich V\u00f6lter",
+          1825,
+          1910
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": null,
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "id": "Ferdinand August V\u00f6lter 1806"
+    },
+    {
+      "name": "Paul Mauz",
+      "year_of_birth": 1872,
+      "year_of_death": 1920,
+      "Bestellsignatur": "UAT 40/140,108",
+      "Nachname": "Mauz",
+      "Vorname": "Paul [(Paul Ernst)]",
+      "Geburtsdatum": "8.8.1872",
+      "Geburtsort": null,
+      "Todesdatum": "1920",
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Gottlieb Mauz",
+      "Vater_Beruf": "Apotheker",
+      "Vater_Beruf_Ort": " Esslingenannt",
+      "Fach": "Pharmazie",
+      "Ort": "Esslingen",
+      "Beruf": "DrrerNaturwissenschaften T\u00fcbingen (Rigorosum:      2341904, Diplom: 2341904)",
+      "Verwandtschaft": [
+        [
+          "Gro\u00dfvater",
+          "Johann Gottlob Friedrich Bunz",
+          1799,
+          1856
+        ],
+        [
+          "Bruder",
+          "Immanuel Mauz",
+          1864,
+          1935
+        ],
+        [
+          "Bruder",
+          "Theodor Mauz",
+          1870,
+          null
+        ]
+      ],
+      "Studienorte": [
+        [
+          1899,
+          "SS",
+          "Heidelberg"
+        ]
+      ],
+      "Studienjahre": [
+        1899,
+        1900,
+        1901,
+        1902
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1899,
+          "1899-04-19",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Paul Mauz 1872"
+    },
+    {
+      "name": "Christian V\u00f6lter",
+      "year_of_birth": 1816,
+      "year_of_death": 1890,
+      "Bestellsignatur": "UAT 40/236,26",
+      "Nachname": "Voelter",
+      "Vorname": "Christian",
+      "Geburtsdatum": "15.2.1816",
+      "Geburtsort": "Metzingen",
+      "Todesdatum": "1890",
+      "Sterbeort": "Metzingen",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Erhard V\u00f6lter",
+      "Vater_Beruf": "Schulmeister",
+      "Vater_Beruf_Ort": " Metzingen/",
+      "Fach": "Medizin",
+      "Ort": "Metzingen/Oberamt Urach",
+      "Beruf": "Chirurg in Metzingenannt",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Johannes V\u00f6lter",
+          1804,
+          1899
+        ],
+        [
+          "Bruder",
+          "Ferdinand August V\u00f6lter",
+          1806,
+          1885
+        ],
+        [
+          "Bruder",
+          "Louis V\u00f6lter",
+          1809,
+          1888
+        ],
+        [
+          "Bruder",
+          "Daniel V\u00f6lter",
+          1814,
+          1865
+        ],
+        [
+          "Bruder",
+          "Friedrich V\u00f6lter",
+          1825,
+          1910
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1836,
+        1837,
+        1838,
+        1839,
+        1840,
+        1841
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1836,
+          "1836-11-07",
+          "WS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Christian V\u00f6lter 1816"
+    },
+    {
+      "name": "Friedrich V\u00f6lter",
+      "year_of_birth": 1825,
+      "year_of_death": 1910,
+      "id": "Friedrich V\u00f6lter 1825"
+    },
+    {
+      "name": "Johannes V\u00f6lter",
+      "year_of_birth": 1804,
+      "year_of_death": 1899,
+      "id": "Johannes V\u00f6lter 1804"
+    },
+    {
+      "name": "Daniel V\u00f6lter",
+      "year_of_birth": 1814,
+      "year_of_death": 1865,
+      "Bestellsignatur": "UAT 40/236,29",
+      "Nachname": "Voelter",
+      "Vorname": "Daniel",
+      "Geburtsdatum": "20.8.1814",
+      "Geburtsort": null,
+      "Todesdatum": "22.4.1865",
+      "Sterbeort": "Esslingen a.N",
+      "Konfession": null,
+      "Mitgliedschaft": null,
+      "Vater_name": "Christoph Erhard Michael Voelter",
+      "Vater_Beruf": "Schulmeister",
+      "Vater_Beruf_Ort": " Metzingenannt",
+      "Fach": "evangelische Theologie",
+      "Ort": "Metzingen",
+      "Beruf": "Geograph und Kartograph, zuletzt      Prof am Schullehrerseminar in Esslingen",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Johannes V\u00f6lter",
+          1804,
+          1899
+        ],
+        [
+          "Bruder",
+          "Ferdinand August V\u00f6lter",
+          1806,
+          1885
+        ],
+        [
+          "Bruder",
+          "Louis V\u00f6lter",
+          1809,
+          1888
+        ],
+        [
+          "Bruder",
+          "Christian V\u00f6lter",
+          1816,
+          1890
+        ],
+        [
+          "Bruder",
+          "Friedrich V\u00f6lter",
+          1825,
+          1910
+        ],
+        [
+          "Schwager",
+          "Johann Gottlob Friedrich Bunz",
+          1799,
+          1856
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1833,
+        1834,
+        1835,
+        1836,
+        1837
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1833,
+          "1833-05-15",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Daniel V\u00f6lter 1814"
+    },
+    {
+      "name": "Johann Gottlob Friedrich Bunz",
+      "year_of_birth": 1799,
+      "year_of_death": 1856,
+      "id": "Johann Gottlob Friedrich Bunz 1799"
+    },
+    {
+      "name": "Louis V\u00f6lter",
+      "year_of_birth": 1809,
+      "year_of_death": 1888,
+      "id": "Louis V\u00f6lter 1809"
+    },
+    {
+      "name": "Theodor Mauz",
+      "year_of_birth": 1870,
+      "year_of_death": null,
+      "Bestellsignatur": "UAT 40/140,109",
+      "Nachname": "Mauz",
+      "Vorname": "Theodor",
+      "Geburtsdatum": "27.6.1870",
+      "Geburtsort": null,
+      "Todesdatum": "11.9.1947",
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Gottlieb Mauz",
+      "Vater_Beruf": "Apotheker",
+      "Vater_Beruf_Ort": " Esslingenannt",
+      "Fach": "rer.NaturwissenschaftenHospitierender",
+      "Ort": "Esslingen",
+      "Beruf": "DrrerNaturwissenschaften T\u00fcbingen (Rigorosum:      29101896)",
+      "Verwandtschaft": [
+        [
+          "Gro\u00dfvater",
+          "Johann Gottlob Friedrich Bunz",
+          1799,
+          1856
+        ],
+        [
+          "Bruder",
+          "Immanuel Mauz",
+          1864,
+          1935
+        ],
+        [
+          "Bruder",
+          "Paul Mauz",
+          1872,
+          1920
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1891,
+        1892,
+        1893,
+        1894,
+        1895
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1891,
+          null,
+          "WS",
+          "pharm."
+        ]
+      ],
+      "student": true,
+      "id": "Theodor Mauz 1870"
+    },
+    {
+      "name": "Immanuel Mauz",
+      "year_of_birth": 1864,
+      "year_of_death": 1935,
+      "Bestellsignatur": "UAT 40/140,106",
+      "Nachname": "Mauz",
+      "Vorname": "Immanuel [(Immanuel Ernst)]",
+      "Geburtsdatum": "5.11.1864",
+      "Geburtsort": null,
+      "Todesdatum": "9.7.1935",
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": "Verbindung Virtembergia.",
+      "Vater_name": "Gottlieb Mauz",
+      "Vater_Beruf": "Apotheker",
+      "Vater_Beruf_Ort": " Esslingenannt",
+      "Fach": "Medizin",
+      "Ort": "Esslingen",
+      "Beruf": "DrMedizin, chir et obst      T\u00fcbingen (Diplom: 2331889)",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Theodor Mauz",
+          1870,
+          null
+        ],
+        [
+          "Bruder",
+          "Paul Mauz",
+          1872,
+          1920
+        ],
+        [
+          "Gro\u00dfvater",
+          "Johann Gottlob Friedrich Bunz",
+          1799,
+          1856
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1883,
+        1884,
+        1885,
+        1886,
+        1887,
+        1888
+      ],
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "id": "Immanuel Mauz 1864"
+    },
+    {
+      "Vater_Beruf": "Schulmeister",
+      "Vater_Beruf_Ort": " Metzingenannt",
+      "id": "Christoph Erhard Michael V\u00f6lter"
+    },
+    {
+      "Vater_Beruf": "Apotheker",
+      "Vater_Beruf_Ort": " Esslingenannt",
+      "id": "Gottlieb Mauz"
+    }
+  ],
+  "links": [
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Ferdinand August V\u00f6lter 1806",
+      "target": "Johannes V\u00f6lter 1804"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Ferdinand August V\u00f6lter 1806",
+      "target": "Louis V\u00f6lter 1809"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Ferdinand August V\u00f6lter 1806",
+      "target": "Daniel V\u00f6lter 1814"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Ferdinand August V\u00f6lter 1806",
+      "target": "Christian V\u00f6lter 1816"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Ferdinand August V\u00f6lter 1806",
+      "target": "Friedrich V\u00f6lter 1825"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Ferdinand August V\u00f6lter 1806",
+      "target": "Christoph Erhard Michael V\u00f6lter"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Paul Mauz 1872",
+      "target": "Theodor Mauz 1870"
+    },
+    {
+      "verwandtschaftsgrad": "Gro\u00dfvater",
+      "source": "Paul Mauz 1872",
+      "target": "Johann Gottlob Friedrich Bunz 1799"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Paul Mauz 1872",
+      "target": "Immanuel Mauz 1864"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Paul Mauz 1872",
+      "target": "Gottlieb Mauz"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Christian V\u00f6lter 1816",
+      "target": "Friedrich V\u00f6lter 1825"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Christian V\u00f6lter 1816",
+      "target": "Johannes V\u00f6lter 1804"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Christian V\u00f6lter 1816",
+      "target": "Daniel V\u00f6lter 1814"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Christian V\u00f6lter 1816",
+      "target": "Louis V\u00f6lter 1809"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Christian V\u00f6lter 1816",
+      "target": "Christoph Erhard Michael V\u00f6lter"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Friedrich V\u00f6lter 1825",
+      "target": "Daniel V\u00f6lter 1814"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Johannes V\u00f6lter 1804",
+      "target": "Daniel V\u00f6lter 1814"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Daniel V\u00f6lter 1814",
+      "target": "Louis V\u00f6lter 1809"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Daniel V\u00f6lter 1814",
+      "target": "Johann Gottlob Friedrich Bunz 1799"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Daniel V\u00f6lter 1814",
+      "target": "Christoph Erhard Michael V\u00f6lter"
+    },
+    {
+      "verwandtschaftsgrad": "Gro\u00dfvater",
+      "source": "Johann Gottlob Friedrich Bunz 1799",
+      "target": "Theodor Mauz 1870"
+    },
+    {
+      "verwandtschaftsgrad": "Gro\u00dfvater",
+      "source": "Johann Gottlob Friedrich Bunz 1799",
+      "target": "Immanuel Mauz 1864"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Theodor Mauz 1870",
+      "target": "Immanuel Mauz 1864"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Theodor Mauz 1870",
+      "target": "Gottlieb Mauz"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Immanuel Mauz 1864",
+      "target": "Gottlieb Mauz"
+    }
+  ]
+}

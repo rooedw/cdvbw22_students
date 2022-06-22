@@ -1,0 +1,966 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "name": "Ernst Ge\u00dfler",
+      "year_of_birth": 1818,
+      "year_of_death": 1884,
+      "Bestellsignatur": "UAT 40/69,112",
+      "Nachname": "Gessler",
+      "Vorname": "Ernst",
+      "Geburtsdatum": "27.10.1818",
+      "Geburtsort": "Stuttgart",
+      "Todesdatum": "12.12.1884",
+      "Sterbeort": "Stuttgart",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "[Friedrich (Johann Christian Ludwig Friedrich)] Ge\u00dfler",
+      "Vater_Beruf": "Kameralverwalter",
+      "Vater_Beruf_Ort": " Ellwangenannt",
+      "Fach": "Jura",
+      "Ort": "Stuttgart",
+      "Beruf": "W\u00fcrtt Innenmininster, zuletzt Rat beim Verwaltungsgerichtshof in Stuttgart",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Theodor Ge\u00dfler",
+          1824,
+          1886
+        ],
+        [
+          "Schwager",
+          "Friedrich Ludwig Gaupp",
+          1832,
+          1901
+        ],
+        [
+          "Schwager",
+          "August Goez",
+          1809,
+          1866
+        ],
+        [
+          "Schwager",
+          "Carl Friedrich Goez",
+          1844,
+          1915
+        ]
+      ],
+      "Studienorte": [
+        [
+          1840,
+          "SS",
+          "T\u00fcbingen"
+        ],
+        [
+          1840,
+          "SS",
+          "Heidelberg"
+        ]
+      ],
+      "Studienjahre": [
+        1836,
+        1837,
+        1838,
+        1839,
+        1840,
+        1841
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1840,
+          "1840-05-09",
+          "SS",
+          null
+        ],
+        [
+          1836,
+          "1836-11-07",
+          "WS",
+          null
+        ],
+        [
+          1840,
+          "1840-05-25",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Ernst Gessler 1818"
+    },
+    {
+      "Bestellsignatur": "UAT 40/67,50",
+      "Nachname": "Gaupp",
+      "Vorname": "Friedrich Ludwig",
+      "Geburtsdatum": "10.12.1832",
+      "Geburtsort": "Ellwangen",
+      "Todesdatum": "6.7.1901",
+      "Sterbeort": "T\u00fcbingen",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Ludwig Gaupp (1796-1873)",
+      "Vater_Beruf": "Vizedirektor dann Gerichtshofdirektor",
+      "Vater_Beruf_Ort": " Ellwangenannt",
+      "Fach": "Jura",
+      "Ort": "Ellwangen",
+      "Beruf": "HonProf f\u00fcr Zivilproze\u00df- und w\u00fcrtt Privatrecht in T\u00fcbingen",
+      "Verwandtschaft": [
+        [
+          "Schwager",
+          "Ernst Gessler",
+          1818,
+          1884
+        ],
+        [
+          "Schwager",
+          "Theodor Gessler",
+          1824,
+          1886
+        ],
+        [
+          "Schwager",
+          "Carl Friedrich Goez",
+          1844,
+          1915
+        ]
+      ],
+      "Studienorte": [
+        [
+          1852,
+          "WS",
+          "T\u00fcbingen"
+        ]
+      ],
+      "Studienjahre": [
+        1849,
+        1850,
+        1851,
+        1852,
+        1853,
+        1854
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1849,
+          "1849-10-18",
+          "WS",
+          null
+        ],
+        [
+          1852,
+          "1852-10-25",
+          "WS",
+          null
+        ],
+        [
+          1849,
+          "1849-11-28",
+          "WS",
+          null
+        ],
+        [
+          1852,
+          "1852-12-04",
+          "WS",
+          null
+        ]
+      ],
+      "student": true,
+      "name": "Friedrich Ludwig Gaupp",
+      "year_of_birth": 1832,
+      "year_of_death": 1901,
+      "id": "Friedrich Ludwig Gaupp 1832"
+    },
+    {
+      "name": "August Goez",
+      "year_of_birth": 1809,
+      "year_of_death": 1866,
+      "id": "August Goez 1809"
+    },
+    {
+      "Bestellsignatur": "UAT 40/205,2",
+      "Nachname": "Schwab",
+      "Vorname": "Christoph Eugen Otto Heinrich",
+      "Geburtsdatum": "28.3.1819",
+      "Geburtsort": null,
+      "Todesdatum": null,
+      "Sterbeort": null,
+      "Konfession": null,
+      "Mitgliedschaft": null,
+      "Vater_name": "[Carl Heinrich] von Schwab",
+      "Vater_Beruf": "Geheimrat",
+      "Vater_Beruf_Ort": " Stuttgart",
+      "Fach": "Jura",
+      "Ort": "Stuttgart",
+      "Beruf": null,
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Carl Gustav Schwab",
+          1810,
+          1890
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1838,
+        1839
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1838,
+          "1838-11-03",
+          "WS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Christoph Eugen Otto Heinrich Schwab 1819"
+    },
+    {
+      "Bestellsignatur": "UAT 40/217,44",
+      "Nachname": "St\u00e4lin",
+      "Vorname": "Paul [(Paul Friedrich)]",
+      "Geburtsdatum": "23.10.1840",
+      "Geburtsort": null,
+      "Todesdatum": "1.4.1909",
+      "Sterbeort": "Stuttgart",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "[Christoph] Friedrich St\u00e4lin (1805-1873)",
+      "Vater_Beruf": "Oberstudienrat",
+      "Vater_Beruf_Ort": " Stuttgart",
+      "Fach": "Jura",
+      "Ort": "Stuttgart",
+      "Beruf": "Direktor des k\u00f6niglich Geheimen Haus- und Staatsarchivs in Stuttgart, Schriftsteller",
+      "Verwandtschaft": [
+        [
+          "Schwiegervater",
+          "Theodor Ge\u00dfler",
+          1824,
+          1886
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1858,
+        1859,
+        1860,
+        1861,
+        1862,
+        1863
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1858,
+          "1858-10-23",
+          "WS",
+          null
+        ],
+        [
+          1860,
+          "1860-04-21",
+          "SS",
+          null
+        ],
+        [
+          1858,
+          "1858-11-17",
+          "WS",
+          null
+        ],
+        [
+          1860,
+          "1860-05-12",
+          "SS",
+          null
+        ],
+        [
+          1861,
+          "1861-10-22",
+          "WS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Paul [(Paul Friedrich)] St\u00e4lin 1840"
+    },
+    {
+      "name": "Friedrich Ludwig Adolf Gaupp",
+      "year_of_birth": 1832,
+      "year_of_death": 1901,
+      "id": "Friedrich Ludwig Adolf Gaupp 1832"
+    },
+    {
+      "Bestellsignatur": "UAT 40/104,92",
+      "Nachname": "Jaeger",
+      "Vorname": "Hermann (Hermann Friedrich)",
+      "Geburtsdatum": "30.11.1814",
+      "Geburtsort": null,
+      "Todesdatum": null,
+      "Sterbeort": null,
+      "Konfession": null,
+      "Mitgliedschaft": null,
+      "Vater_name": "Georg [(Georg Fridrich)] J\u00e4ger",
+      "Vater_Beruf": "Professor und sp\u00e4ter Obermedizinalrat",
+      "Vater_Beruf_Ort": " Stuttgart",
+      "Fach": "Medizin",
+      "Ort": "Stuttgart",
+      "Beruf": null,
+      "Verwandtschaft": [
+        [
+          "Halbbruder",
+          "Oskar J\u00e4ger",
+          1830,
+          1910
+        ],
+        [
+          "Schwager",
+          "Wilhelm Mehl",
+          1807,
+          null
+        ],
+        [
+          "Schwager",
+          "Carl Gustav Schwab",
+          1810,
+          1890
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1833,
+        1834,
+        1835,
+        1836,
+        1837
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1833,
+          "1833-05-15",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Hermann (Hermann Friedrich) Jaeger 1814"
+    },
+    {
+      "name": "Carl Gustav Schwab",
+      "year_of_birth": 1810,
+      "year_of_death": 1890,
+      "id": "Carl Gustav Schwab 1810"
+    },
+    {
+      "name": "Theodor Ge\u00dfler",
+      "year_of_birth": 1824,
+      "year_of_death": 1886,
+      "id": "Theodor Ge\u00dfler 1824"
+    },
+    {
+      "name": "Ludwig G\u00f6z",
+      "year_of_birth": 1845,
+      "year_of_death": null,
+      "Bestellsignatur": "UAT 40/72,103",
+      "Nachname": "G\u00f6z",
+      "Vorname": "Ludwig",
+      "Geburtsdatum": "30.9.1845",
+      "Geburtsort": "Ellwangen",
+      "Todesdatum": null,
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "August G\u00f6z (1809-1866)",
+      "Vater_Beruf": "Oberjustizrat",
+      "Vater_Beruf_Ort": " T\u00fcbingenannt",
+      "Fach": "Jura",
+      "Ort": "T\u00fcbingen",
+      "Beruf": null,
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Carl Friedrich Goez",
+          1844,
+          1915
+        ],
+        [
+          "Bruder",
+          "Otto G\u00f6z",
+          1848,
+          null
+        ],
+        [
+          "Bruder",
+          "August G\u00f6z",
+          1854,
+          null
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1862,
+        1863,
+        1864,
+        1865,
+        1866,
+        1867,
+        1868
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1862,
+          "1862-10-22",
+          "WS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Ludwig G\u00f6z 1845"
+    },
+    {
+      "name": "Carl Friedrich G\u00f6z",
+      "year_of_birth": 1844,
+      "year_of_death": 1915,
+      "Bestellsignatur": "UAT 40/72,95",
+      "Nachname": "Goez",
+      "Vorname": "Carl Friedrich",
+      "Geburtsdatum": "7.3.1844",
+      "Geburtsort": "Ellwangen",
+      "Todesdatum": "14.11.1915",
+      "Sterbeort": "Stuttgart",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "A[ugust (August Friedrich) von] Goez (1809-1866)",
+      "Vater_Beruf": "Oberjustizrat",
+      "Vater_Beruf_Ort": " T\u00fcbingenannt",
+      "Fach": "Jura",
+      "Ort": "T\u00fcbingen",
+      "Beruf": "Lehrbeauftragter      f\u00fcr Zivilp\u00fcroze\u00dfrecht (als Vertreter des Kanzlers Theodor von Ge\u00dfler) in T\u00fcbingen, zuletzt Pr\u00e4sident des Verwaltungsgerichtshofs      in Stuttgart",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Ludwig G\u00f6z",
+          1845,
+          null
+        ],
+        [
+          "Bruder",
+          "August G\u00f6z",
+          1854,
+          null
+        ],
+        [
+          "Bruder",
+          "Otto G\u00f6z",
+          1848,
+          null
+        ],
+        [
+          "Schwiegervater",
+          "Carl Gustav Schwab",
+          1810,
+          1890
+        ],
+        [
+          "Schwager",
+          "Friedrich Ludwig Adolf Gaupp",
+          1832,
+          1901
+        ]
+      ],
+      "Studienorte": [
+        [
+          1863,
+          "SS",
+          "T\u00fcbingen"
+        ]
+      ],
+      "Studienjahre": [
+        1862,
+        1863,
+        1864,
+        1865,
+        1866
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1862,
+          "1862-04-26",
+          "SS",
+          null
+        ],
+        [
+          1863,
+          "1863-04-24",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Carl Friedrich Goez 1844"
+    },
+    {
+      "name": "August G\u00f6z",
+      "year_of_birth": 1854,
+      "year_of_death": 1929,
+      "Bestellsignatur": "UAT 40/72,92",
+      "Nachname": "G\u00f6z",
+      "Vorname": "August",
+      "Geburtsdatum": "11.3.1854",
+      "Geburtsort": "Ulm",
+      "Todesdatum": "18.3.1929",
+      "Sterbeort": "T\u00fcbingen",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "verstorben August G\u00f6z (1809-1866)",
+      "Vater_Beruf": "Oberjustizrat",
+      "Vater_Beruf_Ort": " T\u00fcbingenannt",
+      "Fach": "Medizin",
+      "Ort": "T\u00fcbingen",
+      "Beruf": "DrMedizin, chir et obst T\u00fcbingen (Diplom: 1871879)",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Carl Friedrich Goez",
+          1844,
+          1915
+        ],
+        [
+          "Bruder",
+          "Ludwig G\u00f6z",
+          1845,
+          null
+        ],
+        [
+          "Bruder",
+          "Otto G\u00f6z",
+          1848,
+          null
+        ],
+        [
+          "Schwager",
+          "Otto W\u00f6rner",
+          1857,
+          null
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1873,
+        1874,
+        1875,
+        1876,
+        1877,
+        1878,
+        1879
+      ],
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "id": "August G\u00f6z 1854"
+    },
+    {
+      "name": "Oskar J\u00e4ger",
+      "year_of_birth": 1830,
+      "year_of_death": 1910,
+      "id": "Oskar J\u00e4ger 1830"
+    },
+    {
+      "Bestellsignatur": "UAT 40/254,38",
+      "Nachname": "W\u00f6rner",
+      "Vorname": "Otto [(Christian Otto)]",
+      "Geburtsdatum": "22.10.1857",
+      "Geburtsort": null,
+      "Todesdatum": null,
+      "Sterbeort": null,
+      "Konfession": null,
+      "Mitgliedschaft": null,
+      "Vater_name": "verstorben August [(Christian August)] W\u00f6rner",
+      "Vater_Beruf": "Kaufmann",
+      "Vater_Beruf_Ort": " Stuttgart",
+      "Fach": "Seminarist (Angeh\u00f6riger des Evangelischen Stifts)narist (Angeh\u00f6riger des Evangelischen Stifts), meistens Studierender der ev. Theologie",
+      "Ort": "Stuttgart",
+      "Beruf": null,
+      "Verwandtschaft": [
+        [
+          "Schwager",
+          "August G\u00f6z",
+          1854,
+          1929
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1875,
+        1876,
+        1877,
+        1878,
+        1879,
+        1880,
+        1881
+      ],
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "name": "Otto W\u00f6rner",
+      "year_of_birth": 1857,
+      "year_of_death": null,
+      "id": "Otto [(Christian Otto)] W\u00f6rner 1857"
+    },
+    {
+      "name": "Wilhelm Mehl",
+      "year_of_birth": 1807,
+      "year_of_death": null,
+      "id": "Wilhelm Mehl 1807"
+    },
+    {
+      "name": "Theodor Gessler",
+      "year_of_birth": 1824,
+      "year_of_death": 1886,
+      "Bestellsignatur": "UAT 40/69,124",
+      "Nachname": "Gessler",
+      "Vorname": "Theodor",
+      "Geburtsdatum": "16.8.1824",
+      "Geburtsort": null,
+      "Todesdatum": "27.7.1886",
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Friedrich [(Johann Christian Ludwig Friedrich)] Ge\u00dfler",
+      "Vater_Beruf": "Kameralverwalter",
+      "Vater_Beruf_Ort": " Ellwangenannt",
+      "Fach": "evangelische Theologie",
+      "Ort": "Ellwangen",
+      "Beruf": "DrPhilosophie, philosophisch honoris causa (ehrenhalber) T\u00fcbingen (1877)",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Ernst Ge\u00dfler",
+          1818,
+          1884
+        ],
+        [
+          "Schwager",
+          "Friedrich Ludwig Gaupp",
+          1832,
+          1901
+        ],
+        [
+          "Schwager",
+          "August Goez",
+          1809,
+          1866
+        ],
+        [
+          "Schwager",
+          "Carl Friedrich G\u00f6z",
+          1844,
+          1915
+        ]
+      ],
+      "Studienorte": [
+        [
+          1843,
+          "SS",
+          "T\u00fcbingen"
+        ],
+        [
+          1843,
+          "SS",
+          "Heidelberg"
+        ]
+      ],
+      "Studienjahre": [
+        1841,
+        1842,
+        1843,
+        1844,
+        1845
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1841,
+          "1841-04-21",
+          "SS",
+          "ev.theol."
+        ],
+        [
+          1843,
+          "1843-05-04",
+          "SS",
+          "iur."
+        ],
+        [
+          1843,
+          "1843-05-12",
+          "SS",
+          "iur."
+        ]
+      ],
+      "student": true,
+      "id": "Theodor Gessler 1824"
+    },
+    {
+      "name": "Otto G\u00f6z",
+      "year_of_birth": 1848,
+      "year_of_death": null,
+      "Bestellsignatur": "UAT 40/72,104",
+      "Nachname": "G\u00f6z",
+      "Vorname": "Otto",
+      "Geburtsdatum": "23.3.1848",
+      "Geburtsort": "Ellwangen",
+      "Todesdatum": null,
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "[1868 verstorben August] G\u00f6z (1809-1866)",
+      "Vater_Beruf": "Oberjustizrat",
+      "Vater_Beruf_Ort": " T\u00fcbingenannt",
+      "Fach": "JuraHospitierender",
+      "Ort": "T\u00fcbingen",
+      "Beruf": null,
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Carl Friedrich Goez",
+          1844,
+          1915
+        ],
+        [
+          "Bruder",
+          "Ludwig G\u00f6z",
+          1845,
+          null
+        ],
+        [
+          "Bruder",
+          "August G\u00f6z",
+          1854,
+          null
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1866,
+        1867,
+        1868,
+        1869,
+        1870,
+        1871,
+        1872
+      ],
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "id": "Otto G\u00f6z 1848"
+    },
+    {
+      "Vater_Beruf": "Kameralverwalter",
+      "Vater_Beruf_Ort": " Ellwangenannt",
+      "id": "Friedrich (Johann Christian Ludwig Friedrich) Ge\u00dfler"
+    },
+    {
+      "Vater_Beruf": "Vizedirektor dann Gerichtshofdirektor",
+      "Vater_Beruf_Ort": " Ellwangenannt",
+      "id": "Ludwig Gaupp (1796-1873)"
+    },
+    {
+      "Vater_Beruf": "Geheimrat",
+      "Vater_Beruf_Ort": " Stuttgart",
+      "id": "[Carl Heinrich] von Schwab"
+    },
+    {
+      "Vater_Beruf": "Oberstudienrat",
+      "Vater_Beruf_Ort": " Stuttgart",
+      "id": "[Christoph] Friedrich St\u00e4lin (1805-1873)"
+    },
+    {
+      "Vater_Beruf": "Professor und sp\u00e4ter Obermedizinalrat",
+      "Vater_Beruf_Ort": " Stuttgart",
+      "id": "Georg [(Georg Fridrich)] J\u00e4ger"
+    },
+    {
+      "Vater_Beruf": "Oberjustizrat",
+      "Vater_Beruf_Ort": " T\u00fcbingenannt",
+      "id": "August G\u00f6z (1809-1866)"
+    },
+    {
+      "Vater_Beruf": "Kaufmann",
+      "Vater_Beruf_Ort": " Stuttgart",
+      "id": "August [(Christian August)] W\u00f6rner"
+    }
+  ],
+  "links": [
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Ernst Gessler 1818",
+      "target": "Friedrich Ludwig Gaupp 1832"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Ernst Gessler 1818",
+      "target": "Theodor Ge\u00dfler 1824"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Ernst Gessler 1818",
+      "target": "August Goez 1809"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Ernst Gessler 1818",
+      "target": "Carl Friedrich Goez 1844"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Ernst Gessler 1818",
+      "target": "Theodor Gessler 1824"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Ernst Gessler 1818",
+      "target": "Friedrich (Johann Christian Ludwig Friedrich) Ge\u00dfler"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Friedrich Ludwig Gaupp 1832",
+      "target": "Theodor Gessler 1824"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Friedrich Ludwig Gaupp 1832",
+      "target": "Carl Friedrich Goez 1844"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Friedrich Ludwig Gaupp 1832",
+      "target": "Ludwig Gaupp (1796-1873)"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "August Goez 1809",
+      "target": "Theodor Gessler 1824"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Christoph Eugen Otto Heinrich Schwab 1819",
+      "target": "Carl Gustav Schwab 1810"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Christoph Eugen Otto Heinrich Schwab 1819",
+      "target": "[Carl Heinrich] von Schwab"
+    },
+    {
+      "verwandtschaftsgrad": "Schwiegervater",
+      "source": "Paul [(Paul Friedrich)] St\u00e4lin 1840",
+      "target": "Theodor Ge\u00dfler 1824"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Paul [(Paul Friedrich)] St\u00e4lin 1840",
+      "target": "[Christoph] Friedrich St\u00e4lin (1805-1873)"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Friedrich Ludwig Adolf Gaupp 1832",
+      "target": "Carl Friedrich Goez 1844"
+    },
+    {
+      "verwandtschaftsgrad": "Halbbruder",
+      "source": "Hermann (Hermann Friedrich) Jaeger 1814",
+      "target": "Oskar J\u00e4ger 1830"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Hermann (Hermann Friedrich) Jaeger 1814",
+      "target": "Wilhelm Mehl 1807"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Hermann (Hermann Friedrich) Jaeger 1814",
+      "target": "Carl Gustav Schwab 1810"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Hermann (Hermann Friedrich) Jaeger 1814",
+      "target": "Georg [(Georg Fridrich)] J\u00e4ger"
+    },
+    {
+      "verwandtschaftsgrad": "Schwiegervater",
+      "source": "Carl Gustav Schwab 1810",
+      "target": "Carl Friedrich Goez 1844"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Ludwig G\u00f6z 1845",
+      "target": "Carl Friedrich Goez 1844"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Ludwig G\u00f6z 1845",
+      "target": "August G\u00f6z 1854"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Ludwig G\u00f6z 1845",
+      "target": "Otto G\u00f6z 1848"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Ludwig G\u00f6z 1845",
+      "target": "August G\u00f6z (1809-1866)"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Carl Friedrich Goez 1844",
+      "target": "August G\u00f6z 1854"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Carl Friedrich Goez 1844",
+      "target": "Otto G\u00f6z 1848"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Carl Friedrich Goez 1844",
+      "target": "Theodor Gessler 1824"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Carl Friedrich Goez 1844",
+      "target": "August G\u00f6z (1809-1866)"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "August G\u00f6z 1854",
+      "target": "Otto G\u00f6z 1848"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "August G\u00f6z 1854",
+      "target": "Otto [(Christian Otto)] W\u00f6rner 1857"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "August G\u00f6z 1854",
+      "target": "August G\u00f6z (1809-1866)"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Otto [(Christian Otto)] W\u00f6rner 1857",
+      "target": "August [(Christian August)] W\u00f6rner"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Theodor Gessler 1824",
+      "target": "Friedrich (Johann Christian Ludwig Friedrich) Ge\u00dfler"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Otto G\u00f6z 1848",
+      "target": "August G\u00f6z (1809-1866)"
+    }
+  ]
+}

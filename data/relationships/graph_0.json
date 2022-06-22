@@ -1,0 +1,747 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "Bestellsignatur": "UAT 40/7,67",
+      "Nachname": "Bacmeister",
+      "Vorname": "Ernst [(Ernst Hermann)]",
+      "Geburtsdatum": "13.9.1862",
+      "Geburtsort": null,
+      "Todesdatum": null,
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Hermann [(Lukas Hermann)] Bacmeister",
+      "Vater_Beruf": "Kanzleirat",
+      "Vater_Beruf_Ort": " Stuttgart",
+      "Fach": "Philosophie, philosophisch",
+      "Ort": "Stuttgart",
+      "Beruf": "Zugelassen zur 1 h\u00f6heren Finanzdienstpr\u00fcfung Herbst 1886",
+      "Verwandtschaft": [
+        [
+          "Schwiegervater",
+          "Wilhelm Eidenbenz",
+          1830,
+          1901
+        ]
+      ],
+      "Studienorte": [
+        [
+          null,
+          null,
+          "T\u00fcbingen"
+        ],
+        [
+          null,
+          null,
+          "M\u00fcnchen"
+        ],
+        [
+          null,
+          null,
+          "T\u00fcbingen"
+        ]
+      ],
+      "Studienjahre": [
+        1881,
+        1882,
+        1883,
+        1884,
+        1885,
+        1886
+      ],
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "id": "Ernst [(Ernst Hermann)] Bacmeister 1862"
+    },
+    {
+      "Bestellsignatur": "UAT 40/51,33",
+      "Nachname": "Eidenbenz",
+      "Vorname": "Adolf",
+      "Geburtsdatum": "11.3.1836",
+      "Geburtsort": null,
+      "Todesdatum": "29.12.1889",
+      "Sterbeort": "K\u00f6nigseld",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "verstorben Christian [Gotthilf David] Eidenbenz",
+      "Vater_Beruf": "Professor",
+      "Vater_Beruf_Ort": " Ellwangenannt",
+      "Fach": "PharmazieHospitierender",
+      "Ort": "Ellwangen",
+      "Beruf": "Apotheker in Seilern      beiZ\u00fcrich (Schweiz)",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Paul Eidenbenz",
+          1824,
+          1867
+        ],
+        [
+          "Bruder",
+          "Wilhelm Eidenbenz",
+          1830,
+          1901
+        ],
+        [
+          "Bruder",
+          "Albert Eidenbenz",
+          1833,
+          null
+        ],
+        [
+          "Schwager",
+          "Friedrich  Carl Hochstetter",
+          1816,
+          1884
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1860,
+        1861
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1860,
+          "1860-10-26",
+          "WS",
+          null
+        ],
+        [
+          1860,
+          "1860-11-14",
+          "WS",
+          null
+        ]
+      ],
+      "student": true,
+      "name": "Adolf Eidenbenz",
+      "year_of_birth": 1836,
+      "year_of_death": 1889,
+      "id": "Adolf Eidenbenz 1836"
+    },
+    {
+      "Bestellsignatur": "UAT 40/51,35",
+      "Nachname": "Eidenbenz",
+      "Vorname": "Paul [(Paul Christian Eberhard)]",
+      "Geburtsdatum": "30.9.1824",
+      "Geburtsort": null,
+      "Todesdatum": "7.2.1867",
+      "Sterbeort": "Z\u00fcrich\u00adSchweiz",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "verstorben [Christian Gotthilf David] Eidenbenz",
+      "Vater_Beruf": "Stadtpfarrer und Prof",
+      "Vater_Beruf_Ort": " Ellwangenannt",
+      "Fach": "Kameralwissenschaft",
+      "Ort": "Ellwangen",
+      "Beruf": "Besch\u00e4ftigt im Kameralamtz in Kapfenburg und in Ellwangenannt      Fiel als 12 j\u00e4riger Knabe durch das Heuloch einer Scheune auf eine Putzm\u00fchle, war infolge dieses Sturzes lang krank, konnte      aber doch in T\u00fcbingen Kameralien studieren und war im Kameralamt auf der Kapsenburg und in Ellwangen besch\u00e4ftigt Geistige      St\u00f6rungen verlassten seine Ubersiedlung nach Z\u00fcrich, wo er bei seinen Br\u00fcdern Besch\u00e4ftigung fand",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Wilhelm Eidenbenz",
+          1830,
+          1901
+        ],
+        [
+          "Bruder",
+          "Albert Eidenbenz",
+          1833,
+          null
+        ],
+        [
+          "Bruder",
+          "Adolf Eidenbenz",
+          1836,
+          1889
+        ],
+        [
+          "Schwager",
+          "Friedrich Carl Hochstetter",
+          1816,
+          1884
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1842,
+        1843,
+        1844,
+        1845,
+        1846,
+        1847
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1845,
+          "1845-11-01",
+          "WS",
+          null
+        ],
+        [
+          1845,
+          "1845-11-17",
+          "WS",
+          null
+        ]
+      ],
+      "student": true,
+      "name": "Paul Eidenbenz",
+      "year_of_birth": 1824,
+      "year_of_death": 1867,
+      "id": "Paul [(Paul Christian Eberhard)] Eidenbenz 1824"
+    },
+    {
+      "name": "Carl Wilhelm Heinrich Andler",
+      "year_of_birth": 1816,
+      "year_of_death": null,
+      "Bestellsignatur": "UAT 40/4,111",
+      "Nachname": "Andler",
+      "Vorname": "Wilhelm (Carl Wilhelm Heinrich)",
+      "Geburtsdatum": "27.11.1816",
+      "Geburtsort": "Calw",
+      "Todesdatum": "vor 1884",
+      "Sterbeort": null,
+      "Konfession": null,
+      "Mitgliedschaft": null,
+      "Vater_name": "[Rudolph Friedrich Wilhem] Andler",
+      "Vater_Beruf": "Dekan",
+      "Vater_Beruf_Ort": " Neuenstadt",
+      "Fach": "Seminarist (Angeh\u00f6riger des Evangelischen Stifts)narist (Angeh\u00f6riger des Evangelischen Stifts), meistens Studierender der ev. Theologie (evangelische Theologie)",
+      "Ort": "Neuenstadt",
+      "Beruf": "Pfarrer in Rechenberg",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Heinrich Theodor Andler",
+          1819,
+          1862
+        ],
+        [
+          "Bruder",
+          "Emil Andler",
+          1822,
+          1862
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1835,
+        1836,
+        1837,
+        1838
+      ],
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "id": "Carl Wilhelm Heinrich Andler 1816"
+    },
+    {
+      "Bestellsignatur": "UAT 40/135,43",
+      "Nachname": "Lutz",
+      "Vorname": "Hermann (Hermann Friedrich)",
+      "Geburtsdatum": "11.10.1856",
+      "Geburtsort": null,
+      "Todesdatum": "1.9.1928",
+      "Sterbeort": "\u00d6hringen",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "[Karl] Gottlob Lutz (1818-1888)",
+      "Vater_Beruf": "Apotheker",
+      "Vater_Beruf_Ort": " \u00d6hringenannt",
+      "Fach": "rer.NaturwissenschaftenHospitierender",
+      "Ort": "\u00d6hringen",
+      "Beruf": "Apotheker      in \u00d6hringen",
+      "Verwandtschaft": [
+        [
+          "Schwiegervater",
+          "Wilhelm Eidenbenz",
+          1830,
+          1901
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1880,
+        1881,
+        1882
+      ],
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "id": "Hermann (Hermann Friedrich) Lutz 1856"
+    },
+    {
+      "name": "Friedrich  Carl Hochstetter",
+      "year_of_birth": 1816,
+      "year_of_death": 1884,
+      "id": "Friedrich Carl Hochstetter 1816"
+    },
+    {
+      "name": "Albert Eidenbenz",
+      "year_of_birth": 1833,
+      "year_of_death": null,
+      "id": "Albert Eidenbenz 1833"
+    },
+    {
+      "name": "Heinrich Christian Hochstetter",
+      "year_of_birth": 1819,
+      "year_of_death": null,
+      "Bestellsignatur": "UAT 40/95,42",
+      "Nachname": "Hochstetter",
+      "Vorname": "Heinrich Christian",
+      "Geburtsdatum": "25.3.1819",
+      "Geburtsort": "F\u00fcrfeld",
+      "Todesdatum": "12.6.1884",
+      "Sterbeort": "Obert\u00fcrkheim",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "[Friedrich] Hochstetter",
+      "Vater_Beruf": "Pfarrer",
+      "Vater_Beruf_Ort": " Holzgerlingenannt",
+      "Fach": "Medizin",
+      "Ort": "Holzgerlingen",
+      "Beruf": "Zuletzt Forstmeister in Neuenstadt a Kocher",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Friedrich Karl Hochstetter",
+          1816,
+          1884
+        ],
+        [
+          "Bruder",
+          "Carl Heinrich Hochstetter",
+          1817,
+          1878
+        ],
+        [
+          "Schwager",
+          "Heinrich Theodor Andler",
+          1819,
+          1863
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1836,
+        1837,
+        1838,
+        1839,
+        1840,
+        1841,
+        1842
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1836,
+          "1836-04-25",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Heinrich Christian Hochstetter 1819"
+    },
+    {
+      "name": "Wilhelm Eidenbenz",
+      "year_of_birth": 1830,
+      "year_of_death": 1901,
+      "id": "Wilhelm Eidenbenz 1830"
+    },
+    {
+      "Bestellsignatur": "UAT 40/240,67",
+      "Nachname": "Walz",
+      "Vorname": "Friedrich [(Jakob Friedrich)]",
+      "Geburtsdatum": "5.6.1858",
+      "Geburtsort": null,
+      "Todesdatum": "20.3.1944",
+      "Sterbeort": "Locarno",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Michael Walz",
+      "Vater_Beruf": "L\u00f6wenwirt",
+      "Vater_Beruf_Ort": " Salmbach",
+      "Fach": "Jura",
+      "Ort": "Salmbach/Oberamt Neuenb\u00fcrg",
+      "Beruf": "Handelsredaktor NZZ, dann Mitgr\u00fcnder Tages-Anzeiger, Verleger",
+      "Verwandtschaft": [
+        [
+          "Schwiegervater",
+          "Wilhelm Eidenbenz",
+          1830,
+          1901
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1876,
+        1877,
+        1878
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1876,
+          "1876-11-14",
+          "WS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Friedrich [(Jakob Friedrich)] Walz 1858"
+    },
+    {
+      "Bestellsignatur": "UAT 40/4,110",
+      "Nachname": "Andler",
+      "Vorname": "Emil",
+      "Geburtsdatum": "17.3.1822",
+      "Geburtsort": "Calw",
+      "Todesdatum": "1862",
+      "Sterbeort": null,
+      "Konfession": null,
+      "Mitgliedschaft": null,
+      "Vater_name": "Rudolph [Friedrich Wilhem] Andler",
+      "Vater_Beruf": "Dekan",
+      "Vater_Beruf_Ort": " Neuenstadt",
+      "Fach": "Seminarist (Angeh\u00f6riger des Evangelischen Stifts)narist (Angeh\u00f6riger des Evangelischen Stifts), meistens Studierender der ev. Theologie (evangelische Theologie)",
+      "Ort": "Neuenstadt",
+      "Beruf": "Zuletzt Pfarrer in Crailsheim",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Carl Wilhelm Heinrich Andler",
+          1816,
+          null
+        ],
+        [
+          "Bruder",
+          "Heinrich Theodor Andler",
+          1819,
+          1862
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1839,
+        1840,
+        1841,
+        1842,
+        1843,
+        1844,
+        1845
+      ],
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "name": "Emil Andler",
+      "year_of_birth": 1822,
+      "year_of_death": 1862,
+      "id": "Emil Andler 1822"
+    },
+    {
+      "name": "Carl Heinrich Hochstetter",
+      "year_of_birth": 1817,
+      "year_of_death": 1878,
+      "Bestellsignatur": "UAT 40/95,33",
+      "Nachname": "Hochstetter",
+      "Vorname": "Carl Heinrich",
+      "Geburtsdatum": "16.8.1817",
+      "Geburtsort": "F\u00fcrfeld",
+      "Todesdatum": "8.11.1878",
+      "Sterbeort": "Wolfenhausen",
+      "Konfession": null,
+      "Mitgliedschaft": null,
+      "Vater_name": "Friedrich Hochstetter",
+      "Vater_Beruf": "Pfarrer",
+      "Vater_Beruf_Ort": " Holzgerlingenannt",
+      "Fach": "Seminarist (Angeh\u00f6riger des Evangelischen Stifts)narist (Angeh\u00f6riger des Evangelischen Stifts), meistens Studierender der ev. Theologie, [ev.]theol.[opp.]",
+      "Ort": "Holzgerlingen",
+      "Beruf": "Zuletzt Pfarrer in Wolfenhausen",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Friedrich Karl Hochstetter",
+          1816,
+          1884
+        ],
+        [
+          "Bruder",
+          "Heinrich Christian Hochstetter",
+          1819,
+          null
+        ],
+        [
+          "Schwager",
+          "Heinrich Theodor Andler",
+          1819,
+          1863
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1835,
+        1836,
+        1837,
+        1838,
+        1839
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1839,
+          "1839-05-04",
+          "SS",
+          "theol."
+        ]
+      ],
+      "student": true,
+      "id": "Carl Heinrich Hochstetter 1817"
+    },
+    {
+      "Bestellsignatur": "UAT 40/4,52",
+      "Nachname": "Andler",
+      "Vorname": "Heinrich (Heinrich Theodor)",
+      "Geburtsdatum": "17.1.1819",
+      "Geburtsort": "Calw",
+      "Todesdatum": "19.7.1863",
+      "Sterbeort": "Spielberg",
+      "Konfession": null,
+      "Mitgliedschaft": null,
+      "Vater_name": "Rudolph Friedrich Wilh[elm] Andler",
+      "Vater_Beruf": "Dekan",
+      "Vater_Beruf_Ort": " Neuenstadt",
+      "Fach": "evangelische Theologie",
+      "Ort": "Neuenstadt",
+      "Beruf": "Zuletzt      Pfarrer in Spielberg",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Carl Wilhelm Heinrich Andler",
+          1816,
+          null
+        ],
+        [
+          "Bruder",
+          "Emil Andler",
+          1822,
+          1862
+        ],
+        [
+          "Schwager",
+          "Friedrich Carl Hochstetter",
+          1816,
+          1884
+        ],
+        [
+          "Schwager",
+          "Carl Heinrich Hochstetter",
+          1817,
+          1878
+        ],
+        [
+          "Schwager",
+          "Heinrich Christian Hochstetter",
+          1819,
+          null
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1836,
+        1837,
+        1838,
+        1839,
+        1840
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1837,
+          "1837-04-24",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "name": "Heinrich Theodor Andler",
+      "year_of_birth": 1819,
+      "year_of_death": 1863,
+      "id": "Heinrich (Heinrich Theodor) Andler 1819"
+    },
+    {
+      "Vater_Beruf": "Kanzleirat",
+      "Vater_Beruf_Ort": " Stuttgart",
+      "id": "Hermann [(Lukas Hermann)] Bacmeister"
+    },
+    {
+      "Vater_Beruf": "Stadtpfarrer und Professor",
+      "Vater_Beruf_Ort": " Ellwangenannt",
+      "id": "Christian Gotthilf David Eidenbenz"
+    },
+    {
+      "Vater_Beruf": "Dekan",
+      "Vater_Beruf_Ort": " Neuenstadt",
+      "id": "Rudolph Friedrich Wilhelm Andler"
+    },
+    {
+      "Vater_Beruf": "Apotheker",
+      "Vater_Beruf_Ort": " \u00d6hringenannt",
+      "id": "[Karl] Gottlob Lutz (1818-1888)"
+    },
+    {
+      "Vater_Beruf": "L\u00f6wenwirt",
+      "Vater_Beruf_Ort": " Salmbach",
+      "id": "Michael Walz"
+    },
+    {
+      "Vater_Beruf": "Pfarrer",
+      "Vater_Beruf_Ort": " Holzgerlingenannt",
+      "id": "Friedrich Hochstetter"
+    }
+  ],
+  "links": [
+    {
+      "verwandtschaftsgrad": "Schwiegervater",
+      "source": "Ernst [(Ernst Hermann)] Bacmeister 1862",
+      "target": "Wilhelm Eidenbenz 1830"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Ernst [(Ernst Hermann)] Bacmeister 1862",
+      "target": "Hermann [(Lukas Hermann)] Bacmeister"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Adolf Eidenbenz 1836",
+      "target": "Wilhelm Eidenbenz 1830"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Adolf Eidenbenz 1836",
+      "target": "Albert Eidenbenz 1833"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Adolf Eidenbenz 1836",
+      "target": "Paul [(Paul Christian Eberhard)] Eidenbenz 1824"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Adolf Eidenbenz 1836",
+      "target": "Friedrich Carl Hochstetter 1816"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Adolf Eidenbenz 1836",
+      "target": "Christian Gotthilf David Eidenbenz"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Paul [(Paul Christian Eberhard)] Eidenbenz 1824",
+      "target": "Wilhelm Eidenbenz 1830"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Paul [(Paul Christian Eberhard)] Eidenbenz 1824",
+      "target": "Albert Eidenbenz 1833"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Paul [(Paul Christian Eberhard)] Eidenbenz 1824",
+      "target": "Friedrich Carl Hochstetter 1816"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Paul [(Paul Christian Eberhard)] Eidenbenz 1824",
+      "target": "Christian Gotthilf David Eidenbenz"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Carl Wilhelm Heinrich Andler 1816",
+      "target": "Emil Andler 1822"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Carl Wilhelm Heinrich Andler 1816",
+      "target": "Heinrich (Heinrich Theodor) Andler 1819"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Carl Wilhelm Heinrich Andler 1816",
+      "target": "Rudolph Friedrich Wilhelm Andler"
+    },
+    {
+      "verwandtschaftsgrad": "Schwiegervater",
+      "source": "Hermann (Hermann Friedrich) Lutz 1856",
+      "target": "Wilhelm Eidenbenz 1830"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Hermann (Hermann Friedrich) Lutz 1856",
+      "target": "[Karl] Gottlob Lutz (1818-1888)"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Friedrich Carl Hochstetter 1816",
+      "target": "Heinrich (Heinrich Theodor) Andler 1819"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Friedrich Carl Hochstetter 1816",
+      "target": "Heinrich Christian Hochstetter 1819"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Friedrich Carl Hochstetter 1816",
+      "target": "Carl Heinrich Hochstetter 1817"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Heinrich Christian Hochstetter 1819",
+      "target": "Heinrich (Heinrich Theodor) Andler 1819"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Heinrich Christian Hochstetter 1819",
+      "target": "Carl Heinrich Hochstetter 1817"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Heinrich Christian Hochstetter 1819",
+      "target": "Friedrich Hochstetter"
+    },
+    {
+      "verwandtschaftsgrad": "Schwiegervater",
+      "source": "Wilhelm Eidenbenz 1830",
+      "target": "Friedrich [(Jakob Friedrich)] Walz 1858"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Friedrich [(Jakob Friedrich)] Walz 1858",
+      "target": "Michael Walz"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Emil Andler 1822",
+      "target": "Heinrich (Heinrich Theodor) Andler 1819"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Emil Andler 1822",
+      "target": "Rudolph Friedrich Wilhelm Andler"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Carl Heinrich Hochstetter 1817",
+      "target": "Heinrich (Heinrich Theodor) Andler 1819"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Carl Heinrich Hochstetter 1817",
+      "target": "Friedrich Hochstetter"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Heinrich (Heinrich Theodor) Andler 1819",
+      "target": "Rudolph Friedrich Wilhelm Andler"
+    }
+  ]
+}

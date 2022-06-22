@@ -1,0 +1,866 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "name": "Hermann Fulda",
+      "year_of_birth": 1860,
+      "year_of_death": 1936,
+      "id": "Hermann Fulda 1860"
+    },
+    {
+      "name": "Theodor Be\u00dfler",
+      "year_of_birth": 1852,
+      "year_of_death": 1916,
+      "Bestellsignatur": "UAT 40/18,14",
+      "Nachname": "Bessler",
+      "Vorname": "Theodor",
+      "Geburtsdatum": "4.10.1852",
+      "Geburtsort": null,
+      "Todesdatum": "10.4.1916",
+      "Sterbeort": "Stuttgart",
+      "Konfession": "ev.",
+      "Mitgliedschaft": "Corps Franconia.",
+      "Vater_name": "[Johann] Fr[iedrich] Be\u00dfler (1806-?)",
+      "Vater_Beruf": "Pfarrer",
+      "Vater_Beruf_Ort": " Ilsfeld",
+      "Fach": "Jura",
+      "Ort": "Ilsfeld/Oberamt Besigheim",
+      "Beruf": "Landrichter in Ravensburg, Oberamtsrichter      in Neckarsulm, Langerichtsdirektor in Stuttgart 1903, 1915 Regierungspr\u00e4sident in Rottweil, Personaladel 1910",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Emil Be\u00dfler",
+          1841,
+          1922
+        ],
+        [
+          "Bruder",
+          "Friedrich Be\u00dfler",
+          1846,
+          null
+        ],
+        [
+          "Schwiegervater",
+          "Albert Eberhard Moser",
+          1824,
+          1893
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1870,
+        1871,
+        1872,
+        1873,
+        1874,
+        1875,
+        1876,
+        1877
+      ],
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "id": "Theodor Be\u00dfler 1852"
+    },
+    {
+      "Bestellsignatur": "UAT 40/236,103",
+      "Nachname": "Voget",
+      "Vorname": "Friedrich Ajolt Alexander",
+      "Geburtsdatum": "29.9.1856",
+      "Geburtsort": null,
+      "Todesdatum": "27.9.1907",
+      "Sterbeort": "Lingen a.d. Ems",
+      "Konfession": null,
+      "Mitgliedschaft": null,
+      "Vater_name": "Carl Octavius Voget",
+      "Vater_Beruf": "Pastor",
+      "Vater_Beruf_Ort": " Hinte",
+      "Fach": "evangelische Theologie",
+      "Ort": "Hinte/Krs. Emden/Ostfriesland",
+      "Beruf": "Pastor in Emden/Provinz      Hannover",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Julius Voget",
+          1843,
+          null
+        ],
+        [
+          "Bruder",
+          "Karl Hermann Voget",
+          1846,
+          null
+        ],
+        [
+          "Schwiegervater",
+          "Albert Eberhard Moser",
+          1824,
+          1893
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1876,
+        1877,
+        1878,
+        1879
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1876,
+          "1876-11-07",
+          "WS",
+          null
+        ]
+      ],
+      "student": true,
+      "name": "Friedrich Ajolt Alexander Voget",
+      "year_of_birth": 1856,
+      "year_of_death": null,
+      "id": "Friedrich Ajolt Alexander Voget 1856"
+    },
+    {
+      "Bestellsignatur": "UAT 40/92,140",
+      "Nachname": "Herzog",
+      "Vorname": "Theodor [(Theodor Gottlob)]",
+      "Geburtsdatum": "5.1.1872",
+      "Geburtsort": null,
+      "Todesdatum": null,
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Gottlob Herzog",
+      "Vater_Beruf": "Baurat",
+      "Vater_Beruf_Ort": "Ludwigsburg",
+      "Fach": "rer.Naturwissenschaften",
+      "Ort": "Rottweil",
+      "Beruf": "DrrerNaturwissenschaften      T\u00fcbingen (Rigorosum: 2171897)",
+      "Verwandtschaft": [
+        [
+          "Halbbruder",
+          "Gotthilf Herzog",
+          1858,
+          1923
+        ],
+        [
+          "Halbbruder",
+          "Johannes Herzog",
+          1860,
+          1943
+        ],
+        [
+          "Schwager",
+          "Hermann Fulda",
+          1860,
+          1936
+        ]
+      ],
+      "Studienorte": [
+        [
+          1895,
+          "WS",
+          "Stuttgart"
+        ]
+      ],
+      "Studienjahre": [
+        1895,
+        1896
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1895,
+          null,
+          "WS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Theodor [(Theodor Gottlob)] Herzog 1872"
+    },
+    {
+      "name": "Julius Voget",
+      "year_of_birth": 1843,
+      "year_of_death": null,
+      "Bestellsignatur": "UAT 40/236,104",
+      "Nachname": "Voget",
+      "Vorname": "Julius",
+      "Geburtsdatum": "5.2.1843",
+      "Geburtsort": "Ostwold",
+      "Todesdatum": null,
+      "Sterbeort": null,
+      "Konfession": null,
+      "Mitgliedschaft": null,
+      "Vater_name": "C[arl] O[ctavius] Voget",
+      "Vater_Beruf": "Pastor",
+      "Vater_Beruf_Ort": " Hinte beiEmden i Ostfriesland",
+      "Fach": "evangelische Theologie",
+      "Ort": "Hinte/Ostfriesland",
+      "Beruf": null,
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Karl Hermann Voget",
+          1846,
+          null
+        ],
+        [
+          "Bruder",
+          "Friedrich Ajolt Alexander Voget",
+          1856,
+          null
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1863,
+        1864
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1863,
+          "1863-04-15",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Julius Voget 1843"
+    },
+    {
+      "name": "Carl Maier",
+      "year_of_birth": 1821,
+      "year_of_death": 1887,
+      "id": "Carl Maier 1821"
+    },
+    {
+      "Bestellsignatur": "UAT 40/65,113",
+      "Nachname": "Fulda",
+      "Vorname": "Heinrich",
+      "Geburtsdatum": "16.11.1867",
+      "Geburtsort": null,
+      "Todesdatum": "1944",
+      "Sterbeort": "Basel\u00adSchweiz",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Christian [Daniel] Fulda (1818-1891)",
+      "Vater_Beruf": "Dekan",
+      "Vater_Beruf_Ort": " Vaihingen an derEnz",
+      "Fach": "rer.Naturwissenschaften",
+      "Ort": "Vaihingen an derEnz.",
+      "Beruf": "DrrerNaturwissenschaften T\u00fcbingen (Rigorosum: 881890)",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Karl Friedrich Emil Fulda",
+          1857,
+          1919
+        ],
+        [
+          "Bruder",
+          "Hermann Fulda",
+          1860,
+          1936
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1885,
+        1886,
+        1887,
+        1888,
+        1889,
+        1890
+      ],
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "name": "Heinrich Fulda",
+      "year_of_birth": 1867,
+      "year_of_death": 1944,
+      "id": "Heinrich Fulda 1867"
+    },
+    {
+      "Bestellsignatur": "UAT 40/18,12",
+      "Nachname": "Bessler",
+      "Vorname": "Friedrich",
+      "Geburtsdatum": "22.11.1846",
+      "Geburtsort": "Affaltrach",
+      "Todesdatum": null,
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Joh[ann] Friedrich Be\u00dfler (1806-?)",
+      "Vater_Beruf": "Pfarrer",
+      "Vater_Beruf_Ort": " Kusterdingenannt",
+      "Fach": "Jura",
+      "Ort": "Ilsfeld/Oberamt Besigheim",
+      "Beruf": null,
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Emil Be\u00dfler",
+          1841,
+          1922
+        ],
+        [
+          "Bruder",
+          "Theodor Be\u00dfler",
+          1852,
+          1916
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1864,
+        1865,
+        1866,
+        1867,
+        1868,
+        1869
+      ],
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "name": "Friedrich Be\u00dfler",
+      "year_of_birth": 1846,
+      "year_of_death": null,
+      "id": "Friedrich Bessler 1846"
+    },
+    {
+      "name": "Emil Be\u00dfler",
+      "year_of_birth": 1841,
+      "year_of_death": 1922,
+      "Bestellsignatur": "UAT 40/18,11",
+      "Nachname": "Bessler",
+      "Vorname": "Emil",
+      "Geburtsdatum": "12.9.1841",
+      "Geburtsort": "Affaltrach",
+      "Todesdatum": "16.5.1922",
+      "Sterbeort": "Stuttgart",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "[Johann Friedrich Be\u00dfler] (1806-?)",
+      "Vater_Beruf": "Pfarrer",
+      "Vater_Beruf_Ort": " Kusterdingenannt",
+      "Fach": "PharmazieHospitierender",
+      "Ort": "Kusterdingen/Oberamt T\u00fcbingen",
+      "Beruf": "Apotheker Stetten i Remstal, dann Privatier in Stuttgart",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Friedrich Be\u00dfler",
+          1846,
+          null
+        ],
+        [
+          "Bruder",
+          "Theodor Be\u00dfler",
+          1852,
+          1916
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1863,
+        1864
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1863,
+          "1863-04-21",
+          "SS",
+          null
+        ],
+        [
+          1863,
+          "1863-04-30",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Emil Be\u00dfler 1841"
+    },
+    {
+      "name": "Emil M\u00fcller",
+      "year_of_birth": 1882,
+      "year_of_death": null,
+      "Bestellsignatur": "UAT 40/149,39",
+      "Nachname": "M\u00fcller",
+      "Vorname": "Emil [(Emil Ernst Albert)]",
+      "Geburtsdatum": "6.1.1882",
+      "Geburtsort": null,
+      "Todesdatum": null,
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "verstorben Theodor M\u00fcller",
+      "Vater_Beruf": "Pfarrer",
+      "Vater_Beruf_Ort": " K\u00f6ln am Rhein",
+      "Fach": "Philosophie, philosophisch",
+      "Ort": "K\u00f6ln",
+      "Beruf": "DrPhilosophie, philosophisch Halle (1905)",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Ernst M\u00fcller",
+          1864,
+          null
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1901,
+        1902
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1901,
+          "1901-05-01",
+          "SS",
+          "Philologie."
+        ]
+      ],
+      "student": true,
+      "id": "Emil M\u00fcller 1882"
+    },
+    {
+      "name": "Karl Friedrich Emil Fulda",
+      "year_of_birth": 1857,
+      "year_of_death": 1919,
+      "Bestellsignatur": "UAT 40/65,114",
+      "Nachname": "Fulda",
+      "Vorname": "Karl (Karl Friedrich Emil)",
+      "Geburtsdatum": "15.6.1857",
+      "Geburtsort": "Kirchheim u.T.",
+      "Todesdatum": "1919",
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Chr[istian] D[aniel (Christian David)] Fulda (1818-1891)",
+      "Vater_Beruf": "Dekan",
+      "Vater_Beruf_Ort": " Vaihingen an derEnz",
+      "Fach": "Medizin",
+      "Ort": "Vaihingen an derEnz",
+      "Beruf": "Arzt in      Heilbronn",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Hermann Fulda",
+          1860,
+          1936
+        ],
+        [
+          "Bruder",
+          "Heinrich Fulda",
+          1867,
+          1944
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1876,
+        1877,
+        1878,
+        1879
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1876,
+          "1876-11-14",
+          "WS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Karl Friedrich Emil Fulda 1857"
+    },
+    {
+      "name": "Karl Hermann Voget",
+      "year_of_birth": 1846,
+      "year_of_death": null,
+      "Bestellsignatur": "UAT 40/236,107",
+      "Nachname": "Voget",
+      "Vorname": "Karl Hermann",
+      "Geburtsdatum": "25.11.1846",
+      "Geburtsort": null,
+      "Todesdatum": null,
+      "Sterbeort": null,
+      "Konfession": null,
+      "Mitgliedschaft": null,
+      "Vater_name": "Carl [Octavius] Voget",
+      "Vater_Beruf": "Pastor",
+      "Vater_Beruf_Ort": " Hinte beiEmden i Ostfriesland",
+      "Fach": "evangelische Theologie",
+      "Ort": "Hinte beiEmden i. Ostfriesland/Hannover",
+      "Beruf": null,
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Julius Voget",
+          1843,
+          null
+        ],
+        [
+          "Bruder",
+          "Friedrich Ajolt Alexander Voget",
+          1856,
+          null
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1866,
+        1867,
+        1868
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1866,
+          "1866-04-16",
+          "SS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Karl Hermann Voget 1846"
+    },
+    {
+      "name": "Albert Eberhard Moser",
+      "year_of_birth": 1824,
+      "year_of_death": 1893,
+      "Bestellsignatur": "UAT 40/147,40",
+      "Nachname": "Moser",
+      "Vorname": "Albert Eberhard",
+      "Geburtsdatum": "6.8.1824",
+      "Geburtsort": "L\u00f6wenstein",
+      "Todesdatum": "15.9.1893",
+      "Sterbeort": "T\u00fcbingen",
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Eberhard Friedrich Moser",
+      "Vater_Beruf": "Amtsnotar",
+      "Vater_Beruf_Ort": " Leonberg",
+      "Fach": "Jura",
+      "Ort": "Leonberg",
+      "Beruf": "Buchh\u00e4ndler und      Antiquar in T\u00fcbingen",
+      "Verwandtschaft": [
+        [
+          "Schwager",
+          "Carl Maier",
+          1821,
+          1887
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1841,
+        1842,
+        1843,
+        1844,
+        1845,
+        1846
+      ],
+      "Immatrikulationsdaten": [
+        [
+          1842,
+          "1842-10-24",
+          "WS",
+          null
+        ],
+        [
+          1842,
+          "1842-11-11",
+          "WS",
+          null
+        ]
+      ],
+      "student": true,
+      "id": "Albert Eberhard Moser 1824"
+    },
+    {
+      "Bestellsignatur": "UAT 40/92,130",
+      "Nachname": "Herzog",
+      "Vorname": "Johannes",
+      "Geburtsdatum": "11.7.1860",
+      "Geburtsort": "Stuttgart",
+      "Todesdatum": "1943",
+      "Sterbeort": null,
+      "Konfession": "ev.",
+      "Mitgliedschaft": null,
+      "Vater_name": "Gottlob Herzog",
+      "Vater_Beruf": "Baurat",
+      "Vater_Beruf_Ort": " Ludwigsburg",
+      "Fach": "Philosophie, philosophisch",
+      "Ort": "Ludwigsburg",
+      "Beruf": "Zuletzt Pfarrer in Esslingen",
+      "Verwandtschaft": [
+        [
+          "Schwager",
+          "Hermann Fulda",
+          1860,
+          1936
+        ],
+        [
+          "Schwiegervater",
+          "Albert Eberhard Moser",
+          1824,
+          1893
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1880,
+        1881,
+        1882,
+        1883,
+        1884
+      ],
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "name": "Johannes Herzog",
+      "year_of_birth": 1860,
+      "year_of_death": 1943,
+      "id": "Johannes Herzog 1860"
+    },
+    {
+      "name": "Gotthilf Herzog",
+      "year_of_birth": 1858,
+      "year_of_death": 1923,
+      "id": "Gotthilf Herzog 1858"
+    },
+    {
+      "name": "Ernst M\u00fcller",
+      "year_of_birth": 1864,
+      "year_of_death": null,
+      "Bestellsignatur": "UAT 40/149,45",
+      "Nachname": "M\u00fcller",
+      "Vorname": "Ernst",
+      "Geburtsdatum": "1.12.1864",
+      "Geburtsort": "Bacharach a. Rhein",
+      "Todesdatum": "9.8.1946",
+      "Sterbeort": null,
+      "Konfession": null,
+      "Mitgliedschaft": null,
+      "Vater_name": "Theodor M\u00fcller",
+      "Vater_Beruf": "Gef\u00e4ngnisprediger",
+      "Vater_Beruf_Ort": " K\u00f6ln a Rhein",
+      "Fach": "evangelische Theologie",
+      "Ort": "K\u00f6ln",
+      "Beruf": "Pfarrer      in Gammertingen, zuletzt Pfarrer in Nauendorf beiHalle",
+      "Verwandtschaft": [
+        [
+          "Bruder",
+          "Emil M\u00fcller",
+          1882,
+          null
+        ],
+        [
+          "Schwiegervater",
+          "Albert Eberhard Moser",
+          1824,
+          1893
+        ]
+      ],
+      "Studienorte": null,
+      "Studienjahre": [
+        1884,
+        1885
+      ],
+      "Immatrikulationsdaten": null,
+      "student": true,
+      "id": "Ernst M\u00fcller 1864"
+    },
+    {
+      "Vater_Beruf": "Pastor",
+      "Vater_Beruf_Ort": "Hinte bei Emden i Ostfriesland",
+      "id": "Carl Octavius Voget"
+    },
+    {
+      "Vater_Beruf": "Baurat",
+      "Vater_Beruf_Ort": " Ludwigsburg",
+      "id": "Gottlob Herzog"
+    },
+    {
+      "Vater_Beruf": "Dekan",
+      "Vater_Beruf_Ort": "Vaihingen an der Enz",
+      "id": "Christian Daniel Fulda (1818-1891)"
+    },
+    {
+      "Vater_Beruf": "Pfarrer",
+      "Vater_Beruf_Ort": " Kusterdingenannt",
+      "id": "Johann Friedrich Be\u00dfler (1806-?)"
+    },
+    {
+      "Vater_Beruf": "Pfarrer und Gefängnisprediger",
+      "Vater_Beruf_Ort": " K\u00f6ln am Rhein",
+      "id": "Theodor M\u00fcller"
+    },
+    {
+      "Vater_Beruf": "Amtsnotar",
+      "Vater_Beruf_Ort": " Leonberg",
+      "id": "Eberhard Friedrich Moser"
+    }
+  ],
+  "links": [
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Hermann Fulda 1860",
+      "target": "Heinrich Fulda 1867"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Hermann Fulda 1860",
+      "target": "Johannes Herzog 1860"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Hermann Fulda 1860",
+      "target": "Theodor [(Theodor Gottlob)] Herzog 1872"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Hermann Fulda 1860",
+      "target": "Karl Friedrich Emil Fulda 1857"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Theodor Be\u00dfler 1852",
+      "target": "Friedrich Bessler 1846"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Theodor Be\u00dfler 1852",
+      "target": "Emil Be\u00dfler 1841"
+    },
+    {
+      "verwandtschaftsgrad": "Schwiegervater",
+      "source": "Theodor Be\u00dfler 1852",
+      "target": "Albert Eberhard Moser 1824"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Theodor Be\u00dfler 1852",
+      "target": "Johann Friedrich Be\u00dfler (1806-?)"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Friedrich Ajolt Alexander Voget 1856",
+      "target": "Julius Voget 1843"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Friedrich Ajolt Alexander Voget 1856",
+      "target": "Karl Hermann Voget 1846"
+    },
+    {
+      "verwandtschaftsgrad": "Schwiegervater",
+      "source": "Friedrich Ajolt Alexander Voget 1856",
+      "target": "Albert Eberhard Moser 1824"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Friedrich Ajolt Alexander Voget 1856",
+      "target": "Carl Octavius Voget"
+    },
+    {
+      "verwandtschaftsgrad": "Halbbruder",
+      "source": "Theodor [(Theodor Gottlob)] Herzog 1872",
+      "target": "Gotthilf Herzog 1858"
+    },
+    {
+      "verwandtschaftsgrad": "Halbbruder",
+      "source": "Theodor [(Theodor Gottlob)] Herzog 1872",
+      "target": "Johannes Herzog 1860"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Theodor [(Theodor Gottlob)] Herzog 1872",
+      "target": "Gottlob Herzog"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Julius Voget 1843",
+      "target": "Karl Hermann Voget 1846"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Julius Voget 1843",
+      "target": "Carl Octavius Voget"
+    },
+    {
+      "verwandtschaftsgrad": "Schwager",
+      "source": "Carl Maier 1821",
+      "target": "Albert Eberhard Moser 1824"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Heinrich Fulda 1867",
+      "target": "Karl Friedrich Emil Fulda 1857"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Heinrich Fulda 1867",
+      "target": "Christian Daniel Fulda (1818-1891)"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Friedrich Bessler 1846",
+      "target": "Emil Be\u00dfler 1841"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Friedrich Bessler 1846",
+      "target": "Johann Friedrich Be\u00dfler (1806-?)"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Emil Be\u00dfler 1841",
+      "target": "Johann Friedrich Be\u00dfler (1806-?)"
+    },
+    {
+      "verwandtschaftsgrad": "Bruder",
+      "source": "Emil M\u00fcller 1882",
+      "target": "Ernst M\u00fcller 1864"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Emil M\u00fcller 1882",
+      "target": "Theodor M\u00fcller"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Karl Friedrich Emil Fulda 1857",
+      "target": "Christian Daniel Fulda (1818-1891)"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Karl Hermann Voget 1846",
+      "target": "Carl Octavius Voget"
+    },
+    {
+      "verwandtschaftsgrad": "Schwiegervater",
+      "source": "Albert Eberhard Moser 1824",
+      "target": "Johannes Herzog 1860"
+    },
+    {
+      "verwandtschaftsgrad": "Schwiegervater",
+      "source": "Albert Eberhard Moser 1824",
+      "target": "Ernst M\u00fcller 1864"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Albert Eberhard Moser 1824",
+      "target": "Eberhard Friedrich Moser"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Johannes Herzog 1860",
+      "target": "Gottlob Herzog"
+    },
+    {
+      "verwandtschaftsgrad": "Vater",
+      "source": "Ernst M\u00fcller 1864",
+      "target": "Theodor M\u00fcller"
+    }
+  ]
+}

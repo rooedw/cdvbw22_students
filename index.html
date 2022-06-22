@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width"/>
+<style>
+    body {
+        max-width: 900px;
+        margin: 0px auto;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    .tooltip {
+        opacity: 0;
+        background-color: white;
+        border: solid;
+        border-width: 2px;
+        border-radius: 5px;
+        pointer-events: none;
+        padding: 5px;
+        position: absolute;
+    }
+
+    h1 {
+        margin: 50px;
+        text-align: center;
+    }
+
+    .container {
+        position: relative;
+    }
+
+    .sections {
+        width: 340px;
+        /* pass through pointer events to graph which lies below
+        useful for small width layout */
+        pointer-events: none;
+    }
+
+    .sections > div {
+        background: white;
+        opacity: 0.2;
+        margin-bottom: 200px;
+    }
+
+    .sections > div:last-child {
+        margin-bottom: 30px;
+    }
+
+    .sections > div.graph-scroll-active {
+        opacity: 1;
+    }
+
+    .graph {
+        margin-left: 40px;
+        width: 500px;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 50px;
+        float: right;
+    }
+
+    /* map of germany style */
+    #states {
+        fill: rgb(122, 122, 122);
+        stroke: rgb(255, 255, 255);
+        stroke-width: 1.25px;
+    }
+
+    #states .active {
+        fill: rgb(80, 80, 80);
+    }
+
+    /* #container-3 > div.graph > svg > g.circles > path:nth-child(5) */
+
+    #container-3 .circles .tooltipHover {
+        stroke: black;
+        opacity: 0.6 !important;
+    }
+
+    #container-3 .birthCircle {
+        stroke: white;
+        fill: rgb(255, 54, 54);
+    }
+
+    #container-3 .deathCircle {
+        stroke: white;
+        fill: rgb(0, 0, 250);
+    }
+
+
+    path.arrow {
+        /* fill: none; */
+        stroke: rgb(255, 249, 167);
+        stroke-width: 2px;
+        opacity: 0.2;
+    }
+
+    path.arrow.tooltipHover {
+        stroke: rgb(255, 244, 96);
+        stroke-width: 4px;
+        opacity: 1;
+    }
+
+    @media (max-width: 925px) {
+        .graph {
+            width: 100%;
+            margin-left: 0px;
+            float: none;
+        }
+
+        .sections {
+            width: auto;
+            position: relative;
+            margin: 0px auto;
+        }
+
+        .sections > div {
+            background: rgba(255, 255, 255, 0.5);
+            padding: 10px;
+            border-top: 1px solid;
+            border-bottom: 1px solid;
+            margin-bottom: 80vh;
+        }
+
+        pre {
+            overflow: hidden;
+        }
+
+        h1 {
+            margin: 10px;
+        }
+    }
+
+    circle {
+        fill: steelblue;
+    }
+
+    .mono {
+        font-family: monospace;
+    }
+
+    svg {
+        background-color: #eee;
+    }
+</style>
+
+<h1>Coding Da Vinci - Studierendendaten der Universität Tübingen 1829-1906</h1>
+<p>Die <strong>Eberhard Karls Universität Tübingen</strong> wurde im Jahre 1477 gegründet und zählt damit zu den
+    ältesten
+    in Europa. Wir schauen uns etwa 100 Jahre ihrer Geschichte an - eigentlich nur ein kleiner Ausschnitt - aber dennoch
+    bietet der Datensatz aus dem Universitätsarchiv viele Details zu über 30.000 Studenten.
+</p>
+<p>Das 19. Jahrhundert war die Zeit des Königreichs Württemberg. Als Teil des Deutschen Kaiserreiches standen den
+    Studenten
+    aus dem heutigen Deutschland und Polen, sowie Österreich und - sofern kein Krieg war - aus ganz Europa der Weg nach
+    Tübingen offen.</p>
+<p>Diese bunte Studierendenschaft hat viele bekannte Namen und Gesichter und wir hoffen, dass wir die eine oder andere
+    neue Geschichte aufdecken können.</p>
+<p> Bevor wir Ihnen die Daten vorstellen wollen wir uns natürlich noch vorstellen. Wir sind sechs Studierende vom
+    <strong>Karlsruher Institute für Technologie (KIT)</strong>. Wir studieren alle Informatik im Master und nehmen am
+    Praktikum Smart Data Analytics (PSDA) teil. Im Rahmen dieses Praktikums haben wir uns als Gruppe für den Coding Da
+    Vinci Hackathon angemeldet. Ziel unseres Praktikums war es einen interessanten Datensatz zu finden und daraus eine
+    passende Anwendung mit Verfahren aus der <strong>Datenanalyse</strong> und des <strong>Maschinellen Lernens</strong>
+    zu erstellen. Dabei ist der Studierendendatensatz der Universität Tübingen 1829-1906 für uns herausgestochen, weil
+    wir darin eine Herausforderung gesehen haben die Daten zu bereinigen und vorzuverarbeiten.</p>
+<h1>Studiengänge und Religionszugehörigkeiten</h1>
+<div id="container-5" class="container">
+    <div class="graph"></div>
+    <div class="sections">
+        <div>
+            <!-- intentional empty div to catch first animation event that fires on page load -->
+        </div>
+        <div>
+            <h3>Religion und Philosophie</h3>
+            <p><strong>Philosophie</strong> und <strong>Theologie</strong> waren im 19. Jahrhundert zwei der vier
+                klassischen
+                Hauptfakultäten an deutschen Hochschulen. </p>
+            <p> Neben den "Stadtstudenten" haben an der Uni Tübingen auch <strong>Konviktoren</strong>, das heißt
+                Angehörige
+                des katholischen Wilhelmstifts und <strong>Seminaristen</strong>, d.h Angehörige des evangelischen
+                Stifts ihre
+                theologische Ausbildung absolviert.</p>
+        </div>
+        <div>
+            <h3>Recht und Verwaltung</h3>
+            <p> Nach den gesammelten Theologiestudenten waren <strong>Juristen</strong> die zahlenmäßig stärkste
+                Kohorte. Das
+                is eigentlich auch kein Wunder, denn schließlich ist das der dritte der klassischen Studiengänge, und
+                auch heute
+                eine der stärksten Fakultäten, ganz im Gegenteil zu den restlichen Studiengängen in dieser Gruppe. </p>
+            <p><strong>Forstwissenschaft</strong> ist noch selbsterklärend. Der Studiengang
+                <strong>Regiminalistik</strong>
+                heißt heute Verwaltungslehre, <strong>Kameralwissenschaften</strong> gibt es heute gar nicht mehr - es
+                ist die
+                Ausbildung der Kameralbeamten, die das Königreich verwaltet haben.</p>
+        </div>
+        <div>
+            <h3>Medizin und Naturwissenschaft</h3>
+            <p> Heute ist Tübingen unter anderem für das <strong>Medizin</strong>studium bekannt, das als die letzte der
+                vier klassischen Disziplinen ebenfalls einen prominenten Platz einnimmt. <strong>Pharmazie</strong> als
+                verwandte
+                Disziplin ist bereits eins der exotischeren Fäher, das in der zweiten Hälfte des 19. Jahrhunderts
+                beinahe keine
+                Rolle gespielt hat.</p>
+            <p><strong>Naturwissenschaften</strong> als Studienrichtung sind in Deutschland gerade zu Beginn des
+                Jahrhunderts
+                als eigene Fakultät entstanden. Man kann leicht erkennen, wie diese neue Disziplin über die Jahre an
+                Beliebtheit
+                gewonnen hat - ein Trend der sich bis heute fortsetzt. </p>
+        </div>
+    </div>
+</div>
+
+<div style="clear: both;"></div>
+
+<h1>Herkunft der Studenten</h1>
+<div id="container-3" class="container">
+    <div class="graph"></div>
+    <div class="sections">
+        <div>
+            <!-- intentional empty div to catch first animation event that fires on page load -->
+        </div>
+        <div>
+            <h3>Geburtsorte</h3>
+            Wie man der Karte unschwer entnehmen kann, war die Distanz ihrer Geburtsorte zur Universität in Tübingen für
+            viele der
+            Studenten kein Hinderniss. Von ca. 9000. von Ihnen haben wir Informationen zur Herkunft. <br>
+            Der Großteil von ihnen stammt aus dem heutigen Baden-Württemberg. Allerdings stammen nicht alle aus
+            Deutschland:
+            Etwa %% waren aus dem Ausland angereist um in Tübingen zu studieren.
+            Eine genaue Liste mit den Herkunftsländern folgt hier:
+            <table>
+                <tr>
+                    <td>Baden-Württemberg</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Bayern</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Berlin</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Brandenburg</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Bremen</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Hamburg</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Hessen</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Niedersachsen</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Nordrhein-Westfalen</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Rheinland-Pfalz</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Saarland</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Sachsen</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Sachsen-Anhalt</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Schleswig-Holstein</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Thüringen</td>
+                    <td>0</td>
+                </tr>
+            </table>
+            <b>Übrigens</b>: Durch anklicken der Karte lässt sie sich vergrößern!
+        </div>
+
+        <div>
+            <h3>Sterbeorte</h3>
+            Ebenso divers waren die Orte, an denen die Studenten schlussendlich gestorben sind.
+            Von etwa 6000 unserer Studenten liegen diese Daten in unserem Datensatz vor.
+            <table>
+                <tr>
+                    <td>Baden-Württemberg</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Bayern</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Berlin</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Brandenburg</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Bremen</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Hamburg</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Hessen</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Niedersachsen</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Nordrhein-Westfalen</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Rheinland-Pfalz</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Saarland</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Sachsen</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Sachsen-Anhalt</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Schleswig-Holstein</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Thüringen</td>
+                    <td>0</td>
+                </tr>
+            </table>
+        </div>
+
+        <div>
+            <h3>Alle Daten</h3>
+            Auf dieser Karte sind die Geburtsorte(rot) als auch die Todesorte(blau) visualisiert.
+        </div>
+
+        <div>
+            <h3>
+                Reisewege
+            </h3>
+            Aus den Studierendenakten wissen wir über einige der Studenten ihre Herkunfts, als auch ihre Sterbeorte.
+            Allerdings sind beiden Datenpunkte in Kombination bei nur knapp 2300 Studenten bekannt. <br>
+            Auf der Karte wurden Linien zwischen diesen beiden Orten eingezeichnet um zu visualisieren, wie lang die
+            Reiserouten der Studenten im 19. Jahrhundert teilweise. Beeindruckend, wenn man an die, zu dieser Zeit, noch
+            sehr beliebten
+            Kutschen, mit einer ungefähren Geschwindigkeit von 10 km/h denkt.
+        </div>
+
+        <div>
+            <h3>Internationale Studenten</h3>
+            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+            eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+            voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+            clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+            amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+            nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
+            diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+            Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor
+            sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+            diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+            erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
+            rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+            dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate
+            velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis
+            at vero eros et accumsan et iusto odio dignissim qui blandit praesent
+            luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem
+            ipsum dolor sit amet,
+        </div>
+    </div>
+</div>
+
+
+<h1> Kapitel 2 - Verwandtschaftsgraphen</h1>
+<p style="text-align: justify">
+    In diesem Kapitel haben wir die Familienstrukturen der Studierenden in Tübingen untersucht.
+    Da ein Datensatz von über 30.000 Studierenden zu einem sehr großen unzusammenhängenden Verwandtschaftsgraphen führt,
+    haben wir uns entschieden hier die interessantesten unter den größten Familien zu betrachten.
+    Unter interessanten Merkmalen verstehen wir Familiencliquen, die über eine oder mehrere Beziehungen mit anderen
+    Familien in Verbindung stehen.
+    <br/><br/>
+    Die Darstellung erfolgt immer in einem Graphen, bei dem eine Person durch einen Knoten
+    dargestellt wird und eine Beziehung zwischen zwei Personen durch eine Kante zwischen diesen.
+    In der anhängenden Legende sind die Beziehungen und Knotentypen gekennzeichnet.
+    Wenn Sie mit dem Mauszeiger über den Knoten rüberfahren, werden ihnen mehr Informationen zu der jeweiligen Person
+    angezeigt.
+    <br/><br/>
+    Viel Spaß bei der Erkundung der Familien!
+</p>
+<div id="container-1" class="container">
+    <div class="graph"></div>
+    <div class="sections">
+        <div>
+            <h3>Familien Eidenbenz, Hochstetter, Andler</h3>
+            Wie wir in dem Graphen sehen können, ist Wilhelm Eidenbenz der Schwiegervater von drei Studierenden.
+            Wilhelm Eidenbenz selbst hat noch einige Brüder, die auch Studierende waren.
+            Diese Brüder haben Friedrich Carl Hochstetter als Schwager.
+            Daran sehen wir, dass die Familie Hochstetter sich an die Familie Eidenbenz angeheiratet hat.
+            Die Geschwister der Familie Hochstetter haben zusätzlich auch Heinrich Theodor Andler als Schwager, der
+            weitere
+            zwei Geschwister hatte.
+            Die Geschwister der Familen Hochstetter und Andler haben im gleichen Zeitraum gemeinsam studiert.
+
+
+        </div>
+
+        <div>
+            <h3>Familien Müller, Herzog, Voget, Beßler</h3>
+            Wie Sie sehen können, lässt sich der Graph in vier Familien aufteilen, die durch Albert Eberhard Moser
+            verwandt sind. Dabei ist dieser der Schwiegervater von Ernst Müller, Johannes Herzog, Friedrich Ajolt
+            Alexander Voget
+            und Theodor Beßler. Die Familien Voget, Beßler und Müller haben noch einige Geschwister.
+            Die Geschwister der Familien Voget, Beßler und Müller und Albert Eberhard Moser haben alle studiert.
+            Die letzte der vier Abzweigungen setzt sich zusammen aus den zwei Familien Herzog und Fulda, in denen
+            jeweils
+            die zwei Halbbrüder Johannes Herzog und Theodor Gottlob Herzog sowie Karl Friedrich Emil Fulda und Heinrich
+            Fulda
+            studiert haben.
+        </div>
+
+        <div>
+            <h3>Familien Conz, Löflund, Wächter</h3>
+            Wir haben uns für diesen Graphen entschieden, obwohl er wenige Familien miteinander verbindet, weil es
+            ein sehr dichter Graph ist und man eine cliquenähnliche Struktur erkennt.
+            Die Kinder dieser drei Familien haben untereinander entweder eine Bruder oder Cousin Beziehung, wobei die
+            Väter
+            der Familien auch eine Geschwister-Beziehung haben und somit auch eine Vater- bzw. Onkelbeziehung zu den
+            Kindern.
+        </div>
+
+        <div>
+            <h3>Familien Geßler, Göz</h3>
+            In der Famile Göz haben vier Brüder studiert.
+            Die Familie Schwab hat sich an Carl Friedrich Göz angeheiratet und Carl Gustav Schwab ist der
+            Schwiegervater.
+            Carl Friedrich Göz hat außerdem mehrere Schwager-Beziehungen zu den Familien Geßler und Gaupp hat.
+            Von Carl Friedrich Göz und seiner Familie führen mehrere einfache Pfade in die anderen Familien hinein.
+        </div>
+
+        <div style="padding-bottom: 300px">
+            <h3>Familien Völter, Bunz, Mauz</h3>
+            Die Familie Völter hat sechs Brüder und alle haben denselben Vater.
+            Die Hälfte der Brüder hat studiert.
+            Einer davon, Daniel Völter, ist der Schwager von Johann Gottlob Friedrich Bunz.
+            Letzterer ist der Großvater von den drei Brüdern Mauz, die auch studiert haben.
+            Das interssante an diesem Graphen ist, dass durch die Schwager-Beziehung sich ein Familiengraph über drei
+            Generationen ergibt.
+        </div>
+    </div>
+</div>
+
+<h1>Kapitel 3 - Informationen der Väter</h1>
+<p style="text-align: justify">
+    In diesem Kapitel haben wir die Väter der Studierenden in Tübingen untersucht. Unser Hauptmerkmal liegt
+    dabei auf den Berufen der Väter.
+    Aus über 30.000 Studierenden ergeben sich über 6000 Väterberufe. Allerdings wurden erst
+    ab etwa 1840 die Berufe der Väter aufgezeichnet, weshalb ein paar davon fehlen.
+    <br/><br/>
+    Zunächst werden die Berufe in einer bunten Word Cloud gesammelt. Um dem ganzen eine größere
+    Aussagekraft zu geben, wird ein Bubble Chart verwendet. Dabei können nochmals mehr Informationen aus
+    dem Mouseover hervorgehen.
+    <br/><br/>
+    Viel Spaß bei der Erkundung der Väterberufe!
+    <br><br><br><br>
+</p>
+<div id="container-2" class="container">
+    <div class="graph"></div>
+    <div class="sections">
+        <div>
+            <h3>Word Cloud der Väterberufe</h3>
+            In der Word Cloud sind die Berufe der Väter von den Studierenden ab 1829 bis 1913 zu sehen.
+            Hier sind jedoch nicht alle Berufe dargestellt, da dies den Rahmen der Word Cloud sprengen
+            würde. Demnach muss mit den ausgewählten Berufen vorlieb genommen werden. Dies sind die
+            Berufe welche von mehr als 50 Vätern ausgeübt wurden.
+            Spitzenreiter war der Kaufmannsberuf, gefolgt von Pfarrern und Ärzten. Weniger häufig wurden
+            Berufe wie die des Müllers und des Rektors ausgeübt.
+        </div>
+
+        <div>
+
+            <h3>Informationsreiches Bubble Chart</h3>
+            Im Diagramm werden die Berufe der Väter nochmals als verschieden große Bubbles dargstellt.
+            Eine große Bubble bedeutet, dass viele Väter diesen Beruf ausgeübt haben, wo hingegen eine kleine
+            Bubble bedeutet, dass der Beruf von einer geringen Anzahl an Vätern praktiziert wurde.
+            Der Spitzenreiter ist wie bereits erwähnt der Kaufmannsberuf mit einer Anzahl von 2906 Vätern.
+            Auf Platz zwei kommen die Pfarrer mit 2116 und auf Platz drei die Ärzte mit 1580 Vätern. Außerdem
+            kann man die Top 3 Studiengänge der Kinder aus dem Mouseover herauslesen. Kinder von Kaufmännern
+            studierten hauptsächlich Jura, Medizin und evalgelische Theologie. Falls Sie die Studiengänge der
+            anderen Kinder interessiert, können Sie das Bubble Chart gerne selbst erkunden.
+
+        </div>
+
+    </div>
+</div>
+
+<h1>Kapitel 4 - Studentenverbindungen</h1>
+<p style="text-align: justify">
+    In diesem Kapitel haben wir die Studentenverbindungen in Tübingen untersucht.
+    Uns hat vor allem interessiert, welche Charakteristiken bei verschiedenen Verbindungen herausstechen und ob es
+    Unterschiede zwischen den einzelnen Verbindungen gab.
+    Dabei wurden die Studiengänge, die Konfession, der Beruf des Vaters sowie der Studienbeginn von
+    Verbindungsmitgliedern
+    betrachtet.
+
+    <br/><br/>
+    Da es sehr viele unterschiedliche kleine Verbindung gibt, werden nur die vier größten Studentenverbindungen
+    vorgestellt. Diese zeigen aber alle Charakteristiken der Studentenverbindungen in Tübingen auf,
+    da die meisten Verbindungen ähnliche Charakteristiken hatten.
+    <br/><br/>
+    Aufgrund der vielen kleinen Studiengänge und Berufe der Väter wurden alle Studiengänge/ Berufe deren Anteil kleiner
+    als 2% war zusammengefasst und als "Andere" bezeichnet.
+    <br/><br/>
+</p>
+<div id="container-4" class="container" style="
+width: 1500px">
+    <div class="graph" style="
+  width: 1100px;"></div>
+    <div class="sections">
+
+        <div>
+            <h3>Burschenschaft Germania Tübingen</h3>
+            Die Burschenschaft Germania Tübingen ist eine schlagende und farbentragende Studentenverbindung an der
+            Universität Tübingen.
+            <br>Sie ist eine der ältesten Verbindungen und wurde am 12.12.1816 gegründet. Zu den bekanntesten
+            Mitgliedern zählen Berthold Auerbach und Ernst Elsenhans.
+            <br><a href="https://www.tuepedia.de/wiki/Burschenschaft_Germania_T%C3%BCbingen">(aufgerufen am
+            17.06.2022)</a>
+            <br>Die Burschenschaft Germania zeigt eine gute Übersicht über die grundlegenden Charakteristiken der
+            meisten Studentenverbindungen in Tübingen. Der Großteil der Mitglieder war Jurastudenten, gefolgt von
+            Medizinstudenten. Insgesamt machten Jura- und Medizinstudenten ca. 70% der gesamten Mitglieder der
+            Burschenschaft Germania aus. Die restlichen Studenten studierten unter anderem Forstwissenschaft,
+            evangelische Theologie und Philosophie.
+            <br>Wie in den meisten Verbindungen waren die Mitglieder der Burschenschaft Germania hauptsächlich
+            evangelisch. Die restlichen Studenten, ca. 3% der Mitglieder, waren katholisch.
+            <br>Die gängigsten Berufe eines Vaters waren Arzt und Kaufmann, gefolgt von Apothekern und Pfarrern.
+            Allerdings macht das
+            nur etwa 35% der Gesamtsumme aus, d.h. der Beruf des Vaters hatte wenig Einfluss darauf, on man Mitglied bei
+            der Burschenschaft Germania wurde oder nicht. Das spiegelt sich in den meisten Verbindungen in Tübingen
+            wider.
+
+
+        </div>
+
+        <div>
+            <h3>Studienbeginn der Mitglieder</h3>
+            Insgesamt gab es in unserem Datensatz 172 Mitglieder der Burschenschaft Germania.
+            <br>1843 begann das erste Mitglied der Burschenschaft Germania in unserem Datensatz sein Studium, es war
+            Georg Wilhelm Friedrich Luithlen der, 1825 geboren wurde und an der
+            Universität Tübingen Medizin studierte.
+            Die letzten Mitglieder begannen 1904 ihr Studium, sie studierten Jura bzw. Forstwissenschaften.
+            <br>Den größten Zuwachs an Mitgliedern hatte die Burschenschaft Germania in den Jahren 1857 bis 1861,
+            auch in den Jahren 1898 und 1899 begannen verhältnismäßig viel Mitglieder der Burschenschaft Germania ihr
+            Studium.
+        </div>
+
+        <div>
+            <h3><h3>Verbindung Normannia Tübingen</h3></h3>
+            Die Verbindung Normannia Tübingen hatte ihren Ursprung in der Studentenbewegung 1816 hervor und wurde 1861
+            gegründet. Sie ist farbtragend und seit 1945 nichtschlagend.
+            <br>Zu den bekanntesten Mitgliedern zählen Hans Gmelin und Horst Köhler.
+            <br><a href="https://www.tuepedia.de/wiki/Verbindung_Normannia_T%C3%BCbingen">(aufgerufen am
+            17.06.2022)</a>
+            <br>Die Besonderheit der Verbindung Normannia ist, dass laut dem Datensatz alle Mitglieder evangelisch
+            waren. Das wird auch deutlich durch den sehr hohen Anteil an Studenten der evangelischen Theologie und
+            Seminaristen des Evangelischen Stifts.
+            Diese machen ca. 42% aller Mitglieder aus, gefolgt von Jura- und Medizinstudenten.
+            <br>Der hohe Anteil an Theologiestudenten lässt sich auch am Beruf des Vaters erkennen. Mit einem großen
+            Anteil von ca. 13%, waren die Väter Pfarrer, gefolgt von ca. 10% Kaufmännern. Die restlichen Väter hatten
+            viele unterschiedliche Berufe.
+
+        </div>
+
+        <div>
+            <h3>Studienbeginn der Mitglieder</h3>
+            Insgesamt war die Verbindung Normannia in unserem Datensatz mit 177 Mitgliedern am häufigsten vertreten.
+            <br> 1857 begann das erste Mitglied der Normannia in unserem Datensatz sein Studium, es war Carl Gottlob
+            Friedrich Gußmann, der 1839 geboren wurde und an der
+            Universität Tübingen Seminarist war.<br>
+            Die letzten Mitglieder begannen 1904 ihr Studium. <br>
+            Auffällig ist, dass es gerade zu dieser Zeit, also in den Jahren von 1901 bis 1904 viele Studienanfänger
+            gab, die Mitglieder der Verbindung Normannia waren. <br>
+        </div>
+        <div>
+            <h3><h3>Landsmannschaft Ghibellinia Tübingen</h3></h3>
+            Die Landsmannschaft Ghibellinia ist eine Studentenverbindung in Tübingen, die 1845 gegründet wurde.<br>
+            Mitglieder der Verbindungen Alemannia und Cameralista schlossen sich zusammen, um die Landsmannschaft
+            Ghibellinia zu gründen.
+            Zu den bekanntesten Mitgliedern zählen Edmund Rau und Eugen Gantter. <br>
+            <a href="https://www.tuepedia.de/wiki/Landsmannschaft_Ghibellinia_T%C3%BCbingen">(aufgerufen am
+                17.06.2022)</a>
+
+
+            <br>Wie bei der Burschenschaft Germania sind die meisten Studenten der Landsmannschaft Ghibellinia Medizin-
+            und Jurastudenten. Allerdings beträgt dieser Teil nur etwa 40%, insgesamt ist die Verteilung der
+            Studiengänge deutlich ausgeglichener, da auch Studiengänge wie evangelische Theologie, Kameralwissenschaft
+            und Pharmazie häufig vorkommen.
+            <br>Auch die Landsmannschaft Ghibellinia bestand zum Großteil aus evangelischen Mitgliedern. <br>
+            Besonders hervorzuheben ist aber, dass die Burschenschaft auch ein muslimisches Mitglied hatte. Damit ist
+            die Burschenschaft Ghibellinia die einzige relevante Verbindung in unseren Daten, die ein muslimisches
+            Mitglied hatte.
+            <br>Der größte Anteil der Väter, ca. 13%, waren Pfarrer, was auch den großen Anteil an Theologiestudenten
+            erklärt. 10% waren Ärtze und die Restlichen 77% der Väter hatten verschiedenste Berufe, die keinen Trend
+            erkennen lassen.
+
+        </div>
+        <div>
+            <h3>Studienbeginn der Mitglieder</h3>
+            Insgesamt gab es in unserem Datensatz 96 Mitgliedern der Landsmannschaft Ghibellinia.<br>
+            Laut unseren Daten begann 1829 und damit 16 Jahre vor der Gründung das erste Mitglied der Landsmannschaft
+            Ghibellinia sein Studium, es war Eugen Hoerner, der an der
+            Universität Tübingen Kameralwissenschaften studierte.
+            Die letzten Mitglieder begannen 1903 ihr Studium, sie studierten Naturwissenschaften bzw. Medizin. <br>
+            Damit hat die Landsmannschaft Ghibellinia die größte Spannweite des Studienbeginns. Gerade in den Jahren
+            zwischen 1848 und 1859 gab es den stärksten Zuwachs an Studienanfängern die in der Landsmannschaft
+            Ghibellinia waren.
+        </div>
+        <div>
+            <h3>Corps Suevia Tübingen</h3>
+            Das Corps Suevia Tübingen ist eine farbtragende und schlagende Corps und wurde 1831 gegründet.<br>
+            Das Corps Suevia gehörte von 1857 bis 1971 dem Kösener Senioren-Convents-Verband an. Zu den bekanntesten
+            Mitgliedern zählten Hermann von Mitternacht, Konstantin Freiherr von Neurath und König Wilhelm II. von
+            Württemberg.
+            <br><a href="https://www.tuepedia.de/wiki/Corps_Suevia_T%C3%BCbingen">(aufgerufen am 17.06.2022)</a>
+            <br>Mit 68% hatte das Corps Suevia den größten Anteil an Jurastudenten in unseren Daten, diese werden
+            gefolgt von ca. 17% Medizinstudenten, sowie evangelische Theologie- und Forstwissenschaftsstudenten.
+            <br>Die Besonderheit bei der Corps Suevia war, dass der Anteil an katholischen Studenten im Verhältnis zu
+            den restlichen Verbindungen mit 9% relativ groß war.
+            <br>Ähnlich wie bei den meisten Verbindungen ist der häufigste Beruf der Väter Kaufmann. Die restlichen
+            Berufe setzt sich aus vielen verschiedenen Berufen wie z.B. Arzt, Regierungsrat oder Rittergutsbesitzer
+            zusammen.
+
+        </div>
+        <div>
+            <h3>Studienbeginn der Mitglieder</h3>
+            Insgesamt war das Corps Suevia in unserem Datensatz mit 120 Mitgliedern vertreten.<br>
+            1832 begann das erste Mitglied des Corps Suevia in unserem Datensatz sein Studium, es war Albert Süskind,
+            der 1815 geboren wurde und an der
+            Universität Tübingen Medizin studierte.<br>
+            Die letzten Mitglieder begannen 1904 ihr Studium, sie studierten alle Jura. <br>
+            Den stärksten Zuwachs an Studienanfängern der Corps Suevia gab es zwischen 1877 bis 1880 und ab 1898 bis
+            1904. <br>
+            <br><br><br><br><br><br><br>
+            <br><br><br><br><br><br><br>
+            <br><br><br><br><br><br><br>
+        </div>
+    </div>
+</div>
+
+
+<h1 id="source">&nbsp;</h1>
+<!-- creates blank space at page end. Needed to scroll to last section -->
+
+<!-- <script src="lib/d3v4+jetpack.js"></script> -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
+<script src="lib/graph-scroll.js"></script>
+<script src="script/index.js" type="module"></script>
+
+<!-- Bibliotheken für die Karte (d3-geo) -->
+<script src="https://cdn.jsdelivr.net/npm/d3-geo@3"></script>
+<script src="https://unpkg.com/topojson@3"></script>
+<script src="https://d3js.org/d3-hexbin.v0.2.min.js"></script>
+
+<!-- Load d3-cloud -->
+<script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3.layout.cloud.js"></script>
