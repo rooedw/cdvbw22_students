@@ -71,9 +71,7 @@ export function graph_network(width, height) {
             .data(graph.links)
             .enter()
             .append("line")
-            .attr("stroke-width", function (d) {
-                return Math.sqrt(d.value);
-            })
+            .attr("stroke-width", "2px")
             .style("stroke", function (d) {
                 switch (d["verwandtschaftsgrad"]) {
                     case "Schwager":

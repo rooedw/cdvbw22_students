@@ -5,17 +5,22 @@ let Tooltip = makeTooltip();
 
 export function bubbleChart(selector, width, height) {
 
+    var margin = {top: 20, right: 20, bottom: 30, left: 40}
+
+    var graph_height = 4 * height / 5
+    var legend_width = width
+    var legend_height = height - graph_height
+    const legend_colors = [blue,lightRed, orange, green, darkRed, blue]
+    const legend_num_columns = 3
+    var legend_names = []
+
     //const Tooltip = makeTooltip();
 
-    var margin = {top: 20, right: 20, bottom: 30, left: 40},
-        width = width
-        height = height;
-
     var x = d3.scaleLinear()
-        .range([0, width-120]);
+        .range([0, width]);
 
     var y = d3.scaleLinear()
-        .range([height, 0]);
+        .range([graph_height, 0]);
 
     var z = d3.scaleLinear()
         .range([1, 40]);
@@ -31,12 +36,14 @@ export function bubbleChart(selector, width, height) {
     var svg = d3.select(selector)
         .html('')
         .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
+        .attr("width", width)
+        .attr("height", graph_height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     d3.json("data/relationships/bubble_chart.json").then(function(data) {
+
+        legend_names = ["", data[2].Vater_Beruf, data[0].Vater_Beruf, data[3].Vater_Beruf, data[1].Vater_Beruf, data[4].Vater_Beruf]
 
         data.forEach(function (d) {
             d.x = +d.x;
@@ -55,34 +62,6 @@ export function bubbleChart(selector, width, height) {
             .style("border-radius", "5px")
             .style("padding", "10px")
             .style("color", "white")
-
-        // -2- Create 3 functions to show / update (when mouse move but stay on same circle) / hide the tooltip
-        var showTooltip = function (event, d) {
-            tooltip
-                .transition()
-                .duration(200)
-            tooltip
-                .style("opacity", 1)
-                .html("Beruf: " + d.Vater_Beruf + "<br>" + "Anzahl: " + d.Counts
-                    + "<br><br>"
-                    + "Top 3 Studiengänge der Kinder"
-                    + "<br>" + d.subject1 + ": " + d.count1
-                    + "<br>" + d.subject2 + ": " + d.count2
-                    + "<br>" + d.subject3 + ": " + d.count3)
-                .style("left", (event.pageX + 30) + "px")
-                .style("top", (event.pageY + 30) + "px")
-        }
-        var moveTooltip = function (event, d) {
-            tooltip
-                .style("left", (event.pageX + 30) + "px")
-                .style("top", (event.pageY + 30) + "px")
-        }
-        var hideTooltip = function (d) {
-            tooltip
-                .transition()
-                .duration(200)
-                .style("opacity", 0)
-        }
 
         svg.append("g")
             .attr("class", "x axis")
@@ -128,16 +107,46 @@ export function bubbleChart(selector, width, height) {
             })
             .on("mouseleave", Tooltip.mouseleave)
 
-})
+        var svg_graph_legend = d3
+            .select(selector)
+            .append("svg")
+            .attr("width", width)
+            .attr("height", legend_height)
 
-    var gs = d3
-        .graphScroll()
-        .container(d3.select("#container-1"))
-        .graph(d3.selectAll("#container-1 .graph"))
-        // .eventId('uniqueId1')  // namespace for scroll and resize events
-        .sections(d3.selectAll("#container-1 .sections > div"))
-        .on('active', function(i){
+        function draw_legend(svg_graph_legend, legend_width, legend_height, num_columns) {
+            var entries_per_column = Math.ceil(legend_colors.length / num_columns)
+            var height_per_entry = Math.floor(legend_height / entries_per_column)
+            var width_per_column = Math.floor(width / num_columns)
+            var y_pos = []
+            for (let i = 0; i < entries_per_column; i++) {
+                y_pos.push(i * height_per_entry + height_per_entry / 2)
+            }
+            var x_pos = []
+            for (let i = 0; i < num_columns; i++) {
+                x_pos.push(i * width_per_column + 20)
+            }
 
-        });
+            for (let i = 0; i < legend_colors.length; i++) {
+                var row_index = i % entries_per_column
+                var column_index = Math.floor(i / entries_per_column)
+
+                if (i == 0){
+                    svg_graph_legend.append("text").attr("x", x_pos[column_index]).attr("y", y_pos[row_index]).text("Top 5 Berufe").style("font-size", "15px").attr("alignment-baseline", "middle")
+
+                }
+                else{
+                    svg_graph_legend.append("circle").attr("cx", x_pos[column_index]).attr("cy", y_pos[row_index]).attr("r", 6).style("fill", legend_colors[i-1])
+
+                    svg_graph_legend.append("text").attr("x", x_pos[column_index] + 20).attr("y", y_pos[row_index]).text(legend_names[i]).style("font-size", "15px").attr("alignment-baseline", "middle")
+
+                }
+            }
+        }
+
+        draw_legend(svg_graph_legend, legend_width, legend_height, legend_num_columns)
+
+
+
+    })
 }
 

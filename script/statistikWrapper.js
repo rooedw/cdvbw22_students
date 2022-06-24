@@ -109,10 +109,10 @@ export function wrapStatistik(width, height) {
 
 
             }
-        }
 
-        // Legend
-        draw_legend(svg_graph_legend, legend_width, legend_height, 2, faecher[i-1])
+            // Legend
+            draw_legend(svg_graph_legend, legend_width, legend_height, 2, faecher[i-1])
+        }
 
     }
 

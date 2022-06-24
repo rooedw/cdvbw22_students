@@ -17,10 +17,10 @@ export function wrapFatherinfo(width, height) {
         .on("active", function (i) {
             switch (i) {
                 case 0:
-                    wordCloud("#container-2 .graph > svg", width, height);
+                    wordCloud("#container-2 .graph", width, height);
                     break;
                 case 1:
-                    bubbleChart("#container-2 .graph > svg", width, height);
+                    bubbleChart("#container-2 .graph", width, height);
                     break;
             }
         });

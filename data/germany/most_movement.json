@@ -1,0 +1,7046 @@
+{
+  "Theodor Schlatter": {
+    "places": "[(1905, 'WS', 'T\u00fcbingen'), (1905, 'WS', 'Greifswald'), (1905, 'WS', 'T\u00fcbingen'), (1907, 'SS', 'T\u00fcbingen'), (1907, 'SS', 'Greifswald'), (1907, 'SS', 'T\u00fcbingen'), (1907, 'SS', 'Halle'), (1909, 'SS', 'T\u00fcbingen'), (1909, 'SS', 'Greifswald'), (1909, 'SS', 'T\u00fcbingen'), (1909, 'SS', 'Halle'), (1909, 'SS', 'T\u00fcbingen')]"
+  },
+  "Wilhelm Ernst": {
+    "places": "[(1904, 'WS', 'T\u00fcbingen'), (1904, 'WS', 'Heidelberg'), (1907, 'SS', 'T\u00fcbingen'), (1907, 'SS', 'Heidelberg'), (1907, 'SS', 'T\u00fcbingen'), (1907, 'SS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Heidelberg'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Oskar [(Oskar Friedrich)] Winker": {
+    "places": "[(1897, 'WS', 'T\u00fcbingen'), (1897, 'WS', 'M\u00fcnchen'), (1898, 'WS', 'T\u00fcbingen'), (1898, 'WS', 'M\u00fcnchen'), (1898, 'WS', 'T\u00fcbingen'), (1898, 'WS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Karl Weizs\u00e4cker": {
+    "places": "None"
+  },
+  "David Heimann": {
+    "places": "None"
+  },
+  "Ludwig Weil": {
+    "places": "[(1900, 'SS', 'M\u00fcnchen'), (1901, 'WS', 'M\u00fcnchen'), (1901, 'WS', 'T\u00fcbingen'), (1901, 'WS', 'Leipzig'), (None, None, 'M\u00fcnchen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Otto M\u00fcller": {
+    "places": "[(1905, 'SS', 'T\u00fcbingen'), (1905, 'SS', 'Berlin'), (1905, 'SS', 'M\u00fcnchen'), (1905, 'SS', 'Leipzig'), (1905, 'SS', 'T\u00fcbingen'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'M\u00fcnchen'), (None, None, 'Leipzig')]"
+  },
+  "Gottlob Dill": {
+    "places": "[(1907, 'WS', 'T\u00fcbingen'), (1907, 'WS', 'Leipzig'), (1908, 'WS', 'T\u00fcbingen'), (1908, 'WS', 'Leipzig'), (1908, 'WS', 'T\u00fcbingen'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Albert Kallee": {
+    "places": "[(1905, 'WS', 'T\u00fcbingen'), (1905, 'WS', 'M\u00fcnchen'), (1908, 'WS', 'T\u00fcbingen'), (1908, 'WS', 'M\u00fcnchen'), (1908, 'WS', 'T\u00fcbingen'), (None, None, 'T\u00fcbingen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Erich Muff": {
+    "places": "[(1905, 'SS', 'T\u00fcbingen'), (1905, 'SS', 'Berlin'), (1907, 'WS', 'T\u00fcbingen'), (1907, 'WS', 'Berlin'), (1907, 'WS', 'T\u00fcbingen'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Paul Schlebach": {
+    "places": "[(1897, 'SS', 'T\u00fcbingen'), (1897, 'SS', 'Leipzig'), (1897, 'SS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'Berlin'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Richard [(Richard Friedrich)] S\u00fcskind": {
+    "places": "[(1904, 'WS', 'T\u00fcbingen'), (1904, 'WS', 'Leipzig'), (1904, 'WS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'Berlin'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Robert Lerchenthal": {
+    "places": "[(1901, 'SS', 'Heidelberg'), (1901, 'SS', 'M\u00fcnchen'), (1903, 'SS', 'Heidelberg'), (1903, 'SS', 'M\u00fcnchen'), (1903, 'SS', 'T\u00fcbingen'), (1903, 'SS', 'Heidelberg'), (1903, 'SS', 'Leipzig')]"
+  },
+  "Hermann Adam": {
+    "places": "[(1855, 'SS', 'T\u00fcbingen'), (1855, 'SS', 'Heidelberg'), (1855, 'SS', 'Leipzig'), (1857, 'SS', 'T\u00fcbingen'), (1857, 'SS', 'Heidelberg'), (1857, 'SS', 'Leipzig'), (1857, 'SS', 'T\u00fcbingen')]"
+  },
+  "Karl (Carl) Bilfinger": {
+    "places": "[(1900, 'WS', 'T\u00fcbingen'), (1900, 'WS', 'Stra\u00dfburg'), (1900, 'WS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Stra\u00dfburg'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Walther Schmidlin": {
+    "places": "[(1904, 'WS', 'T\u00fcbingen'), (1904, 'WS', 'Leipzig'), (1904, 'WS', 'M\u00fcnchen'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Rudolf Burk": {
+    "places": "[(1890, 'SS', 'T\u00fcbingen'), (1891, 'SS', 'T\u00fcbingen'), (1891, 'SS', 'Berlin'), (1892, 'WS', 'T\u00fcbingen'), (1892, 'WS', 'Berlin'), (1892, 'WS', 'T\u00fcbingen'), (1892, 'WS', 'M\u00fcnchen')]"
+  },
+  "Alfred Neuburger": {
+    "places": "[(1906, 'SS', 'T\u00fcbingen'), (1906, 'SS', 'Leipzig'), (1906, 'SS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Leiupzig'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Ottmar B\u00fchler": {
+    "places": "[(1907, 'SS', 'T\u00fcbingen'), (1907, 'SS', 'M\u00fcnchen'), (1907, 'SS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'M\u00fcncxhen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Edmund Mezger": {
+    "places": "[(1905, 'WS', 'T\u00fcbingen'), (1905, 'WS', 'Berlin'), (1905, 'WS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Robert Nebinger": {
+    "places": "[(1905, 'WS', 'T\u00fcbingen'), (1905, 'WS', 'Berlin'), (1905, 'WS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Robert [(Robert Adolf)] Perlen": {
+    "places": "[(1906, 'SS', 'T\u00fcbingen'), (1906, 'SS', 'Leipzig'), (1906, 'SS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Ernst Knapp": {
+    "places": "None"
+  },
+  "Paul Rapp": {
+    "places": "[(1904, 'WS', 'T\u00fcbingen'), (1904, 'WS', 'Berlin'), (1904, 'WS', 'M\u00fcnchen'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Eberhard Hauff": {
+    "places": "[(1905, 'WS', 'T\u00fcbingen'), (1905, 'WS', 'Berlin'), (1905, 'WS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Karl Gustav Stoll": {
+    "places": "[(1896, 'WS', 'T\u00fcbingen'), (1896, 'WS', 'Leipzig'), (1896, 'WS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Johannes [(Johannes Traugott)] K\u00fchne": {
+    "places": "[(1907, 'SS', 'T\u00fcbingen'), (1907, 'SS', 'Marburg'), (1907, 'SS', 'Halle'), (1908, 'SS', 'T\u00fcbingen'), (1908, 'SS', 'Marburg'), (1908, 'SS', 'Halle'), (1908, 'SS', 'T\u00fcbingen')]"
+  },
+  "Karl [(Karl August Friedrich)] Klotz": {
+    "places": "[(1906, 'WS', 'T\u00fcbingen'), (1906, 'WS', 'Kiel'), (1906, 'WS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Kiel'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Ernst Schwarzkopf": {
+    "places": "[(1905, 'WS', 'T\u00fcbingen'), (1905, 'WS', 'Kiel'), (1905, 'WS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Kiel'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Arthur Baumgarten": {
+    "places": "[(1903, 'WS', 'T\u00fcbingen'), (1903, 'WS', 'Genf'), (1905, 'WS', 'T\u00fcbingen'), (1905, 'WS', 'Genf'), (1905, 'WS', 'T\u00fcbingen'), (1905, 'WS', 'Berlin'), (1905, 'WS', 'Leipzig')]"
+  },
+  "Adolph von Ow": {
+    "places": "[(1839, 'WS', 'T\u00fcbingen'), (1839, 'WS', 'Heidelberg'), (1842, 'SS', 'T\u00fcbingen'), (1842, 'SS', 'Heidelberg'), (1842, 'SS', 'T\u00fcbingen'), (1842, 'SS', 'Berlin')]"
+  },
+  "William Hubbard": {
+    "places": "[(1899, 'SS', 'Heidelberg'), (1899, 'SS', 'M\u00fcnchen'), (1900, 'SS', 'Heidelberg'), (1900, 'SS', 'M\u00fcnchen'), (1900, 'SS', 'T\u00fcbingen'), (1900, 'SS', 'M\u00fcnchen')]"
+  },
+  "Theodor Greiner": {
+    "places": "[(1855, 'SS', 'Heidelberg'), (1855, 'SS', 'Halle'), (1855, 'WS', 'Heidelberg'), (1855, 'WS', 'Halle'), (1855, 'WS', 'T\u00fcbingen'), (1855, 'WS', 'Heidelberg')]"
+  },
+  "Hugo Majer": {
+    "places": "[(1897, 'SS', 'T\u00fcbingen'), (1897, 'SS', 'M\u00fcnchen'), (1898, 'WS', 'T\u00fcbingen'), (1898, 'WS', 'M\u00fcnchen'), (1898, 'WS', 'T\u00fcbingen'), (1898, 'WS', 'Leipzig')]"
+  },
+  "Hermann [(Hermann Friedrich)] Niethammer": {
+    "places": "[(1854, 'SS', 'Polythechnische Schule Stuttgart'), (1856, 'SS', 'Plytechnische Schule Stuttgart'), (1856, 'SS', 'T\u00fcbingen'), (1856, 'SS', 'Heidelberg')]"
+  },
+  "Ludwig Ellinger": {
+    "places": "[(1904, 'WS', 'T\u00fcbingen'), (1904, 'WS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig')]"
+  },
+  "Carl [(Carl Benjamin)] Klunzinger": {
+    "places": "[(1853, 'SS', 'Polytechnische Schule Stuttgart'), (1855, 'WS', 'Polytechnische Schule Stuttgart'), (1855, 'WS', 'T\u00fcbingen'), (1855, 'WS', 'M\u00fcnchen')]"
+  },
+  "Hans Kern": {
+    "places": "[(1905, 'WS', 'T\u00fcbingen'), (1905, 'WS', 'Kiel'), (1907, 'WS', 'T\u00fcbingen'), (1907, 'WS', 'Kiel'), (1907, 'WS', 'T\u00fcbingen'), (1907, 'WS', 'M\u00fcnchen')]"
+  },
+  "Rudolf Gr\u00fctzner": {
+    "places": "[(1903, 'WS', 'T\u00fcbingen'), (1903, 'WS', 'Genf'), (1906, 'WS', 'T\u00fcbingen'), (1906, 'WS', 'Genf'), (1906, 'WS', 'T\u00fcbingen'), (1906, 'WS', 'M\u00fcnchen')]"
+  },
+  "Wilhelm Ganzenm\u00fcller": {
+    "places": "[(1903, 'WS', 'T\u00fcbingen'), (1903, 'WS', 'Berlin'), (1905, 'WS', 'T\u00fcbingen'), (1905, 'WS', 'Berlin T\u00fcbingen'), (1905, 'WS', 'Heidelberg')]"
+  },
+  "Carl Kiderlen": {
+    "places": "[(1852, 'SS', 'T\u00fcbingen'), (1852, 'SS', 'Heidelberg'), (1853, 'SS', 'T\u00fcbingen'), (1853, 'SS', 'Heidleberg'), (1853, 'SS', 'T\u00fcbingen')]"
+  },
+  "Gustav Christian Carl Elben": {
+    "places": "[(1853, 'WS', 'T\u00fcbingen'), (1853, 'WS', 'Heidelberg'), (1855, 'WS', 'T\u00fcbingen'), (1855, 'WS', 'Heidelberg'), (1855, 'WS', 'T\u00fcbingen')]"
+  },
+  "Kilian Steiner": {
+    "places": "[(1854, 'WS', 'T\u00fcbingen'), (1854, 'WS', 'Heidelberg'), (1857, 'WS', 'T\u00fcbingen'), (1857, 'WS', 'Heidelberg'), (1857, 'WS', 'T\u00fcbingen')]"
+  },
+  "Anton Beyerle": {
+    "places": "[(1844, 'SS', 'T\u00fcbingen'), (1844, 'SS', 'Heidelberg'), (1845, 'WS', 'T\u00fcbingen'), (1845, 'WS', 'Heidelberg'), (1845, 'WS', 'T\u00fcbingen')]"
+  },
+  "Carl Graf von Linden": {
+    "places": "[(1859, 'WS', 'T\u00fcbingen'), (1859, 'WS', 'Heidelberg'), (1860, 'WS', 'T\u00fcbingen'), (1860, 'WS', 'Heidelberg'), (1860, 'WS', 'T\u00fcbingen')]"
+  },
+  "Otto Schmid": {
+    "places": "[(1906, 'SS', 'T\u00fcbingen'), (1906, 'SS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Willy [(Wilhelm Eugen)] Kn\u00f6dler": {
+    "places": "[(1899, 'WS', 'T\u00fcbingen'), (1899, 'WS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Max Schmid": {
+    "places": "[(1899, 'WS', 'T\u00fcbingen'), (1899, 'WS', 'M\u00fcnchen'), (1899, 'WS', 'T\u00fcbingen'), (1898, 'SS', 'T\u00fcbingen'), (1898, 'SS', 'M\u00fcnchen')]"
+  },
+  "Oskar [(Oskar Felix)] Rupp": {
+    "places": "[(1896, 'WS', 'T\u00fcbingen'), (1896, 'WS', 'M\u00fcnchen'), (None, None, 'T\u00fcbingen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Gustav Rau": {
+    "places": "[(1897, 'SS', 'T\u00fcbingen'), (1897, 'SS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Albert Mainzer": {
+    "places": "[(1902, 'WS', 'T\u00fcbingen'), (1902, 'WS', 'M\u00fcnchen'), (None, None, 'T\u00fcbingen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Hermann Dopffel": {
+    "places": "[(1908, 'SS', 'T\u00fcbingen'), (1908, 'SS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Karl Gottfried Bossert": {
+    "places": "[(1841, 'WS', 'T\u00fcbingen'), (1841, 'WS', 'M\u00fcnchen'), (1843, 'SS', 'T\u00fcbingen'), (1843, 'SS', 'M\u00fcnchen'), (1843, 'SS', 'T\u00fcbingen')]"
+  },
+  "Gottlob [(Paul Gottlob] Stierle": {
+    "places": "[(1899, 'SS', 'T\u00fcbingen'), (1899, 'SS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Karl [(Karl Wilhelm Ferdinand)] Fetzer": {
+    "places": "[(1899, 'SS', 'T\u00fcbingen'), (1899, 'SS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Wilhelm von G\u00fcltlingen": {
+    "places": "[(1856, 'WS', 'T\u00fcbingen'), (1856, 'WS', 'Leipzig'), (1858, 'WS', 'T\u00fcbingen'), (1858, 'WS', 'Leipzig'), (1858, 'WS', 'T\u00fcbingen')]"
+  },
+  "Viktor Bruns": {
+    "places": "[(1905, 'WS', 'T\u00fcbingen'), (1905, 'WS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Friedrich (Friedrich Wilhelm) Adae": {
+    "places": "[(1896, 'SS', 'T\u00fcbingen'), (1896, 'SS', 'M\u00fcnchen'), (None, None, 'T\u00fcbingen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Karl Pfleiderer": {
+    "places": "[(1901, 'SS', 'T\u00fcbingen'), (1901, 'SS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Max Hoering": {
+    "places": "[(1905, 'SS', 'T\u00fcbingen'), (1905, 'SS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Robert Barth": {
+    "places": "[(1907, 'WS', 'T\u00fcbingen'), (1907, 'WS', 'Leipzig'), (None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Hermann M\u00f6gling": {
+    "places": "[(1907, 'WS', 'T\u00fcbingen'), (1907, 'WS', 'Berlin'), (1909, 'WS', 'T\u00fcbingen'), (1909, 'WS', 'Berlin'), (1909, 'WS', 'T\u00fcbingen')]"
+  },
+  "Josef [(Ernst Josef)] Beyerle": {
+    "places": "[(1903, 'SS', 'T\u00fcbingen'), (1903, 'SS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Rudolf Klaiber": {
+    "places": "[(1894, 'SS', 'T\u00fcbingen'), (1894, 'SS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Karl Essig": {
+    "places": "None"
+  },
+  "Otto Widmann": {
+    "places": "[(1906, 'WS', 'T\u00fcbingen'), (1906, 'WS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Emil (Emil Wilhelm) Schwammberger": {
+    "places": "[(1904, 'SS', 'T\u00fcbingen'), (1904, 'SS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Ernst Haller": {
+    "places": "[(1897, 'WS', 'T\u00fcbingen'), (1897, 'WS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Johannes Schempp": {
+    "places": "[(1908, 'WS', 'T\u00fcbingen'), (1908, 'WS', 'Berlin'), (1911, 'WS', 'T\u00fcbingen'), (1911, 'WS', 'Berlin'), (1911, 'WS', 'T\u00fcbingen')]"
+  },
+  "Oskar [(Oskar Paul)] Schmid": {
+    "places": "[(1901, 'SS', 'T\u00fcbingen'), (1901, 'SS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Theodor Kreeb": {
+    "places": "[(1904, 'SS', 'T\u00fcbingen'), (1904, 'SS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Hermann Kern": {
+    "places": "[(1906, 'WS', 'T\u00fcbngen'), (1906, 'WS', 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Walther Liebmann": {
+    "places": "[(1903, 'WS', 'Leipzig'), (None, None, 'M\u00fcnchen'), (None, None, 'Berlin'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Friedrich ([Friedrich Richard]) von ([Freiherr von Hoyningen gen.]) Huene": {
+    "places": "[(1897, 'SS', 'Lausanne'), (1897, 'SS', 'Basel'), (1898, 'SS', 'Lausanne'), (1898, 'SS', 'Basel'), (1898, 'SS', 'T\u00fcbingen')]"
+  },
+  "Franz Linser": {
+    "places": "[(1848, 'WS', 'T\u00fcbingen'), (1851, 'WS', 'T\u00fcbingen'), (1851, 'WS', '-'), (1851, 'WS', 'T\u00fcbingen'), (1851, 'WS', 'W\u00fcrzburg')]"
+  },
+  "Friedrich Frick": {
+    "places": "[(1901, 'SS', 'Bonn'), (1901, 'SS', 'Halle'), (1902, 'SS', 'Bonn'), (1902, 'SS', 'Halle'), (1902, 'SS', 'T\u00fcbingen')]"
+  },
+  "Emil Siegle": {
+    "places": "[(1857, 'SS', 'Polytechnische Schule Stuttgart'), (1861, 'SS', 'Polytechnische Schule'), (1861, 'SS', 'T\u00fcbingen')]"
+  },
+  "Christian [(Christian Julius)] Mergenthaler": {
+    "places": "[(1903, 'WS', 'TH Stuttgart'), (1905, 'WS', 'Stuttgart'), (1905, 'WS', 'T\u00fcbingen'), (1905, 'WS', 'G\u00f6ttingen')]"
+  },
+  "Ernst [(Wilhelm Heinrich Ernst)] Kohlmeyer": {
+    "places": "[(1903, 'SS', 'Freiburg'), (1903, 'SS', 'G\u00f6ttingen'), (1903, 'SS', 'Erlangen'), (1903, 'SS', 'Greifswald')]"
+  },
+  "Richard [( Ernst Richard)] Pfleiderer": {
+    "places": "[(1892, 'WS', 'Berlin'), (1892, 'WS', 'M\u00fcnchen'), (1896, 'WS', 'Berlin'), (1896, 'WS', 'M\u00fcnchen T\u00fcbingen')]"
+  },
+  "Camillo [(Camill)] Hailer": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'Karlruhe'), (None, None, 'Heidelberg')]"
+  },
+  "Karl Euler": {
+    "places": "[(1898, 'WS', 'Leipzig'), (1898, 'WS', 'M\u00fcnchen'), (1898, 'WS', 'Berlin'), (1898, 'WS', 'Greifswald')]"
+  },
+  "Albert K\u00f6rber": {
+    "places": "[(1898, 'WS', 'Erlangen'), (1900, 'SS', 'Erlangen'), (1900, 'SS', 'T\u00fcbingen'), (1900, 'SS', 'Halle')]"
+  },
+  "Rudolf Kapff": {
+    "places": "[(1900, 'SS', 'T\u00fcbingen'), (1901, 'WS', 'T\u00fcbingen'), (1901, 'WS', 'T\u00fcbingen'), (1901, 'WS', 'Halle')]"
+  },
+  "Eduard B\u00e9guelin": {
+    "places": "[(1891, 'SS', 'T\u00fcbingen'), (1891, 'SS', 'Leipzig'), (1891, 'SS', 'Neuch\u00e2tel'), (1891, 'SS', 'Bern')]"
+  },
+  "Romano Guardini": {
+    "places": "[(1906, 'WS', 'T\u00fcbingen'), (1906, 'WS', 'Mnchen'), (1906, 'WS', 'Berlin'), (1906, 'WS', 'Freiburg')]"
+  },
+  "Friedrich (Johann Friedrich) Kopp": {
+    "places": "[(1840, 'SS', 'T\u00fcbingen'), (1842, 'WS', 'T\u00fcbingen'), (1842, 'WS', 'T\u00fcbingen'), (1842, 'WS', 'Bern')]"
+  },
+  "Alfred Neuschler": {
+    "places": "[(1893, 'WS', 'Berlin'), (1895, 'WS', 'Berlin'), (1895, 'WS', 'T\u00fcbingen'), (1895, 'WS', 'Leipzig')]"
+  },
+  "Otto [(Otto Heinrich Georg)] Bechtle": {
+    "places": "[(None, None, 'Leipzig'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen'), (None, None, 'Berlin')]"
+  },
+  "Siegfried [(Siegfried Karl)] Umrath": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'Genf'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Maximilian [(Maximilian Friedrich Karl] Barnstedt": {
+    "places": "[(1889, 'WS', 'T\u00fcbingen'), (1889, 'WS', 'Jena'), (1889, 'WS', 'T\u00fcbingen'), (1889, 'WS', 'M\u00fcnchen')]"
+  },
+  "Hermann S\u00fcskind": {
+    "places": "[(1854, 'SS', 'Genf'), (1855, 'WS', 'Genf'), (1855, 'WS', 'T\u00fcbingen'), (1855, 'WS', 'Heidelberg')]"
+  },
+  "Franz Freiherr Schenk von Stauffenberg": {
+    "places": "[(1902, 'WS', 'M\u00fcnchen'), (1902, 'WS', 'Berlin'), (1902, 'WS', 'Bonn'), (1902, 'WS', 'Hohenheim')]"
+  },
+  "Wilhelm (Alfred Wilhelm) Ansch\u00fctz": {
+    "places": "[(1890, 'SS', 'Halle'), (1894, 'SS', 'Halle'), (1894, 'SS', 'T\u00fcbingen'), (1894, 'SS', 'Marburg')]"
+  },
+  "Otto Einstein": {
+    "places": "[(1899, 'SS', 'M\u00fcnchen'), (1899, 'SS', 'Genf'), (1899, 'SS', 'M\u00fcnchen'), (1899, 'SS', 'Berlin')]"
+  },
+  "Ernst (Ernst Friedrich Wilhelm) Meumann": {
+    "places": "[(1890, 'WS', 'T\u00fcbingen'), (1890, 'WS', 'Berlin'), (1890, 'WS', 'Halle'), (1890, 'WS', 'Bonn')]"
+  },
+  "James [Eugen] Manchester": {
+    "places": "[(1897, 'WS', 'G\u00f6ttingen'), (1897, 'WS', 'Heidelberg'), (1897, 'WS', 'Leipzig')]"
+  },
+  "Robert Ernst Gustav Wilckens": {
+    "places": "[(1871, 'SS', 'T\u00fcbingen'), (1871, 'SS', 'Erlangen'), (1871, 'SS', 'Heidelberg')]"
+  },
+  "Carl Martin K\u00e4hler": {
+    "places": "[(1858, 'WS', 'Halle'), (1858, 'WS', 'K\u00f6nigsberg'), (1858, 'WS', 'Heidelberg')]"
+  },
+  "Carl Mayer": {
+    "places": "[(1870, 'WS', 'T\u00fcbingen'), (1870, 'WS', 'Heidelberg'), (1870, 'WS', 'Leipzig')]"
+  },
+  "Karl Brecht": {
+    "places": "[(1861, 'WS', 'Erlangen'), (1861, 'WS', 'Heidelberg'), (1861, 'WS', 'M\u00fcnchen')]"
+  },
+  "Josef Eberle": {
+    "places": "[(1909, 'WS', 'T\u00fcbingen'), (1909, 'WS', 'Stra\u00dfburg'), (1909, 'WS', 'Freiburg')]"
+  },
+  "Friedrich Ammon": {
+    "places": "[(1854, 'WS', 'T\u00fcbingen'), (1856, 'WS', 'T\u00fcbingen'), (1856, 'WS', 'T\u00fcbingen')]"
+  },
+  "Richard [(Richard Karl Wilhelm Freiherr)] von Koenig": {
+    "places": "[(1850, 'SS', 'T\u00fcbingen'), (1852, 'WS', 'T\u00fcbingen'), (1852, 'WS', 'T\u00fcbingen')]"
+  },
+  "Hannu (Hannu Kustaa) Holck": {
+    "places": "[(1889, 'WS', 'Helsingfors'), (1889, 'WS', 'T\u00fcbingen'), (1889, 'WS', 'Basel')]"
+  },
+  "Hermann Hesse": {
+    "places": "[(1899, 'WS', 'Erlangen'), (1899, 'WS', 'Berlin'), (1899, 'WS', 'Greifswald')]"
+  },
+  "Gustav Adolph Roesch": {
+    "places": "[(1842, 'WS', 'T\u00fcbingen'), (1844, 'WS', 'T\u00fcbingen'), (1844, 'WS', 'T\u00fcbingen')]"
+  },
+  "Wilhelm Christian Amandus M\u00fcller": {
+    "places": "[(1840, 'WS', 'T\u00fcbingen'), (1842, 'WS', 'T\u00fcbingen'), (1842, 'WS', 'T\u00fcbingen')]"
+  },
+  "Immanuel [(Immanuel Philipp Gottlieb)] Paulus": {
+    "places": "[(1859, 'SS', 'T\u00fcbingen'), (1860, 'WS', 'T\u00fcbingen'), (1860, 'WS', 'T\u00fcbingen')]"
+  },
+  "Samuel Carmichael": {
+    "places": "[(1897, 'WS', 'Edinburgh'), (1897, 'WS', 'Glasgow'), (1897, 'WS', 'Aberdeen')]"
+  },
+  "Heinrich Braun": {
+    "places": "[(1905, 'WS', 'T\u00fcbingen'), (1905, 'WS', 'Berlin'), (1905, 'WS', 'Heidelberg')]"
+  },
+  "Philipp Roth": {
+    "places": "[(1870, 'SS', 'M\u00fcnchen'), (1870, 'SS', 'Erlangen'), (1871, 'SS', 'Erlangen')]"
+  },
+  "Paul Heintzeler": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "August [(August Hermann)] Hinderer": {
+    "places": "[(1898, 'WS', 'T\u00fcbingen'), (1898, 'WS', 'Greifswald'), (1898, 'WS', 'Halle')]"
+  },
+  "Hermann [(Hermann Gottlieb)] Schwaderer": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Karl [(Karl August Sigmund)] Preuner": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Robert (Adolf Friedrich Robert) Majer": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Felix Kr\u00fcger": {
+    "places": "[(1896, 'WS', 'TH Dresden'), (1896, 'WS', 'Berlin'), (1896, 'WS', 'M\u00fcnchen')]"
+  },
+  "Hans [(Hans Gustav)] Reiff": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'Leipzig'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Friedrich Gottert": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Georg (Johann Martin Georg) Kraemer": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Reinhard Koestlin": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Ernst [(Karl Ernst)] Baier": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Eugen Englisch": {
+    "places": "[(1891, 'SS', 'M\u00fcnchen'), (1891, 'SS', 'T\u00fcbingen'), (1891, 'SS', 'M\u00fcnchen')]"
+  },
+  "Wilhelm Nusser": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Albert (Albert Friedrich) Reichert": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Friedrich Hornung": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'Berlin'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Kurt [(Kurt Karl Wilhelm)] Romeick": {
+    "places": "[(1904, 'SS', 'T\u00fcbingen'), (1904, 'SS', 'Leipzig'), (1904, 'SS', 'M\u00fcnchen')]"
+  },
+  "Eugen [(Gustav Eugen)] Jaekle": {
+    "places": "[(1891, 'SS', 'M\u00fcnchen'), (None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Hermann Hasenj\u00e4ger": {
+    "places": "[(1904, 'SS', 'Leipzig'), (1905, 'SS', 'Leipzig'), (1905, 'SS', 'T\u00fcbingen')]"
+  },
+  "Wilhelm Br\u00fcnings": {
+    "places": "[(1899, 'WS', 'T\u00fcbingen'), (1899, 'WS', 'Erlangen'), (1899, 'WS', 'Berlin')]"
+  },
+  "Richard Siebeck": {
+    "places": "[(1905, 'SS', 'T\u00fcbingen'), (1905, 'SS', 'Freiburg'), (1905, 'SS', 'Berlin')]"
+  },
+  "Ludwig Finckh": {
+    "places": "[(1897, 'SS', 'T\u00fcbingen'), (1897, 'SS', 'M\u00fcnchen'), (1897, 'SS', 'Leipzig')]"
+  },
+  "Johanes Gleitsmann": {
+    "places": "[(1900, 'SS', 'Marburg'), (1900, 'SS', 'G\u00f6ttingen'), (1900, 'SS', 'Gie\u00dfen')]"
+  },
+  "Karl Ludwig Bonhoeffer": {
+    "places": "[(1890, 'WS', 'T\u00fcbingen'), (1890, 'WS', 'Berlin'), (1890, 'WS', 'M\u00fcnchen')]"
+  },
+  "Wolfgang Stock": {
+    "places": "[(1895, 'WS', 'T\u00fcbingen'), (1895, 'WS', 'Berlin'), (1895, 'WS', 'M\u00fcnchen')]"
+  },
+  "Hugo Imle": {
+    "places": "[(1890, 'SS', 'T\u00fcbingen'), (1890, 'SS', 'M\u00fcnchen'), (1890, 'SS', 'Berlin')]"
+  },
+  "Adolf Vielhauer": {
+    "places": "[(1902, 'SS', 'Heidelberg'), (1902, 'SS', 'Halle'), (1902, 'SS', 'Berlin')]"
+  },
+  "Friedrich [(Friedrich Wilhelm Justinius)] Mohr": {
+    "places": "[(1896, 'SS', 'Berlin'), (1898, 'WS', 'Berlin'), (1898, 'WS', 'T\u00fcbingen')]"
+  },
+  "Hermann Bilfinger": {
+    "places": "[(1898, 'SS', 'T\u00fcbingen'), (1898, 'SS', 'Kiel'), (1898, 'SS', 'M\u00dcnchen')]"
+  },
+  "Ferdinand [(Karl Ottomar Ferdinand) Becker": {
+    "places": "[(1863, 'SS', 'Basel'), (1863, 'SS', 'Erlangen'), (1863, 'SS', 'Berlin')]"
+  },
+  "Ernst Commer": {
+    "places": "[(1870, 'SS', 'Berlin'), (1870, 'SS', 'Bonn'), (1870, 'SS', 'G\u00f6ttingen')]"
+  },
+  "Alban (Alban Adolf Konrad) Nast-Kolb": {
+    "places": "[(1897, 'WS', 'T\u00fcbingen'), (1897, 'WS', 'Genf'), (1897, 'WS', 'Berlin')]"
+  },
+  "Johannes Pfleiderer": {
+    "places": "[(1889, 'WS', 'Basel'), (1889, 'WS', 'T\u00fcbingen'), (1889, 'WS', 'Basel')]"
+  },
+  "Paul [(Johannes Paul Friedrich)] Schulte": {
+    "places": "[(1895, 'SS', 'T\u00fcbingen'), (1895, 'SS', 'Halle'), (1895, 'SS', 'Bonn')]"
+  },
+  "Emil Kemper": {
+    "places": "[(1906, 'SS', 'T\u00fcbingen'), (1906, 'SS', 'Halle'), (1906, 'SS', 'Bonn')]"
+  },
+  "Benedikt [(Gottlieb Benedikt)] von Hermann": {
+    "places": "[(1854, 'WS', 'Bonn'), (1855, 'WS', 'Bonn'), (1855, 'WS', 'T\u00fcbingen')]"
+  },
+  "Heinrich (Heinrich Gotthard) Treitschke": {
+    "places": "[(1854, 'SS', 'Bonn'), (1854, 'SS', 'Leipzig'), (1854, 'SS', 'Bonn')]"
+  },
+  "Karl Barth": {
+    "places": "[(1907, 'WS', 'Bern'), (1907, 'WS', 'Berlin'), (1907, 'WS', 'Bern')]"
+  },
+  "Othmar Spann": {
+    "places": "[(1902, 'WS', 'Wien'), (1902, 'WS', 'Z\u00fcrich'), (1902, 'WS', 'Bern')]"
+  },
+  "Theodor Heinr. Immanuel Georgii": {
+    "places": "[(1846, 'SS', 'T\u00fcbingen'), (1846, 'SS', 'Heidelberg')]"
+  },
+  "Paul Bockshammer": {
+    "places": "[(1855, 'SS', 'T\u00fcbingen'), (1855, 'SS', 'Heidelberg')]"
+  },
+  "Gustav (Gustav Wilhelm) Sandberger": {
+    "places": "[(1845, 'WS', 'T\u00fcbingen'), (1845, 'WS', 'Heidelberg')]"
+  },
+  "Bernhard Karl [(Bernhard Anton Carl)] Mosthaaf": {
+    "places": "[(1844, 'WS', 'T\u00fcbingen'), (1844, 'WS', 'Heidelberg')]"
+  },
+  "Carl [(Carl Christian)] Schott": {
+    "places": "[(1856, 'SS', 'T\u00fcbingen'), (1856, 'SS', 'Heidelberg')]"
+  },
+  "Ferdinand [(Christian Ferdinand)[ Gmelin": {
+    "places": "[(1844, 'SS', 'T\u00fcbingen'), (1844, 'SS', 'Heidelberg')]"
+  },
+  "Bernhard von Haller": {
+    "places": "[(1898, 'WS', 'Greifswald'), (1898, 'WS', 'Erlangen')]"
+  },
+  "Ernst (Heinrich Ernst) Gmelin": {
+    "places": "[(1840, 'SS', 'T\u00fcbingen'), (1840, 'SS', 'Heidelberg')]"
+  },
+  "Wilhelm (Wilhelm Friedrich Victor Wenzeslaus Josef) Freiherr von Koenig-Warthausen": {
+    "places": "[(1843, 'WS', 'T\u00fcbingen'), (1843, 'WS', 'Heidelberg')]"
+  },
+  "Carl [(Carl Albert)] Walcher": {
+    "places": "[(1852, 'SS', 'T\u00fcbingen'), (1852, 'SS', 'Heidelberg')]"
+  },
+  "Wilhelm August Breitling": {
+    "places": "[(1857, 'SS', 'T\u00fcbingen'), (1857, 'SS', 'Heidelberg')]"
+  },
+  "Ernst Ludwig Enders": {
+    "places": "[(1854, 'SS', 'Heidelberg'), (1854, 'SS', 'Erlangen')]"
+  },
+  "Ernst Gessler": {
+    "places": "[(1840, 'SS', 'T\u00fcbingen'), (1840, 'SS', 'Heidelberg')]"
+  },
+  "August [(August Florian Heinrich Casper)] von Egloffstein": {
+    "places": "[(1840, 'WS', 'T\u00fcbingen'), (1840, 'WS', 'Heidelberg')]"
+  },
+  "Gustav [(Johann Gustav Karl)] Mandry": {
+    "places": "[(1852, 'WS', 'T\u00fcbingen'), (1852, 'WS', 'Heidelberg')]"
+  },
+  "J\u00fcrgen Braren": {
+    "places": "[(1901, 'SS', 'Greifswald'), (1901, 'SS', 'Erlangen')]"
+  },
+  "Carl [(Karl August)] Woelffing": {
+    "places": "[(1839, 'WS', 'T\u00fcbingen'), (1839, 'WS', 'Heidelberg')]"
+  },
+  "Reinhold K\u00f6hler": {
+    "places": "[(1846, 'WS', 'T\u00fcbingen'), (1846, 'WS', 'Heidelberg')]"
+  },
+  "Theodor [(Theodor Albert)] Buttersack": {
+    "places": "[(1855, 'SS', 'T\u00fcbingen'), (1855, 'SS', 'Heidelberg')]"
+  },
+  "Max Trost": {
+    "places": "[(1898, 'WS', 'Erlangen'), (1898, 'WS', 'Heidelberg')]"
+  },
+  "Wilhelm Frisch": {
+    "places": "[(1842, 'SS', 'T\u00fcbingen'), (1842, 'SS', 'Heidelberg')]"
+  },
+  "Wilhelm Ludwig Eberhard Vischer": {
+    "places": "[(1849, 'SS', 'T\u00fcbingen'), (1849, 'SS', 'Heidelberg')]"
+  },
+  "Immanuel M\u00fcnch": {
+    "places": "[(1870, 'WS', 'Heidelberg'), (1870, 'WS', 'Erlangen')]"
+  },
+  "Julius Leipprand": {
+    "places": "[(1851, 'SS', 'T\u00fcbingen'), (1851, 'SS', 'Heidelberg')]"
+  },
+  "Friedrich August Landerer": {
+    "places": "[(1849, 'WS', 'T\u00fcbingen'), (1849, 'WS', 'Heidelberg')]"
+  },
+  "Adolph [(Gustav Adolph)] Loeflund": {
+    "places": "[(1852, 'SS', 'T\u00fcbingen'), (1852, 'SS', 'Heidelberg')]"
+  },
+  "Ludwig Sch\u00fcz": {
+    "places": "[(1841, 'WS', 'T\u00fcbingen'), (1841, 'WS', 'Heidelberg')]"
+  },
+  "August von Uxk\u00fcll": {
+    "places": "[(1849, 'SS', 'T\u00fcbingen'), (1849, 'SS', 'Heidelberg')]"
+  },
+  "Wilhelm von Frank": {
+    "places": "[(1846, 'SS', 'T\u00fcbingen'), (1846, 'SS', 'Heidelberg')]"
+  },
+  "Franz (Franz Ludwig) Hack": {
+    "places": "[(1891, 'WS', 'T\u00fcbingen'), (1891, 'WS', 'Stra\u00dfburg')]"
+  },
+  "Heinrich Sturm": {
+    "places": "[(1890, 'WS', 'T\u00fcbingen'), (1890, 'WS', 'Stuttgart')]"
+  },
+  "Hermann Schuster": {
+    "places": "[(1893, 'SS', 'Stuttgart'), (1893, 'SS', 'T\u00fcbingen')]"
+  },
+  "Julius Volz": {
+    "places": "[(1904, 'WS', 'T\u00fcbingen'), (1904, 'WS', 'G\u00f6ttingen')]"
+  },
+  "Rudolf Ehrenberg": {
+    "places": "[(1904, 'SS', 'G\u00f6ttingen'), (1904, 'SS', 'Freiburg')]"
+  },
+  "Eugen Stockmayer": {
+    "places": "None"
+  },
+  "Wilhelm Steudel": {
+    "places": "[(1851, 'WS', 'T\u00fcbingen'), (1851, 'WS', 'W\u00fcrzburg')]"
+  },
+  "Karl Singer": {
+    "places": "[(1889, 'SS', 'T\u00fcbingen'), (1889, 'SS', 'W\u00fcrzburg')]"
+  },
+  "Emil Stockmayer": {
+    "places": "[(1855, 'SS', 'T\u00fcbingen'), (1855, 'SS', 'Freiburg')]"
+  },
+  "Alois Lang": {
+    "places": "[(1902, 'WS', 'T\u00fcbingen'), (1902, 'WS', 'Freiburg')]"
+  },
+  "Karl Kissling": {
+    "places": "[(1896, 'WS', 'Freiburg'), (1896, 'WS', 'W\u00fcrzburg')]"
+  },
+  "Felix Eichberg": {
+    "places": "[(1855, 'SS', 'T\u00fcbingen'), (1855, 'SS', 'W\u00fcrzburg')]"
+  },
+  "Eberhard Mezger": {
+    "places": "[(1895, 'SS', 'T\u00fcbingen'), (1895, 'SS', 'Freiburg')]"
+  },
+  "Christian Heinrich Schmitthenner": {
+    "places": "[(1871, 'WS', 'Berlin'), (1871, 'WS', 'Heidelberg')]"
+  },
+  "Max Haffner": {
+    "places": "[(1848, 'WS', 'T\u00fcbingen'), (1850, 'SS', 'T\u00fcbingen')]"
+  },
+  "Heinrich [(Heinrich Ernst)] Kohlmann": {
+    "places": "[(1857, 'SS', 'T\u00fcbingen'), (1857, 'SS', 'Erlangen')]"
+  },
+  "Theodor Straeter": {
+    "places": "[(1855, 'WS', 'Heidelberg'), (1855, 'WS', 'Berlin')]"
+  },
+  "Eduard Debler": {
+    "places": "[(1898, 'SS', 'M\u00fcnchen'), (1898, 'SS', 'Stuttgart')]"
+  },
+  "Ferdinand B\u00fcrger": {
+    "places": "[(1871, 'WS', 'T\u00fcbingen'), (1871, 'WS', 'W\u00fcrzburg')]"
+  },
+  "Hermann Lorey": {
+    "places": "[(1898, 'SS', 'T\u00fcbingen'), (1898, 'SS', 'M\u00fcnchen')]"
+  },
+  "Theodor Schrenk": {
+    "places": "[(1891, 'SS', 'Basel'), (1891, 'SS', 'Greifswald')]"
+  },
+  "Wolfgang Stockmayer": {
+    "places": "[(1901, 'SS', 'T\u00fcbingen'), (1901, 'SS', 'M\u00fcnchen')]"
+  },
+  "Friedrich [(Karl Friedrich)] Henke": {
+    "places": "[(1890, 'SS', 'T\u00fcbingen'), (1890, 'SS', 'Leipzig')]"
+  },
+  "Max Imle": {
+    "places": "[(1889, 'WS', 'T\u00fcbingen'), (1889, 'WS', 'M\u00fcnchen')]"
+  },
+  "Albert Grammel": {
+    "places": "[(1900, 'SS', 'T\u00fcbingen'), (1900, 'SS', 'M\u00dcnchen')]"
+  },
+  "Julius von Langsdorff": {
+    "places": "[(1843, 'WS', 'Heidelberg'), (1843, 'WS', 'Halle')]"
+  },
+  "Wilhelm P\u00f6tz": {
+    "places": "[(1909, 'SS', 'T\u00fcbingen'), (1909, 'SS', 'Leipzig')]"
+  },
+  "Robert Gerber": {
+    "places": "[(1902, 'SS', 'Neuch\u00e2tel'), (1902, 'SS', 'Berlin')]"
+  },
+  "Walther Albrecht": {
+    "places": "[(1904, 'SS', 'T\u00fcbingen'), (1904, 'SS', 'M\u00fcnchen')]"
+  },
+  "Viktor (Viktor Josef) Fezer": {
+    "places": "[(None, None, 'M\u00fcnchen'), (None, None, 'T\u00fcbingen')]"
+  },
+  "Carl Elwert": {
+    "places": "[(1850, 'SS', 'T\u00fcbingen'), (1850, 'SS', 'M\u00fcnchen')]"
+  },
+  "Eugen Kohn": {
+    "places": "[(1870, 'SS', 'M\u00fcnchen'), (1870, 'SS', 'T\u00fcbingen')]"
+  },
+  "Christian M\u00e4ule": {
+    "places": "[(1893, 'WS', 'T\u00fcbingen'), (1893, 'WS', 'M\u00fcnchen')]"
+  },
+  "Julius [(Julius Albert)] Griesinger": {
+    "places": "[(1856, 'WS', 'T\u00fcbingen'), (1856, 'WS', 'M\u00fcnchen')]"
+  },
+  "Julius [(Paul Friedrich Eugen Julius)] Foehr": {
+    "places": "[(1891, 'WS', 'T\u00fcbingen'), (1891, 'WS', 'M\u00fcnchen')]"
+  },
+  "Ludwig Zimmerle": {
+    "places": "[(1890, 'WS', 'T\u00fcbingen'), (1890, 'WS', 'Leipzig')]"
+  },
+  "Carl [(Carl Emil)] Goldmann": {
+    "places": "[(1870, 'SS', 'T\u00fcbingen'), (1870, 'SS', 'Leipzig')]"
+  },
+  "Julius Schmid": {
+    "places": "[(1897, 'SS', 'T\u00fcbingen'), (1897, 'SS', 'Breslau')]"
+  },
+  "Hermann Burckhardt": {
+    "places": "[(1870, 'WS', 'Leipzig'), (1870, 'WS', 'T\u00fcbingen')]"
+  },
+  "Julius Mainzer": {
+    "places": "[(1898, 'WS', 'T\u00fcbingen'), (1898, 'WS', 'M\u00fcnchen')]"
+  },
+  "Theodor Knapp": {
+    "places": "[(1854, 'SS', 'T\u00fcbingen')]"
+  },
+  "Gustav Walcher": {
+    "places": "[(1907, 'WS', 'T\u00fcbingen'), (1907, 'WS', 'M\u00fcnchen')]"
+  },
+  "Richard [(Richard Adolf)] Paulus": {
+    "places": "[(1907, 'WS', 'T\u00fcbingen'), (1907, 'WS', 'M\u00fcnchen')]"
+  },
+  "Albert Wagner": {
+    "places": "[(1891, 'SS', 'T\u00fcbingen'), (1891, 'SS', 'M\u00fcnchen')]"
+  },
+  "Heinrich Biltz": {
+    "places": "[(1889, 'SS', 'Berlin'), (1889, 'SS', 'G\u00f6ttingen')]"
+  },
+  "Eduard R\u00fcmelin": {
+    "places": "[(1898, 'WS', 'T\u00fcbingen'), (1898, 'WS', 'M\u00fcnchen')]"
+  },
+  "Jakob Frey": {
+    "places": "[(1846, 'WS', 'T\u00fcbingen'), (1846, 'WS', 'M\u00fcnchen')]"
+  },
+  "Walter Birk": {
+    "places": "[(1902, 'SS', 'T\u00fcbingen'), (1902, 'SS', 'Leipzig')]"
+  },
+  "Gottlieb Christian Elwert": {
+    "places": "[(1855, 'WS', 'T\u00fcbingen'), (1855, 'WS', 'M\u00fcnchen')]"
+  },
+  "Otto[(Hugo Viktor Otto)] Henke": {
+    "places": "[(1898, 'SS', 'T\u00fcbingen'), (1898, 'SS', 'M\u00fcnchen')]"
+  },
+  "Karl Megenhart": {
+    "places": "[(1889, 'SS', 'T\u00fcbingen'), (1889, 'SS', 'Leipzig')]"
+  },
+  "Kurt Kaser": {
+    "places": "[(1892, 'SS', 'T\u00fcbingen'), (1892, 'SS', 'Marburg')]"
+  },
+  "Karl [(Karl Eberhard)] Guoth": {
+    "places": "[(1892, 'SS', 'T\u00fcbingen'), (1892, 'SS', 'Leipzig')]"
+  },
+  "Walter (Walther) Pfeilsticker": {
+    "places": "[(1902, 'SS', 'T\u00fcbingen'), (1902, 'SS', 'Berlin')]"
+  },
+  "Anton Johann Albrecht Haupt": {
+    "places": "[(1847, 'SS', 'Heidelberg'), (1847, 'SS', 'Bonn')]"
+  },
+  "Edwin Hoernle": {
+    "places": "[(1907, 'SS', 'T\u00fcbingen'), (1907, 'SS', 'Berlin')]"
+  },
+  "Karl [(Karl Ludwig Alfred)] Lausterer": {
+    "places": "[(None, None, 'T\u00fcbingen'), (None, None, 'Berlin')]"
+  },
+  "Hans Reiter": {
+    "places": "[(1904, 'SS', 'Leipzig'), (1904, 'SS', 'Breslau')]"
+  },
+  "Hermann (Hermann Alexander Max Georg) Freiherr von der Goltz": {
+    "places": "[(1856, 'WS', 'Erlangen'), (1856, 'WS', 'Berlin')]"
+  },
+  "Moriz Kahn": {
+    "places": "[(1894, 'WS', 'Berlin'), (1894, 'WS', 'W\u00fcrzburg')]"
+  },
+  "Carl Wilhelm Jopp": {
+    "places": "[(1845, 'WS', 'T\u00fcbingen'), (1845, 'WS', 'Berlin')]"
+  },
+  "Johannes Thaden": {
+    "places": "[(1889, 'SS', 'T\u00fcbingen'), (1889, 'SS', 'Berlin')]"
+  },
+  "Gustav Himmel": {
+    "places": "[(1903, 'WS', 'T\u00fcbingen'), (1903, 'WS', 'Berlin')]"
+  },
+  "Wilhelm von Heider": {
+    "places": "[(1870, 'SS', 'T\u00fcbingen'), (1870, 'SS', 'Berlin')]"
+  },
+  "Franz Hofmeister": {
+    "places": "[(1889, 'SS', 'T\u00fcbingen'), (1889, 'SS', 'Berlin')]"
+  },
+  "Karl (Karl Georg Wilhelm) Rathgen": {
+    "places": "[(1890, 'SS', 'T\u00fcbingen'), (1890, 'SS', 'Gie\u00dfen')]"
+  },
+  "Augustin Gretillat": {
+    "places": "[(1858, 'WS', 'Halle'), (1858, 'WS', 'G\u00f6ttingen')]"
+  },
+  "Hans Buttersack": {
+    "places": "[(1901, 'SS', 'T\u00fcbingen'), (1901, 'SS', 'Berlin')]"
+  },
+  "Moriz von Gemmingen": {
+    "places": "[(1839, 'WS', 'T\u00fcbingen'), (1839, 'WS', 'Berlin')]"
+  },
+  "Fritz Georg Rudloff": {
+    "places": "[(1890, 'SS', 'T\u00fcbingen'), (1890, 'SS', 'Berlin')]"
+  },
+  "Georg Wilhelm Friedrich Luithlen": {
+    "places": "[(1846, 'WS', 'T\u00fcbingen'), (1846, 'WS', 'Z\u00fcrich')]"
+  },
+  "Viktor Rudolf Stoffert": {
+    "places": "[(1890, 'SS', 'T\u00fcbingen'), (1890, 'SS', 'Berlin')]"
+  },
+  "Ernst [(Ernst Friderich)] Zeller": {
+    "places": "[(1852, 'WS', 'T\u00fcbingen'), (1852, 'WS', 'Berlin')]"
+  },
+  "Carl Venator": {
+    "places": "[(1840, 'SS', 'Jena'), (1840, 'SS', 'Heidelberg')]"
+  },
+  "Hermann Autenrieth": {
+    "places": "[(1892, 'SS', 'T\u00fcbingen'), (1892, 'SS', 'Berlin')]"
+  },
+  "Walter [(Edmund Walter Johannes Daniel)] Alwens": {
+    "places": "[(1904, 'SS', 'T\u00fcbingen'), (1904, 'SS', 'Berlin')]"
+  },
+  "Julius Graf von Schaesberg": {
+    "places": "[(1843, 'WS', 'Heidelberg'), (1843, 'WS', 'Bonn')]"
+  },
+  "Ewald M\u00fcller": {
+    "places": "[(1908, 'SS', 'T\u00fcbingen'), (1908, 'SS', 'Berlin')]"
+  },
+  "Edmund [(Karl Edmund Arnold)] Dorer": {
+    "places": "[(1851, 'SS', 'M\u00fcnchen'), (1851, 'SS', 'Leipzig')]"
+  },
+  "Fritz Neumann": {
+    "places": "[(1902, 'WS', 'T\u00fcbingen'), (1902, 'WS', 'Berlin')]"
+  },
+  "Wilhelm Friedrich [(Friedrich Wilhelm Victor)] Bilfinger": {
+    "places": "[(1856, 'WS', 'Polytechnische Schule Stuttgart')]"
+  },
+  "Theodor Engel": {
+    "places": "[(1856, 'WS', 'Polytechnische Schule Stuttgart')]"
+  },
+  "Carl [(Karl Friederich)] Palm": {
+    "places": "[(1857, 'SS', 'Polytechnische Schule Stuttgart')]"
+  },
+  "Wilhelm Oehler": {
+    "places": "[(1908, 'SS', 'T\u00fcbingen'), (1908, 'SS', 'Halle')]"
+  },
+  "Gustav (Gustav Eberhard) Jaeger": {
+    "places": "[(1851, 'WS', 'Polytechnische Schule Stuttgart')]"
+  },
+  "Gotthilf Werner": {
+    "places": "[(1860, 'WS', 'Polytechnische Schule Stuttgart')]"
+  },
+  "Reinhold Knapp": {
+    "places": "[(1857, 'WS', 'Polytechnische Schule Stuttgart')]"
+  },
+  "Oskar Perron": {
+    "places": "[(1902, 'WS', 'M\u00fcnchen'), (1902, 'WS', 'Berlin')]"
+  },
+  "Julius Camerer": {
+    "places": "[(1889, 'SS', 'Stra\u00dfburg'), (1889, 'SS', 'Jena')]"
+  },
+  "Peter Reinhold Grundemann": {
+    "places": "[(1855, 'SS', 'T\u00fcbingen'), (1855, 'SS', 'Halle')]"
+  },
+  "Albert (Carl Albert) Oppel": {
+    "places": "[(1851, 'SS', 'Polytechnische Schule Stuttgart')]"
+  },
+  "Theodor H\u00e4ring": {
+    "places": "[(1904, 'WS', 'T\u00fcbingen'), (1904, 'WS', 'Halle')]"
+  },
+  "Gustav Dinkelaker": {
+    "places": "[(1857, 'WS', 'Polytechnische Schule Stuttgart')]"
+  },
+  "Albrecht Sch\u00e4fer": {
+    "places": "[(1907, 'SS', 'T\u00fcbingen'), (1907, 'SS', 'Halle')]"
+  },
+  "Otto [(Otto Ernst)] Meyer": {
+    "places": "[(1892, 'WS', 'T\u00fcbingen'), (1892, 'WS', 'Halle')]"
+  },
+  "Otto Thalmessinger": {
+    "places": "[(1891, 'WS', 'M\u00fcnchen'), (1891, 'WS', 'Berlin')]"
+  },
+  "Friedrich Wilhelm Schimmelpfeng": {
+    "places": "[(1895, 'WS', 'Gie\u00dfen'), (1895, 'WS', 'Berlin')]"
+  },
+  "Oskar Bruns": {
+    "places": "[(1900, 'WS', 'T\u00fcbingen'), (1900, 'WS', 'Genf')]"
+  },
+  "Hermann Gessner": {
+    "places": "[(1845, 'SS', 'Pharmazeutisches Institut Bonn')]"
+  },
+  "Karl Huppenbauer": {
+    "places": "[(1908, 'SS', 'T\u00fcbingen'), (1908, 'SS', 'Kiel')]"
+  },
+  "Johann Joseph Schwane": {
+    "places": "[(1849, 'WS', 'Bonn'), (1849, 'WS', 'M\u00fcnster')]"
+  },
+  "Wilhelm [(Karl Otto Wilhelm)] Treplin": {
+    "places": "[(1897, 'SS', 'Halle'), (1897, 'SS', 'Berlin')]"
+  },
+  "Nathanael Koellner": {
+    "places": "[(1844, 'SS', 'Halle'), (1844, 'SS', 'Berlin')]"
+  },
+  "Conrad [(Konrad Friedrich Ludwig)] Beckhaus": {
+    "places": "[(1839, 'WS', 'Halle'), (1839, 'WS', 'Berlin')]"
+  },
+  "Karl Freyer": {
+    "places": "[(1903, 'WS', 'Basel'), (1903, 'WS', 'Halle')]"
+  },
+  "Friedrich von Bodelschwingh": {
+    "places": "[(1898, 'SS', 'Bonn'), (1898, 'SS', 'Basel')]"
+  },
+  "Adalbert Reinbold": {
+    "places": "[(1903, 'WS', 'Kolozsov\u00e0r-Klausenburg')]"
+  },
+  "Wilhelm [(Johann Friedrich Wilhelm)] Camerer": {
+    "places": "[(1861, 'WS', 'Polytechnische Schule')]"
+  },
+  "August Friedrich Kohler": {
+    "places": "[(1862, 'SS', 'Polytechnische Schule')]"
+  },
+  "Rudolph [(Rudolph Friederich Carl)] Moser": {
+    "places": "[(1859, 'WS', 'Polytechnische Schule')]"
+  },
+  "August [(Carl August)] Klett": {
+    "places": "[(1850, 'WS', 'Polytechnische Schule')]"
+  },
+  "Hermann Faber": {
+    "places": "[(1848, 'WS', 'Polytechnishe Schule')]"
+  },
+  "Constantin von Neurath": {
+    "places": "[(1896, 'SS', 'T\u00fcbingen Berlin')]"
+  },
+  "Albert Graf von Uxkull": {
+    "places": "[(1855, 'WS', 'ForstA Tharand')]"
+  },
+  "Gottlob W\u00f6lfflen": {
+    "places": "[(1901, 'WS', 'TH Stuttgart')]"
+  },
+  "Alfred (Faelligen) F\u00e4lligen": {
+    "places": "[(1903, 'SS', 'LandH Berlin')]"
+  },
+  "Karl Wildermuth": {
+    "places": "[(1898, 'WS', 'TH Stuttgart')]"
+  },
+  "Axel [(Axel Viktor August)] Aminoff": {
+    "places": "[(1898, 'SS', 'Helsingfors')]"
+  },
+  "Friedrich von Holzschuher": {
+    "places": "[(1842, 'SS', 'Heidelberg')]"
+  },
+  "Gustav Wallraff": {
+    "places": "[(1858, 'WS', 'Heidelberg')]"
+  },
+  "Carl Roether": {
+    "places": "[(1844, 'WS', 'Heidelberg')]"
+  },
+  "Georg [(Johann Georg Friedrich)] Thaden": {
+    "places": "[(1840, 'SS', 'Heidelberg')]"
+  },
+  "Nathanael Emil Graebener": {
+    "places": "[(1871, 'SS', 'Heidelberg')]"
+  },
+  "Julius Lindenmeyer": {
+    "places": "[(1855, 'SS', 'Heidelberg')]"
+  },
+  "Ernst Hochstetter": {
+    "places": "[(1848, 'SS', 'Heidelberg')]"
+  },
+  "Eduard Carl Friedrich Boeckh": {
+    "places": "[(1859, 'WS', 'Heidleberg')]"
+  },
+  "Hermann (Hermann Ludwig Heinrich) Fesenbeckh": {
+    "places": "[(1855, 'SS', 'Heidelberg')]"
+  },
+  "Theodor Fingado": {
+    "places": "[(1855, 'SS', 'Heidelberg')]"
+  },
+  "Benno Heilbut": {
+    "places": "[(1849, 'WS', 'Heidelberg')]"
+  },
+  "Georg Leopold Ludwig Haass": {
+    "places": "[(1859, 'WS', 'Heidelberg')]"
+  },
+  "Martin Lohrer": {
+    "places": "[(1848, 'WS', 'Heidelberg')]"
+  },
+  "Karl Heinrich Stratz": {
+    "places": "[(None, None, 'Heidelberg')]"
+  },
+  "Eduard Kirsch": {
+    "places": "[(1855, 'SS', 'Heidelberg')]"
+  },
+  "Wilhelm Eccard": {
+    "places": "[(1848, 'WS', 'Heidelberg')]"
+  },
+  "Wilhelm [(Johann Wilhelm)] Pfizenmaier": {
+    "places": "[(1852, 'WS', 'Hohenheim')]"
+  },
+  "Carl Martin Wiedfeldt": {
+    "places": "[(1899, 'WS', 'G\u00f6ttingen')]"
+  },
+  "Johann Jakob August Maier": {
+    "places": "[(1841, 'WS', 'Hohenheim')]"
+  },
+  "Paul Lobstein": {
+    "places": "[(1870, 'WS', 'Stra\u00dfburg')]"
+  },
+  "Johannes Roos": {
+    "places": "[(1901, 'SS', 'Greiswald')]"
+  },
+  "Franz von Miller": {
+    "places": "[(1840, 'WS', 'Hohenheim')]"
+  },
+  "Georg [(Georg Hermann] M\u00fcller": {
+    "places": "[(1898, 'WS', 'G\u00f6ttingen')]"
+  },
+  "August Froriep": {
+    "places": "[(1870, 'SS', 'G\u00f6ttingen')]"
+  },
+  "Max Schall": {
+    "places": "[(1903, 'WS', 'Stuttgart')]"
+  },
+  "Eugen Keller": {
+    "places": "[(1862, 'WS', 'Hohenheim')]"
+  },
+  "Carl Frost": {
+    "places": "[(1860, 'WS', 'Hohenheim')]"
+  },
+  "Heinrich Schoffer": {
+    "places": "[(1854, 'WS', 'Hohenheim')]"
+  },
+  "Otto Mezger": {
+    "places": "[(1901, 'WS', 'Stuttgart')]"
+  },
+  "Karl Gaab": {
+    "places": "[(1891, 'WS', 'Stra\u00dfburg')]"
+  },
+  "Franz Walter Probst": {
+    "places": "[(1841, 'SS', 'Hohenheim')]"
+  },
+  "Georg Hermann Freihofer": {
+    "places": "[(1859, 'WS', 'T\u00fcbingen')]"
+  },
+  "Carl Friedrich Goez": {
+    "places": "[(1863, 'SS', 'T\u00fcbingen')]"
+  },
+  "Johann Friedrich Neff": {
+    "places": "[(1844, 'WS', 'Freiburg')]"
+  },
+  "Paul Weisser": {
+    "places": "[(1852, 'WS', 'T\u00fcbingen')]"
+  },
+  "Paul [(Paul Ludwig Friedrich Carl)] von Eyb": {
+    "places": "[(1854, 'WS', 'T\u00fcbingen')]"
+  },
+  "Eugen Sulz": {
+    "places": "[(None, None, 'T\u00fcbingen')]"
+  },
+  "Imanuel [(Christian Gottlob Friedrich Emanuel)] Lutz": {
+    "places": "[(1860, 'SS', 'T\u00fcbingen')]"
+  },
+  "Heinrich Carl Otto Schmid": {
+    "places": "[(1841, 'WS', 'T\u00fcbingen')]"
+  },
+  "Eberhard Graf von Zeppelin": {
+    "places": "[(1863, 'SS', 'T\u00fcbingen')]"
+  },
+  "Martin Gussmann": {
+    "places": "[(None, None, 'T\u00fcbingen')]"
+  },
+  "Aime Francois Steinlen": {
+    "places": "[(1842, 'SS', 'Lausanne')]"
+  },
+  "Stephan L\u00f6sch": {
+    "places": "[(1907, 'WS', 'T\u00fcbingen')]"
+  },
+  "Johannes K\u00f6hnlein": {
+    "places": "[(1870, 'SS', 'T\u00fcbingen')]"
+  },
+  "Johann Pischek": {
+    "places": "[(1862, 'WS', 'T\u00fcbingen')]"
+  },
+  "Rudolf ([Karl Friedrich Rudolf]) Rohrer": {
+    "places": "[(1892, 'WS', 'T\u00fcbignen')]"
+  },
+  "Christian [(Sixt Christian)] Hoser": {
+    "places": "[(1848, 'SS', 'T\u00fcbingen')]"
+  },
+  "Thomas Geiselhart": {
+    "places": "[(1835, 'WS', 'Freiburg')]"
+  },
+  "Carl Schoenhardt": {
+    "places": "[(1857, 'SS', 'T\u00fcbingen')]"
+  },
+  "Ludwig Vischer": {
+    "places": "[(1849, 'SS', 'T\u00fcbingen')]"
+  },
+  "Anton [(Christian Anton)] Casanova": {
+    "places": "[(1852, 'WS', 'Freiburg')]"
+  },
+  "Ludwig (Georg Ludwig) Hartmann": {
+    "places": "[(1863, 'WS', 'T\u00fcbingen')]"
+  },
+  "Christian Gottlieb Abt": {
+    "places": "[(1840, 'SS', 'T\u00fcbingen')]"
+  },
+  "Franz [(Franz Alfred)] Herzog": {
+    "places": "[(1902, 'SS', 'Freiburg')]"
+  },
+  "Emil [(Emil Gottlieb Daniel)] G\u00f6ppel": {
+    "places": "[(1871, 'WS', 'Erlangen')]"
+  },
+  "Wilhelm Oetinger": {
+    "places": "[(1863, 'WS', 'T\u00fcbingen')]"
+  },
+  "Eduard Camerer": {
+    "places": "[(1854, 'WS', 'T\u00fcbingen')]"
+  },
+  "Paul V\u00f6lter": {
+    "places": "[(1896, 'SS', 'T\u00fcbingen')]"
+  },
+  "Albert Hauff": {
+    "places": "[(1856, 'SS', 'T\u00fcbingen')]"
+  },
+  "Eugen Friz": {
+    "places": "[(1860, 'WS', 'T\u00fcbingen')]"
+  },
+  "Oskar von Soden": {
+    "places": "[(1852, 'SS', 'T\u00fcbingen')]"
+  },
+  "Gustav Mezger": {
+    "places": "[(1850, 'SS', 'T\u00fcbingen')]"
+  },
+  "Carl Schie\u00dfle": {
+    "places": "[(1840, 'SS', 'Freiburg')]"
+  },
+  "Ernst Christian Klemm": {
+    "places": "[(1863, 'SS', 'T\u00fcbingen')]"
+  },
+  "Carl Ferdinand Hermann Immermann": {
+    "places": "[(1861, 'SS', 'T\u00fcbingen')]"
+  },
+  "Ernst Engel": {
+    "places": "[(1897, 'WS', 'T\u00fcbingen')]"
+  },
+  "Oskar Eyselein": {
+    "places": "[(1870, 'SS', 'Erlangen')]"
+  },
+  "Karl [(Karl Christian Gottlieb)] Burk": {
+    "places": "[(1848, 'WS', 'T\u00fcbingen')]"
+  },
+  "Adolph Gubitz": {
+    "places": "[(1855, 'WS', 'T\u00fcbingen')]"
+  },
+  "Otto Felsenstein": {
+    "places": "[(1901, 'SS', 'Erlangen')]"
+  },
+  "Wilhelm Friedrich Drescher": {
+    "places": "[(1841, 'WS', 'T\u00fcbingen')]"
+  },
+  "Theodor Pichler": {
+    "places": "[(1855, 'WS', 'T\u00fcbingen')]"
+  },
+  "Wilhelm Paulus": {
+    "places": "[(1895, 'SS', 'T\u00fcbingen')]"
+  },
+  "Friedrich Fiala": {
+    "places": "[(1839, 'WS', 'Freiburg')]"
+  },
+  "Ernst Hermann Osiander": {
+    "places": "[(1841, 'WS', 'T\u00fcbingen')]"
+  },
+  "Carl Ludwig Schall": {
+    "places": "[(1848, 'WS', 'T\u00fcbingen')]"
+  },
+  "Albrecht Schickhardt": {
+    "places": "[(1857, 'WS', 'T\u00fcbingen')]"
+  },
+  "Heinrich [(Gottlob Heinrich(=)] Rapp": {
+    "places": "[(1860, 'SS', 'T\u00fcbingen')]"
+  },
+  "Wilhelm Heinrich Wieland": {
+    "places": "[(1860, 'WS', 'T\u00fcbingen')]"
+  },
+  "Carl Schroeter": {
+    "places": "[(1847, 'SS', 'Freiburg')]"
+  },
+  "Theodor M\u00e4ulen": {
+    "places": "[(1866, 'SS', 'T\u00fcbingen')]"
+  },
+  "Franz (Franz Xaver) Held": {
+    "places": "[(1860, 'SS', 'T\u00fcbingen')]"
+  },
+  "Gustav Cassel": {
+    "places": "[(1898, 'SS', 'Stockhol')]"
+  },
+  "Carl Christian Vogtenberger": {
+    "places": "[(1857, 'SS', 'T\u00fcbingen')]"
+  },
+  "Theodor Eisenlohr": {
+    "places": "[(1858, 'SS', 'T\u00fcbingen')]"
+  },
+  "Georg [(Georg Friedrich)] Sattler": {
+    "places": "[(1859, 'SS', 'T\u00fcbingen')]"
+  },
+  "Friedrich Woerter": {
+    "places": "[(1844, 'WS', 'Freiburg')]"
+  },
+  "Christian Gottlob Rudolph Dann": {
+    "places": "[(1849, 'SS', 'T\u00fcbingen')]"
+  },
+  "Albert Seeger": {
+    "places": "[(1852, 'WS', 'T\u00fcbingen')]"
+  },
+  "Ernst Friedrich Hauff": {
+    "places": "[(1843, 'SS', 'T\u00fcbingen')]"
+  },
+  "Friedrich Karl Scheurlen": {
+    "places": "[(1843, 'WS', 'T\u00fcbingen')]"
+  },
+  "Hermann Wei\u00dfmann": {
+    "places": "[(1860, 'SS', 'T\u00fcbingen')]"
+  },
+  "Oskar Siebeck": {
+    "places": "[(1899, 'WS', 'Freiburg')]"
+  },
+  "Gustav Griesinger": {
+    "places": "[(1859, 'SS', 'T\u00fcbingen')]"
+  },
+  "Otto Graf von Westarp": {
+    "places": "[(1903, 'WS', 'Grenoble')]"
+  },
+  "Eduard von der Osten": {
+    "places": "[(1850, 'WS', 'T\u00fcbingen')]"
+  },
+  "Albert Steiner": {
+    "places": "[(1899, 'SS', 'T\u00fcbingen')]"
+  },
+  "Theodor Demmler": {
+    "places": "[(1909, 'WS', 'T\u00fcbingen')]"
+  },
+  "Karl Plank": {
+    "places": "[(1840, 'WS', 'T\u00fcbingen')]"
+  },
+  "Ernst Jordan": {
+    "places": "[(1852, 'WS', 'T\u00fcbingen')]"
+  },
+  "Hermann [(Hermann Adolf)] Steidle": {
+    "places": "[(None, None, 'T\u00fcbingen')]"
+  },
+  "Rudolph Stern": {
+    "places": "[(1844, 'SS', 'Erlangen')]"
+  },
+  "Karl [( Karl Ludwig Friedrich)] Schrag": {
+    "places": "[(1850, 'SS', 'T\u00fcbingen')]"
+  },
+  "Aim\u00e9 Humbert": {
+    "places": "[(1839, 'WS', 'Lausanne')]"
+  },
+  "Friedrich Ludwig Gaupp": {
+    "places": "[(1852, 'WS', 'T\u00fcbingen')]"
+  },
+  "Franz Ruisinger": {
+    "places": "[(1862, 'WS', 'T\u00fcbingen')]"
+  },
+  "Ernst Camerer": {
+    "places": "[(1859, 'SS', 'T\u00fcbingen')]"
+  },
+  "Carl von Schott": {
+    "places": "[(1866, 'SS', 'T\u00fcbingen')]"
+  },
+  "Wilhelm [(Wilhelm Eduard)] Stieglitz": {
+    "places": "[(1852, 'SS', 'T\u00fcbingen')]"
+  },
+  "Theodor Ehemann": {
+    "places": "[(1889, 'WS', 'T\u00fcbingen')]"
+  },
+  "Joseph Koenig": {
+    "places": "[(1843, 'WS', 'Freiburg')]"
+  },
+  "Gebhard Mehring": {
+    "places": "[(1893, 'SS', 'T\u00fcbingen')]"
+  },
+  "Benjamin Graeter": {
+    "places": "[(1856, 'WS', 'T\u00fcbingen')]"
+  },
+  "Hermann Amos": {
+    "places": "[(1870, 'WS', 'T\u00fcbingen')]"
+  },
+  "Constant (Charles Emanuel Constant) Fornerod": {
+    "places": "[(1839, 'WS', 'Lausanne')]"
+  },
+  "Albert Bossert": {
+    "places": "[(1860, 'SS', 'T\u00fcbingen')]"
+  },
+  "Conrad Anton Adolph Ihlefeld": {
+    "places": "[(1858, 'SS', 'Erlangen')]"
+  },
+  "August [(August Jakob)] Wieland": {
+    "places": "[(1904, 'WS', 'T\u00fcbingen')]"
+  },
+  "Johann Bartholom\u00e4 Caflisch": {
+    "places": "[(1840, 'SS', 'M\u00fcnchen')]"
+  },
+  "Gottlieb (Gottlieb Friedrich Adolf) Olpp": {
+    "places": "[(1893, 'SS', 'Marburg')]"
+  },
+  "Alfred Kliegl": {
+    "places": "[(1904, 'SS', 'M\u00fcnchen')]"
+  },
+  "Ludwig [(Ludwig Anton)] Essen": {
+    "places": "[(1852, 'WS', 'M\u00fcnster')]"
+  },
+  "Friedrich [(Friedrich Karl Theodor)] Saul": {
+    "places": "[(1887, 'SS', 'Rostock')]"
+  },
+  "Conrad Kuhn": {
+    "places": "[(1851, 'SS', 'M\u00fcnchen')]"
+  },
+  "Ernst [(Ernst Georg Ludwig)] Gueinzius": {
+    "places": "[(1904, 'SS', 'Leipzig')]"
+  },
+  "Otto Mohr": {
+    "places": "[(1871, 'WS', 'M\u00fcnchen')]"
+  },
+  "Arthur Gerlach": {
+    "places": "[(1904, 'WS', 'Leipzig')]"
+  },
+  "Bernadotte Perrin": {
+    "places": "[(1876, 'WS', 'Leipzig')]"
+  },
+  "Gustav Torelius": {
+    "places": "[(1877, 'SS', 'Uppsala')]"
+  },
+  "Karl [(Carl Wilhelm)] Ramsauer": {
+    "places": "[(1898, 'SS', 'M\u00fcnchen')]"
+  },
+  "Wilhelm Riehl": {
+    "places": "[(1842, 'WS', 'Marburg')]"
+  },
+  "Ernst M\u00fcnzenberger": {
+    "places": "[(1853, 'WS', 'M\u00fcnster')]"
+  },
+  "Gabriel Schlude": {
+    "places": "[(1852, 'WS', 'M\u00fcnchen')]"
+  },
+  "Johannes [(Bernhard Jhannes)] Deetjen": {
+    "places": "[(1899, 'SS', 'Leipzig')]"
+  },
+  "Heinrich (Heinrich Wilhelm Johannes) Schulz": {
+    "places": "[(1881, 'SS', 'Leipzig')]"
+  },
+  "Johannes Rietschel": {
+    "places": "[(1899, 'WS', 'Leipzig')]"
+  },
+  "Achille Lardelli": {
+    "places": "[(1903, 'WS', 'M\u00fcnchen')]"
+  },
+  "Friedrich [(Carl Adolf Theodor Friedrich)] Schliemann": {
+    "places": "[(1872, 'SS', 'Rostock')]"
+  },
+  "Otto R\u00f6hm": {
+    "places": "[(1898, 'SS', 'M\u00fcnchen')]"
+  },
+  "Robert Fr\u00f6sner": {
+    "places": "[(1842, 'SS', 'M\u00fcnchen')]"
+  },
+  "August Schleicher": {
+    "places": "[(1841, 'SS', 'Leipzig')]"
+  },
+  "Heinrich [(Heinrich Karl)] Nicklisch": {
+    "places": "[(1901, 'WS', 'Leipzig')]"
+  },
+  "Karl (Hans Heinrich Karl) Aereboe": {
+    "places": "[(1874, 'SS', 'Leipzig')]"
+  },
+  "Johann Carl Emil von Mangoldt": {
+    "places": "[(1845, 'WS', 'Leipzig')]"
+  },
+  "Julius (Julius August) Clemen": {
+    "places": "[(1890, 'SS', 'Leipzig')]"
+  },
+  "Christoph Friedrich Hegelmaier": {
+    "places": "[(1855, 'SS', 'M\u00fcnchen')]"
+  },
+  "David Essinger": {
+    "places": "[(1840, 'SS', 'M\u00fcnchen')]"
+  },
+  "Clive Riviere": {
+    "places": "[(1900, 'SS', 'London')]"
+  },
+  "Heinrich Hirzel": {
+    "places": "[(1840, 'WS', 'Z\u00fcrich')]"
+  },
+  "Johann Caspar Zollinger": {
+    "places": "[(1843, 'WS', 'Z\u00fcrich')]"
+  },
+  "Wilhelm Eduard Johann Heinrich Schmidt": {
+    "places": "[(1865, 'SS', 'Berlin')]"
+  },
+  "Heinrich Kesselring": {
+    "places": "[(1855, 'SS', 'Z\u00fcrich')]"
+  },
+  "Ludwig Korodi": {
+    "places": "[(1854, 'WS', 'Berlin')]"
+  },
+  "Conrad Leumann": {
+    "places": "[(1851, 'WS', 'Z\u00fcrich')]"
+  },
+  "Albert Stadler": {
+    "places": "[(1839, 'WS', 'Z\u00fcrich')]"
+  },
+  "Heinrich [Christian Ludwig Heinrich)] Hahn": {
+    "places": "[(1870, 'SS', 'Berlin')]"
+  },
+  "Ernst von Sallw\u00fcrk": {
+    "places": "[(1859, 'WS', 'Berlin')]"
+  },
+  "Hugo Rademacher": {
+    "places": "[(1871, 'SS', 'Berlin')]"
+  },
+  "Ciprian Georg Gengel": {
+    "places": "[(1845, 'WS', 'Z\u00fcrich')]"
+  },
+  "Peter Regi": {
+    "places": "[(1850, 'WS', 'Z\u00fcrich')]"
+  },
+  "Carl Friedrich Gaertner": {
+    "places": "[(1844, 'SS', 'Z\u00fcrich')]"
+  },
+  "Eberhard [(Franz Joseph Heinrich Eberhard)] Graf von Linden": {
+    "places": "[(1856, 'SS', 'Berlin')]"
+  },
+  "Christoph Regi": {
+    "places": "[(1850, 'WS', 'Z\u00fcrich')]"
+  },
+  "Eduard Hans Carl Sachse": {
+    "places": "[(1856, 'WS', 'Berlin')]"
+  },
+  "Maximilian Natus": {
+    "places": "[(1902, 'SS', 'Berlin')]"
+  },
+  "Johannes M\u00fcller": {
+    "places": "None"
+  },
+  "Walther [(Hermann Walter)] Bion": {
+    "places": "[(1850, 'SS', 'Z\u00fcroch')]"
+  },
+  "Friedrich Hefti": {
+    "places": "[(1882, 'SS', 'Z\u00fcrich')]"
+  },
+  "Woldemar Richter": {
+    "places": "[(1881, 'SS', 'Z\u00fcrich')]"
+  },
+  "Johann Baptist Heinrich": {
+    "places": "[(1842, 'WS', 'Gie\u00dfen')]"
+  },
+  "Carl Adalbert Knorr": {
+    "places": "[(1857, 'SS', 'Halle')]"
+  },
+  "Carl August B\u00e4chtold": {
+    "places": "[(1859, 'SS', 'Basel')]"
+  },
+  "Herman (Ludwig Hugo Herman) Hennicke": {
+    "places": "[(1849, 'SS', 'Halle')]"
+  },
+  "Emil F\u00fcrchtgott Looser": {
+    "places": "[(1852, 'SS', 'Basel')]"
+  },
+  "Arthur Leonhard Wessel": {
+    "places": "[(1871, 'WS', 'Halle')]"
+  },
+  "Friedrich Simon": {
+    "places": "[(1898, 'WS', 'Halle')]"
+  },
+  "August Christian Noel": {
+    "places": "[(1870, 'SS', 'Halle')]"
+  },
+  "Wilhelm [(Wilhelm R\u00f6tger Carl Leopold Hermann)] Huffelmann": {
+    "places": "[(1858, 'WS', 'Halle')]"
+  },
+  "Karl (Karl Martin Wilhelm Leopold) Krahner": {
+    "places": "[(1870, 'SS', 'Halle')]"
+  },
+  "Gotthold Kinzler": {
+    "places": "[(1891, 'SS', 'Basel')]"
+  },
+  "Rudolf Graeter": {
+    "places": "[(1895, 'SS', 'Basel')]"
+  },
+  "Paul [(Paul Heinrich)] Schmalenbach": {
+    "places": "[(1900, 'SS', 'Halle')]"
+  },
+  "Eduard Otto Georg Wackernagel": {
+    "places": "[(1858, 'WS', 'Halle')]"
+  },
+  "Friedrich August Theodor [(August Friedrich Wilhelm Theodor)] Koch": {
+    "places": "[(1849, 'SS', 'Halle')]"
+  },
+  "Friedrich Carl Ferdinand Sch\u00fctte": {
+    "places": "[(1856, 'WS', 'Halle')]"
+  },
+  "Hermann [(Hermann Wilhelm Gerhard)] Arkenau": {
+    "places": "[(1899, 'SS', 'Halle')]"
+  },
+  "Martin Jaeger": {
+    "places": "[(1900, 'WS', 'Halle')]"
+  },
+  "Robert (Heinrich Robert) Krage": {
+    "places": "[(1859, 'WS', 'Halle')]"
+  },
+  "August [(August Hermann Johannes)] Bleier": {
+    "places": "[(1903, 'SS', 'Halle')]"
+  },
+  "Carl Heinrich Theodor Woltersdorf": {
+    "places": "[(1857, 'SS', 'Halle')]"
+  },
+  "Theodor Schellenberg": {
+    "places": "[(1843, 'SS', 'Halle')]"
+  },
+  "Adolph Johannes Kleophas Zahn": {
+    "places": "[(1856, 'SS', 'Halle')]"
+  },
+  "Friedrich [(Friedrich Eberhard (Fritz))] Zillessen": {
+    "places": "[(1858, 'WS', 'Bonn')]"
+  },
+  "Heinrich (Heinrich Matthias Julius) Barlach": {
+    "places": "[(1853, 'WS', 'Kiel')]"
+  },
+  "Karl [(Karl Gottfried)] Hugelmann": {
+    "places": "[(1904, 'SS', 'Wien')]"
+  },
+  "Christoph [(Christoph Heinrich)] Boehringer": {
+    "places": "[(None, None, 'Bonn')]"
+  },
+  "Adolph Weitemeyer": {
+    "places": "[(1854, 'SS', 'Jena')]"
+  },
+  "Richard Friedrich Reinhard": {
+    "places": "[(1850, 'SS', 'Jena')]"
+  },
+  "Ernst [(Ernst Ferdinand)] Str\u00f6ter": {
+    "places": "[(1866, 'SS', 'Bonn')]"
+  },
+  "Christian August Wilmanns": {
+    "places": "[(1855, 'SS', 'Bonn')]"
+  },
+  "Alphons von Raesfeld": {
+    "places": "[(1858, 'WS', 'Bonn')]"
+  },
+  "Wilhelm Ro\u00dfmann": {
+    "places": "[(1853, 'WS', 'Jena')]"
+  },
+  "Julius Friedrich August Bahnsen": {
+    "places": "[(1851, 'SS', 'Kiel')]"
+  },
+  "Rudolph Lerche": {
+    "places": "[(1857, 'SS', 'Jena')]"
+  },
+  "Friedrich Johannes Perthes": {
+    "places": "[(1863, 'SS', 'Bonn')]"
+  },
+  "Paul Gygax": {
+    "places": "[(1884, 'SS', 'Bern')]"
+  },
+  "Philipp Gerhard Heinrich Ibbecken": {
+    "places": "[(1848, 'SS', 'Bonn')]"
+  },
+  "Hermann Carl Ludwig Gerlach": {
+    "places": "[(1852, 'WS', 'Bonn')]"
+  },
+  "Johann Balthasar Wilhelm  [(Wilhelm Johann Balthasar Hellmuth)] Braem": {
+    "places": "[(1852, 'WS', 'Bonn')]"
+  },
+  "Hermann Zeller": {
+    "places": "[(1897, 'WS', 'Genf')]"
+  },
+  "Reinhard [(Wilhelm Reinhard)] Vowinckel": {
+    "places": "[(1855, 'WS', 'Bonn')]"
+  },
+  "Daniel Galloix": {
+    "places": "[(1840, 'SS', 'Genf')]"
+  },
+  "Heinrich (Heinrich Wilhelm) Forsthoff": {
+    "places": "[(1892, 'SS', 'Bonn')]"
+  },
+  "David Altherr": {
+    "places": "[(1851, 'WS', 'Bern')]"
+  },
+  "Heinrich Ahlmann": {
+    "places": "[(1846, 'WS', 'Kiel')]"
+  },
+  "Emil Schaedler": {
+    "places": "[(1844, 'SS', 'Brn')]"
+  },
+  "Karl N\u00f6rr": {
+    "places": "None"
+  },
+  "Friedrich (Friedrich Wilhelm) Quack": {
+    "places": "None"
+  },
+  "Martin Wanner": {
+    "places": "None"
+  },
+  "Emil (Gustav Emil) Kirmse": {
+    "places": "None"
+  },
+  "Wilhelm Hochstetter": {
+    "places": "None"
+  },
+  "Adolf Gr\u00f6ber": {
+    "places": "None"
+  },
+  "Ernst Walther": {
+    "places": "None"
+  },
+  "August Dorner": {
+    "places": "None"
+  },
+  "Wilhelm Aldinger": {
+    "places": "None"
+  },
+  "Ernst Heinrich Liebau": {
+    "places": "None"
+  },
+  "Paul Mauk": {
+    "places": "None"
+  },
+  "Edwin Mayser": {
+    "places": "None"
+  },
+  "Theodor Wieland": {
+    "places": "None"
+  },
+  "Georg [(Georg Johann Julius Albert)] Schmidgall": {
+    "places": "None"
+  },
+  "Paul Balluf": {
+    "places": "None"
+  },
+  "Otto [(Otto Friedrich)] R\u00f6cker": {
+    "places": "None"
+  },
+  "Paul [(Karl August Paul)] Rothmaler": {
+    "places": "None"
+  },
+  "Emil (Ludwig Emil) Purpus": {
+    "places": "None"
+  },
+  "Eduard N\u00fc\u00dfle": {
+    "places": "None"
+  },
+  "Gustav Hoffmann": {
+    "places": "None"
+  },
+  "Carl [(Carl Ludwig August Friedrich)] Hoffmann": {
+    "places": "None"
+  },
+  "Karl [(Augusto Carlos)] Henes": {
+    "places": "None"
+  },
+  "Paul Gmelin": {
+    "places": "None"
+  },
+  "Gustav (Gustav Christian) Hofer": {
+    "places": "None"
+  },
+  "Walter [(Heinrich Johann Peter Theodor)] Neumann": {
+    "places": "None"
+  },
+  "Wilhelm Maier": {
+    "places": "None"
+  },
+  "Ernst Friedrich Karl von Bl\u00fccher": {
+    "places": "None"
+  },
+  "Karl [(Karl Friedrich)] von Oertzen": {
+    "places": "None"
+  },
+  "Emil (Emil Franz Eginhard) Bamberg": {
+    "places": "None"
+  },
+  "Johannes [(Johannes Friedrich Heinrich)] Leonhart": {
+    "places": "None"
+  },
+  "Maximilian August Kern": {
+    "places": "None"
+  },
+  "Friedrich (Friedrich Wilhelm Julius) von der L\u00fche": {
+    "places": "None"
+  },
+  "Theodor Walzberg": {
+    "places": "None"
+  },
+  "Heinrich Burmeister": {
+    "places": "None"
+  },
+  "Karl Winghofer": {
+    "places": "None"
+  },
+  "Gustav Gmelin": {
+    "places": "None"
+  },
+  "Ludwig Hartner": {
+    "places": "None"
+  },
+  "Karl Eduard Schnitzler": {
+    "places": "None"
+  },
+  "Carl Gustav Adolf Hugo Nehmiz": {
+    "places": "None"
+  },
+  "Georg (Georg Ernst Ferdinand) Capellen": {
+    "places": "None"
+  },
+  "Diedrich Schmidt": {
+    "places": "None"
+  },
+  "Adolph [(Wilhelm Adolph)] Klett": {
+    "places": "None"
+  },
+  "Carl Bellino": {
+    "places": "None"
+  },
+  "Oskar Sonntag": {
+    "places": "None"
+  },
+  "Joseph (Friedrich Joseph) Dopfer": {
+    "places": "None"
+  },
+  "Albert (Albert Leopold) B\u00e4rthold": {
+    "places": "None"
+  },
+  "Georg Sebald Christof Schwarz": {
+    "places": "None"
+  },
+  "Otto Benjamin Scheurlen": {
+    "places": "None"
+  },
+  "Rudolf Gmelin": {
+    "places": "None"
+  },
+  "Rudolf Bucher": {
+    "places": "None"
+  },
+  "Rudoph von Rom": {
+    "places": "None"
+  },
+  "Emil (Heinrich Emil Friedrich) Kurtz": {
+    "places": "None"
+  },
+  "Maximilian Fischer": {
+    "places": "None"
+  },
+  "Max Eberhard": {
+    "places": "None"
+  },
+  "August Veit": {
+    "places": "None"
+  },
+  "Johann Jakob Mezger": {
+    "places": "None"
+  },
+  "Konrad [(Carl Wilhelm Conrad)] B\u00fcchsel": {
+    "places": "None"
+  },
+  "Wilhelm [(Wilhelm Karl Edmund)] Geibel": {
+    "places": "None"
+  },
+  "Heinrich [(Johann Christian Heinrich Gottwald)] Kabis": {
+    "places": "None"
+  },
+  "Karl (Karl Friedrich Eugen) Geldner": {
+    "places": "None"
+  },
+  "Paul Graf von Reischach": {
+    "places": "None"
+  },
+  "Karl Gerstein": {
+    "places": "None"
+  },
+  "Johannes (Johannes Ernst August) Lange": {
+    "places": "None"
+  },
+  "Friedrich M\u00f6rike": {
+    "places": "None"
+  },
+  "Heinrich Rudolf Simroth": {
+    "places": "None"
+  },
+  "Friedrich Albin Hoffmann": {
+    "places": "None"
+  },
+  "Gotthold Wilhelm Simroth": {
+    "places": "None"
+  },
+  "Carl St\u00fctzle": {
+    "places": "None"
+  },
+  "Rudolf [(Rudolf Karl] Andreae": {
+    "places": "None"
+  },
+  "Albert Grieder": {
+    "places": "None"
+  },
+  "Franz von Bagnato": {
+    "places": "None"
+  },
+  "Johann Christian Adolph Jelden": {
+    "places": "None"
+  },
+  "Ernst Albert Paul Fabarius": {
+    "places": "None"
+  },
+  "Hermann (Albert Oskar Hermann) Anem\u00fcller": {
+    "places": "None"
+  },
+  "Julius Pommer": {
+    "places": "None"
+  },
+  "Jacob N\u00fcesch": {
+    "places": "None"
+  },
+  "Friedrich Bosse": {
+    "places": "None"
+  },
+  "Alfred (Alfred Eugen) Fritzsche": {
+    "places": "None"
+  },
+  "Jean Eug\u00e8ne [(Jean Marc-Eug\u00e8ne)] Berney": {
+    "places": "None"
+  },
+  "Wilhelm Camerer": {
+    "places": "None"
+  },
+  "Paul (Paul Christian) Camerer": {
+    "places": "None"
+  },
+  "Theodor (Theodor Heinrich) Camerer": {
+    "places": "None"
+  },
+  "Adolf Gerhard": {
+    "places": "None"
+  },
+  "Franz Adolph Schalch": {
+    "places": "None"
+  },
+  "Johannes (Johannes August Claudius) Wernich": {
+    "places": "None"
+  },
+  "Karl [(Ernst Friedrich Karl)] M\u00fcller": {
+    "places": "None"
+  },
+  "Paul (Paul Dietrich) Graue": {
+    "places": "None"
+  },
+  "Andreas Flury": {
+    "places": "None"
+  },
+  "Wilhelm Pessler": {
+    "places": "None"
+  },
+  "Konrad Brachmann": {
+    "places": "None"
+  },
+  "Victor Klossowski": {
+    "places": "None"
+  },
+  "Johann David Wildermuth": {
+    "places": "None"
+  },
+  "Mayer L\u00f6wengard": {
+    "places": "None"
+  },
+  "Samuel [(Samuel Franklin)] Emerson": {
+    "places": "None"
+  },
+  "Albert Helbing": {
+    "places": "None"
+  },
+  "Gustav Otto Roloff": {
+    "places": "None"
+  },
+  "Otto Eduard Heinrich Wucherer": {
+    "places": "None"
+  },
+  "Ewald [(Ewald Friedrich)] Haerlin": {
+    "places": "None"
+  },
+  "Max Nestel": {
+    "places": "None"
+  },
+  "Gustav R\u00fcmelin": {
+    "places": "None"
+  },
+  "Paul Hartmann": {
+    "places": "None"
+  },
+  "Maximilian (Paul Maximilian Otto) Lechler": {
+    "places": "None"
+  },
+  "Eduard M\u00fcller": {
+    "places": "None"
+  },
+  "Hermann Th\u00fcmmel": {
+    "places": "None"
+  },
+  "Wilhelm [(Wilhelm Eberhard)] Beck": {
+    "places": "None"
+  },
+  "Christian Uhland": {
+    "places": "None"
+  },
+  "Heinrich [(Joh. Mich. Heinrich)] Stempel": {
+    "places": "None"
+  },
+  "Emil Albertus": {
+    "places": "None"
+  },
+  "Wilhelm (Hermann Wilhelm Heinrich) H\u00f6lscher": {
+    "places": "None"
+  },
+  "Eberhard Ramm": {
+    "places": "None"
+  },
+  "Karl Rudolf Kurt Bohnstedt": {
+    "places": "None"
+  },
+  "Heinrich (Heinrich Gustav Eduard) Schuster": {
+    "places": "None"
+  },
+  "Heinrich Gockel": {
+    "places": "None"
+  },
+  "Georg (Georg Julius) Merckle": {
+    "places": "None"
+  },
+  "Gustav Adolf Uhland": {
+    "places": "None"
+  },
+  "August Herwig": {
+    "places": "None"
+  },
+  "Wolfgang Kapp": {
+    "places": "None"
+  },
+  "Fred (Fred Julius) Neufeld": {
+    "places": "None"
+  },
+  "Gotthold Hailer": {
+    "places": "None"
+  },
+  "Paul Jacob Deussen": {
+    "places": "None"
+  },
+  "Carl (Carl Gustav Adolph) Lanzberg": {
+    "places": "None"
+  },
+  "Johannes Rudolph": {
+    "places": "None"
+  },
+  "Wilhelm Schrader": {
+    "places": "None"
+  },
+  "August Preuner": {
+    "places": "None"
+  },
+  "Herrmann Essig": {
+    "places": "None"
+  },
+  "Ernst Karl Heinrich Bode": {
+    "places": "None"
+  },
+  "Emil [(Emil Paul)] K\u00f6hl": {
+    "places": "None"
+  },
+  "Eugen [(Eugen woldemar Constantin)] von Bergmann": {
+    "places": "None"
+  },
+  "Romuald Grotzer": {
+    "places": "None"
+  },
+  "Maximilian Beyerle": {
+    "places": "None"
+  },
+  "Armin [(Carl Friedrich Wilhelm Arnim)] Bach": {
+    "places": "None"
+  },
+  "Carl Pichler": {
+    "places": "None"
+  },
+  "Albert Gayler": {
+    "places": "None"
+  },
+  "Friedrich Bonhoeffer": {
+    "places": "None"
+  },
+  "Theodor J\u00e4ger": {
+    "places": "None"
+  },
+  "Carl Schweizer": {
+    "places": "None"
+  },
+  "Emil Speidel": {
+    "places": "None"
+  },
+  "Carl August Barack": {
+    "places": "None"
+  },
+  "Karl [Karl Raphael)] Spiegelhalter": {
+    "places": "None"
+  },
+  "Hugo K\u00f6bel": {
+    "places": "None"
+  },
+  "Johannes (Johannes Heinrich) Herz": {
+    "places": "None"
+  },
+  "Friedrich Schimpf": {
+    "places": "None"
+  },
+  "Gustav (Gustav Adolph) M\u00f6rike": {
+    "places": "None"
+  },
+  "Karl [(Karl Wilhelm Hermann)] Buhrow": {
+    "places": "None"
+  },
+  "Richard Hartmann": {
+    "places": "None"
+  },
+  "Friedrich Sprenger": {
+    "places": "None"
+  },
+  "Karl (Karl Benjamin Eduard) Reichold": {
+    "places": "None"
+  },
+  "Immanuel D\u00f6ring": {
+    "places": "None"
+  },
+  "Paul (Paul Heinrich Hugo) Schwarz": {
+    "places": "None"
+  },
+  "Marcus [(Philipp Friedrich Markus)] Flaischlen": {
+    "places": "None"
+  },
+  "Otto Knapp": {
+    "places": "None"
+  },
+  "Heinrich Schulz": {
+    "places": "None"
+  },
+  "Paul Kachel": {
+    "places": "None"
+  },
+  "Carl Gebhardi": {
+    "places": "None"
+  },
+  "Otto Becker": {
+    "places": "None"
+  },
+  "Ludwig [(Karl Ludwig Wilhelm)] Schmitthenner": {
+    "places": "None"
+  },
+  "Adolf Schmitthenner": {
+    "places": "None"
+  },
+  "Wilhelm Maximilian Wundt": {
+    "places": "None"
+  },
+  "Carl [(Carl Friedrich Ernst)] Jahr": {
+    "places": "None"
+  },
+  "Johannes Ipsen": {
+    "places": "None"
+  },
+  "Emil [(Emil Julius Hermann)] Schrecker": {
+    "places": "None"
+  },
+  "Martin R\u00fchlmann": {
+    "places": "None"
+  },
+  "Ernst Hoernlein": {
+    "places": "None"
+  },
+  "Hermann Offenbach": {
+    "places": "None"
+  },
+  "Paul (Johannes Paul Samuel) Menge": {
+    "places": "None"
+  },
+  "Albert Berger": {
+    "places": "None"
+  },
+  "Georg Otto Ludwig B\u00f6ltz": {
+    "places": "None"
+  },
+  "Carl Eugen Dessecker": {
+    "places": "None"
+  },
+  "Martin von Gerlach": {
+    "places": "None"
+  },
+  "Gustav von [(Carl Wilhelm Udo Gustav)] Quadt": {
+    "places": "None"
+  },
+  "Joseph [(Andreas)] Amrhein": {
+    "places": "None"
+  },
+  "August Rentschler": {
+    "places": "None"
+  },
+  "Ludwig Kubli": {
+    "places": "None"
+  },
+  "Johann Heinrich Hesse": {
+    "places": "None"
+  },
+  "Hermann Staigm\u00fcller": {
+    "places": "None"
+  },
+  "Paul [(Hugo Ludwig Paulus)] Schr\u00f6der": {
+    "places": "None"
+  },
+  "Franz Moritz Schulze": {
+    "places": "None"
+  },
+  "Carl Friedrich Oehler": {
+    "places": "None"
+  },
+  "Alfred Weisert": {
+    "places": "None"
+  },
+  "Christian Rohrer": {
+    "places": "None"
+  },
+  "Carl Rau": {
+    "places": "None"
+  },
+  "Carl August Wilhelm Hartmann": {
+    "places": "None"
+  },
+  "Heinrich Els\u00e4\u00dfer": {
+    "places": "None"
+  },
+  "Wilhelm John": {
+    "places": "None"
+  },
+  "Viktor Dieterich": {
+    "places": "None"
+  },
+  "Karl (Karl Wilhelm) Leineweber": {
+    "places": "None"
+  },
+  "Adolf R\u00f6mer": {
+    "places": "None"
+  },
+  "Hartmut G\u00fcntner": {
+    "places": "None"
+  },
+  "Hermann [(Karl Hermann Christoph)] Wild": {
+    "places": "None"
+  },
+  "Theodor (Theodor August) Lutz": {
+    "places": "None"
+  },
+  "Arthur Schott": {
+    "places": "None"
+  },
+  "Johann (Jean) de Pury": {
+    "places": "None"
+  },
+  "Ludwig Wrede": {
+    "places": "None"
+  },
+  "Caspar Franz Wrede": {
+    "places": "None"
+  },
+  "Franz Hilgendorf": {
+    "places": "None"
+  },
+  "Paul Friedrich Ferdinand Troschke": {
+    "places": "None"
+  },
+  "Paul (Paul Bernhard Wilhelm) Graffunder": {
+    "places": "None"
+  },
+  "Paul (Oskar Hermann Paul) Grunow": {
+    "places": "None"
+  },
+  "Anton (Anton Johann Sebastian) Boescher": {
+    "places": "None"
+  },
+  "Hermann Gilg": {
+    "places": "None"
+  },
+  "Christian August Finckh": {
+    "places": "None"
+  },
+  "Albrecht Julius Florens Smend": {
+    "places": "None"
+  },
+  "Franz (Franz Emil August) L\u00fcdecke": {
+    "places": "None"
+  },
+  "Friedrich Prinz zu Schaumburg-Lippe": {
+    "places": "None"
+  },
+  "Felix Porsch": {
+    "places": "None"
+  },
+  "Arnold Mendelssohn": {
+    "places": "None"
+  },
+  "Wilhelm L\u00fcdecke": {
+    "places": "None"
+  },
+  "Hermann Baum\u00fcller": {
+    "places": "None"
+  },
+  "Hermann Stempel": {
+    "places": "None"
+  },
+  "Reinhard [(Reinhard Johannes)] M\u00f6ller": {
+    "places": "None"
+  },
+  "Karl Friedrich Heinrich Hermann Salzwedel": {
+    "places": "None"
+  },
+  "Richard Mohr": {
+    "places": "None"
+  },
+  "Gustav Hirschfeld": {
+    "places": "None"
+  },
+  "Friedrich August Schorn": {
+    "places": "None"
+  },
+  "Heinrich Adelbert Keller": {
+    "places": "None"
+  },
+  "Otto Wiedeburg": {
+    "places": "None"
+  },
+  "Gustav Friedrich Leopold Ilse": {
+    "places": "None"
+  },
+  "Paul Schmidt": {
+    "places": "None"
+  },
+  "Felix [(Felix Wilhelm Heinrich Kurt)] von Schultzendorff": {
+    "places": "None"
+  },
+  "Eduard (Eduard Friedrich August) [(Friedrich August Eduard)] Handtmann": {
+    "places": "None"
+  },
+  "Otto Georg Bogislaw von Glasenapp": {
+    "places": "None"
+  },
+  "Johannes Berthold Kurt Breysig": {
+    "places": "None"
+  },
+  "Wolfgang Heine": {
+    "places": "None"
+  },
+  "Otto Schwartz": {
+    "places": "None"
+  },
+  "Christian Friedrich Dieterich": {
+    "places": "None"
+  },
+  "Oskar Pfennigsdorf": {
+    "places": "None"
+  },
+  "Carl Gottfried Friedrich Br\u00f6mel": {
+    "places": "None"
+  },
+  "Johannes Russwurm": {
+    "places": "None"
+  },
+  "Otto Hermann B\u00fcchler": {
+    "places": "None"
+  },
+  "Carl Cless": {
+    "places": "None"
+  },
+  "Eugen [(Julius Eugen Arthur)] Hilbert": {
+    "places": "None"
+  },
+  "Robert Ulrich Finckh": {
+    "places": "None"
+  },
+  "Otto Bockshammer": {
+    "places": "None"
+  },
+  "August (Sixt August) Finckh": {
+    "places": "None"
+  },
+  "Ludwig Elwert": {
+    "places": "None"
+  },
+  "Emil Oelhafen": {
+    "places": "None"
+  },
+  "August [(August Friedrich Ludwig)] Mayer": {
+    "places": "None"
+  },
+  "Wilhelm Friedrich Finckh": {
+    "places": "None"
+  },
+  "Ludwig Friedrich Muff": {
+    "places": "None"
+  },
+  "Gustav Elwert": {
+    "places": "None"
+  },
+  "Otto [(Ludwig Heinrich Wilhelm Theodor Otto)] von Breitschwert": {
+    "places": "None"
+  },
+  "Theodor Gustav Schirm": {
+    "places": "None"
+  },
+  "Hugo ([Noa Gustav Adolf Hugo]) Fleischhauer": {
+    "places": "None"
+  },
+  "Julius Keller": {
+    "places": "None"
+  },
+  "Rudolf Gustav Wunderlich": {
+    "places": "None"
+  },
+  "Christian Lachenmann": {
+    "places": "None"
+  },
+  "Johann Friedrich Kraus": {
+    "places": "None"
+  },
+  "Albert Fehleisen": {
+    "places": "None"
+  },
+  "Otto (Otto Peter Harens) Tetens": {
+    "places": "None"
+  },
+  "Friedrich Ernst Clasen": {
+    "places": "None"
+  },
+  "Julius Sch\u00fcck": {
+    "places": "None"
+  },
+  "Heinrich Friedrich Otto Abel": {
+    "places": "None"
+  },
+  "Julius Widmann": {
+    "places": "None"
+  },
+  "Gotthold [(Christian Gottlob)] Finckh": {
+    "places": "None"
+  },
+  "Wilhelm Baetzner": {
+    "places": "None"
+  },
+  "Adolf Basler": {
+    "places": "None"
+  },
+  "Friedrich [(Friedrich Hermann Bernhard)] Andr\u00e9": {
+    "places": "None"
+  },
+  "Ferdinand [(Carl Ferdinand)] W\u00e4chter": {
+    "places": "None"
+  },
+  "Bruno [(Anton Bruno)] Klaus": {
+    "places": "None"
+  },
+  "Fritz [(Fritz Wilhelm)] Siems": {
+    "places": "None"
+  },
+  "Erich (Erich Waldemar) Haenel von Cronenthal": {
+    "places": "None"
+  },
+  "Gustav [Gustav Friedrich Karl)] Burghardt": {
+    "places": "None"
+  },
+  "Otto L\u00fcning": {
+    "places": "None"
+  },
+  "Johannes Menzel": {
+    "places": "None"
+  },
+  "Siegfried [(Siegfried Gunther)] von Jagow": {
+    "places": "None"
+  },
+  "August Hermann Determann": {
+    "places": "None"
+  },
+  "Alnobert Dittmar": {
+    "places": "None"
+  },
+  "Felix Julius Blumenfeld": {
+    "places": "None"
+  },
+  "Bruno Dammann": {
+    "places": "None"
+  },
+  "Ernst Robert Wilhelm Payer": {
+    "places": "None"
+  },
+  "Hermann [(Hermann Wilhelm Heinrich)] Strathmann": {
+    "places": "None"
+  },
+  "Emil [(Joseph Emil)] N\u00fcnlist": {
+    "places": "None"
+  },
+  "Hans Bokelmann": {
+    "places": "None"
+  },
+  "Ernst Heinrich Bokelmann": {
+    "places": "None"
+  },
+  "Ferdinand Julius T\u00f6nnies": {
+    "places": "None"
+  },
+  "Alexander von Dalwigk": {
+    "places": "None"
+  },
+  "Peter [Wilhelm August Benedictus] Wallroth": {
+    "places": "None"
+  },
+  "Rudolf (Karl Rudolf) Heinze": {
+    "places": "None"
+  },
+  "Johannes Mezger": {
+    "places": "None"
+  },
+  "Reinhold W\u00f6rz": {
+    "places": "None"
+  },
+  "Kurt Weddemann": {
+    "places": "None"
+  },
+  "Ernst Vahlbruch": {
+    "places": "None"
+  },
+  "Otto Werner": {
+    "places": "None"
+  },
+  "Oskar Friedrich Seeger": {
+    "places": "None"
+  },
+  "Heinrich (Heinrich Arnold Hermann) Knoke": {
+    "places": "None"
+  },
+  "Karl [(Charles Newton)] Dubs": {
+    "places": "None"
+  },
+  "Karl (Karl Elyas) Linebarger": {
+    "places": "None"
+  },
+  "Lukas Pregizer": {
+    "places": "None"
+  },
+  "Paul (Paul Hermann Martin) Sudeck": {
+    "places": "None"
+  },
+  "Hugo (Hugo Clemens) Krantz": {
+    "places": "None"
+  },
+  "Wilhelm Keppler": {
+    "places": "None"
+  },
+  "Karl [(Karl Friedrich)] Wagner": {
+    "places": "None"
+  },
+  "Nathanael Bauer": {
+    "places": "None"
+  },
+  "Karl (Karl Friedrich Rudolf) Zeller": {
+    "places": "None"
+  },
+  "Georg Schumacher": {
+    "places": "None"
+  },
+  "Albert Sievert": {
+    "places": "None"
+  },
+  "Julius Heintz": {
+    "places": "None"
+  },
+  "Karl Wilhelm Friedrich Sachs": {
+    "places": "None"
+  },
+  "Kuno Frankenstein": {
+    "places": "None"
+  },
+  "Karl Albrecht Schaeffer": {
+    "places": "None"
+  },
+  "Friedrich Diez": {
+    "places": "None"
+  },
+  "Gustav Pregizer": {
+    "places": "None"
+  },
+  "Carl Weygandt": {
+    "places": "None"
+  },
+  "Karl Hermann Knapp": {
+    "places": "None"
+  },
+  "Hermann Reinhold Carl Johannes von Samson-Himmelstiern": {
+    "places": "None"
+  },
+  "Hermann Ernst Bernhard Encke": {
+    "places": "None"
+  },
+  "Ferdinand Otto Radtke": {
+    "places": "None"
+  },
+  "Wilhelm (Wilhelm Karl Bernhard) Knoke": {
+    "places": "None"
+  },
+  "Reinhold Friedrich Boie": {
+    "places": "None"
+  },
+  "Ernst (Ernst Theodor Otto) Keck": {
+    "places": "None"
+  },
+  "Ernst Cunradi": {
+    "places": "None"
+  },
+  "Wilhelm [(Wilhelm Immanuel)] Gauger": {
+    "places": "None"
+  },
+  "Franz Johannes Balke": {
+    "places": "None"
+  },
+  "Gottlieb [(Gottlieb Johann Friedrich)] Haberlandt": {
+    "places": "None"
+  },
+  "Max (Max Georg Adolf) Nick": {
+    "places": "None"
+  },
+  "August G\u00f6z": {
+    "places": "None"
+  },
+  "Leonhard H\u00e4berle": {
+    "places": "None"
+  },
+  "Carl von K\u00f6nig": {
+    "places": "None"
+  },
+  "Friedrich Schemer": {
+    "places": "None"
+  },
+  "Adolf [(Adolf Johann Ferdinand Gottlob)] von H\u00fcgel": {
+    "places": "None"
+  },
+  "Carl [(Johann Carl)] Scheiffele": {
+    "places": "None"
+  },
+  "Theodor Heintzeler": {
+    "places": "None"
+  },
+  "Emil R\u00fcmelin": {
+    "places": "None"
+  },
+  "Moriz [(Moritz Gottfried Ludwig)] Pfaff": {
+    "places": "None"
+  },
+  "Alfred Kinzelbach": {
+    "places": "None"
+  },
+  "Richard Abel": {
+    "places": "None"
+  },
+  "Albert Ebner": {
+    "places": "None"
+  },
+  "Karl [(Carl Friederich)] Ehrhart": {
+    "places": "None"
+  },
+  "Paul Eberhard Oskar Stritter": {
+    "places": "None"
+  },
+  "Berthold [(Berthold Ischar)] Einstein": {
+    "places": "None"
+  },
+  "Eugen Beck": {
+    "places": "None"
+  },
+  "Julius Carl Steudel": {
+    "places": "None"
+  },
+  "Wilhelm [(Wilhelm Olivier)] Leube": {
+    "places": "None"
+  },
+  "Nonus Bailer": {
+    "places": "None"
+  },
+  "Leonhard Martin Koelle": {
+    "places": "None"
+  },
+  "Carl (Carl Wilhelm) Heinz": {
+    "places": "None"
+  },
+  "Otto B\u00fcrger": {
+    "places": "None"
+  },
+  "Ludwig (Ludwig Friedrich) Ergenzinger": {
+    "places": "None"
+  },
+  "Hermann Bauer": {
+    "places": "None"
+  },
+  "Carl Gerold Ernst Wunderlich": {
+    "places": "None"
+  },
+  "Christian (Christian [Gotthilf]) Villinger": {
+    "places": "None"
+  },
+  "Carl Roesler": {
+    "places": "None"
+  },
+  "Wilhelm Kraft": {
+    "places": "None"
+  },
+  "Friedrich Alexander Dotter": {
+    "places": "None"
+  },
+  "Richard [(Richard August)] R\u00f6hn": {
+    "places": "None"
+  },
+  "Christian Carl Heinrich Hochstetter": {
+    "places": "None"
+  },
+  "Carl [(Johann (Hanns) Nepomuk Karl)] von Ow": {
+    "places": "None"
+  },
+  "Eduard von [(Joseph Edmund Max Christoph)] Ow": {
+    "places": "None"
+  },
+  "Anton Heimann": {
+    "places": "None"
+  },
+  "Friedrich Bunnemann": {
+    "places": "None"
+  },
+  "Alfred (Alfred Georg) Theilacker": {
+    "places": "None"
+  },
+  "Alfred Rochat": {
+    "places": "None"
+  },
+  "Ferdinand (Carl Ludwig Ferdinand) Bilfinger": {
+    "places": "None"
+  },
+  "Emil (Emil Nikolaus Johannes Brant) Hinselmann": {
+    "places": "None"
+  },
+  "Wilhelm Herzberg": {
+    "places": "None"
+  },
+  "Franz Ruhstrat": {
+    "places": "None"
+  },
+  "Eduard Schnurrer": {
+    "places": "None"
+  },
+  "Friedrich (Friedrich Karl Hermann) Matthaei": {
+    "places": "None"
+  },
+  "Friedrich Adolf Delius": {
+    "places": "None"
+  },
+  "Hermann (Hermann Emil Alexander) Reichert": {
+    "places": "None"
+  },
+  "Ernst (Ernst August) Nick": {
+    "places": "None"
+  },
+  "Friedrich Wilhelm Beck": {
+    "places": "None"
+  },
+  "Eduard Mezger": {
+    "places": "None"
+  },
+  "Friedrich von Entress-F\u00fcrsteneck": {
+    "places": "None"
+  },
+  "Julius Sigel": {
+    "places": "None"
+  },
+  "Adolf Rentschler": {
+    "places": "None"
+  },
+  "Hermann (Christian Hermann) Hausser": {
+    "places": "None"
+  },
+  "Wilhelm (Wilhelm Johann Moriz) Arnold": {
+    "places": "None"
+  },
+  "Detlef Graf von Rantzau": {
+    "places": "None"
+  },
+  "Christian [(Christian Karl Otto Adolf)] Graf von Rantzau": {
+    "places": "None"
+  },
+  "Carl Ferdinand Grei\u00df": {
+    "places": "None"
+  },
+  "Georg Teufel": {
+    "places": "None"
+  },
+  "Wilhelm Lang": {
+    "places": "None"
+  },
+  "Carl Fr. Megenhart": {
+    "places": "None"
+  },
+  "Otto [(Otto Paul)] Denk": {
+    "places": "None"
+  },
+  "Carl Victor Otto Schmidt": {
+    "places": "None"
+  },
+  "August Schmidt": {
+    "places": "None"
+  },
+  "Vinzenz Fischer": {
+    "places": "None"
+  },
+  "Jakob Hitz": {
+    "places": "None"
+  },
+  "Adalbert (Balthasar Adalbert) M\u00fcller-Dany": {
+    "places": "None"
+  },
+  "Karl [(Carl Maria Victor)] Mathis": {
+    "places": "None"
+  },
+  "Carl Friedrich Beck": {
+    "places": "None"
+  },
+  "Adolf [(Adolf Maximilian Ernst)] Hafenreffer": {
+    "places": "None"
+  },
+  "Heinrich [(Heinrich Julius)] Braun": {
+    "places": "None"
+  },
+  "Ernst Albert Pfender": {
+    "places": "None"
+  },
+  "Karl (Hans Karl Dietrich) von Radecke": {
+    "places": "None"
+  },
+  "Gustav Adolf Neuber": {
+    "places": "None"
+  },
+  "Heinrich Eduard Wiedemann": {
+    "places": "None"
+  },
+  "Heinrich (Gottfried Heinrich) von Zedlitz": {
+    "places": "None"
+  },
+  "Paul Schreiber": {
+    "places": "None"
+  },
+  "Gotthilf Ernst Thomas Ranke": {
+    "places": "None"
+  },
+  "Eugen Tatarinoff": {
+    "places": "None"
+  },
+  "Ernst (Friedrich Wilhelm Ernst) Eilsberger": {
+    "places": "None"
+  },
+  "Viktor Lisack": {
+    "places": "None"
+  },
+  "Wilhelm Menton": {
+    "places": "None"
+  },
+  "Hermann Stotz": {
+    "places": "None"
+  },
+  "Immanuel Paulus": {
+    "places": "None"
+  },
+  "Ernst Bertheau": {
+    "places": "None"
+  },
+  "Ernst Jessen": {
+    "places": "None"
+  },
+  "Volquart Pauls": {
+    "places": "None"
+  },
+  "Ferdinand (Ferdinand Wilhelm Heinrich) Koopmann": {
+    "places": "None"
+  },
+  "Alfred Binder": {
+    "places": "None"
+  },
+  "Otto Friedrich Vo\u00dfler": {
+    "places": "None"
+  },
+  "Albert [(Carl Albert)] Haldenwang": {
+    "places": "None"
+  },
+  "Theodor [(Ernst Theodor)] Wurm": {
+    "places": "None"
+  },
+  "Hermann Wildermuth": {
+    "places": "None"
+  },
+  "Hans Schlossberger": {
+    "places": "None"
+  },
+  "Max Wiest": {
+    "places": "None"
+  },
+  "Paul Feuerlein": {
+    "places": "None"
+  },
+  "Paul [(Paul Eduard)] Bruns": {
+    "places": "None"
+  },
+  "Christian Franck": {
+    "places": "None"
+  },
+  "Carl Sigmundt": {
+    "places": "None"
+  },
+  "Carl Huzel": {
+    "places": "None"
+  },
+  "Robert Binswanger": {
+    "places": "None"
+  },
+  "Sigmund Albert Landerer": {
+    "places": "None"
+  },
+  "Heinrich (Heinz) Wetzel": {
+    "places": "None"
+  },
+  "Wilhelm Strauch": {
+    "places": "None"
+  },
+  "Robert Vischer": {
+    "places": "None"
+  },
+  "Karl Theodor Vierordt": {
+    "places": "None"
+  },
+  "Karl (Karl Gottlob) Gmelin": {
+    "places": "None"
+  },
+  "Karl Hegelmaier": {
+    "places": "None"
+  },
+  "Hermann Gmelin": {
+    "places": "None"
+  },
+  "Reinhold Glitsch": {
+    "places": "None"
+  },
+  "Karl [(Karl Heinrich Gustav)] Weihenmaier": {
+    "places": "None"
+  },
+  "Theodor Gessler": {
+    "places": "None"
+  },
+  "Hermann Krau\u00df": {
+    "places": "None"
+  },
+  "Christian Jetter": {
+    "places": "None"
+  },
+  "Karl [(Karl Heinrich Eberg.)] Heigelin": {
+    "places": "None"
+  },
+  "Heinrich Kaess": {
+    "places": "None"
+  },
+  "Friedrich Schmidt": {
+    "places": "None"
+  },
+  "Theodor M\u00fcller-[F\u00fcrer]": {
+    "places": "None"
+  },
+  "Joel Julius Efron": {
+    "places": "None"
+  },
+  "Friedrich Mayer": {
+    "places": "None"
+  },
+  "Siegfried Lebrecht [(Otto Siegfried Leberecht)] Steffens": {
+    "places": "None"
+  },
+  "Friedrich Wilhelm Harnisch": {
+    "places": "None"
+  },
+  "Rudolf (Woldemar Rudolf) Hoeckner": {
+    "places": "None"
+  },
+  "Christian Wurm": {
+    "places": "None"
+  },
+  "Hermann Gustav Feuerlein": {
+    "places": "None"
+  },
+  "Johann Heinrich Ernst Beneke": {
+    "places": "None"
+  },
+  "Hermann Theodor Bruns": {
+    "places": "None"
+  },
+  "Joseph Jeggle": {
+    "places": "None"
+  },
+  "Johannes Paulsen": {
+    "places": "None"
+  },
+  "Gottlieb Adolf Nourney": {
+    "places": "None"
+  },
+  "Johannes Karl August Ludwig B\u00f6tticher": {
+    "places": "None"
+  },
+  "Paul (Paul Johann Friedrich) Wentrup": {
+    "places": "None"
+  },
+  "Otto [(August Otto)] Knoblauch": {
+    "places": "None"
+  },
+  "Peter [(Peter Alexander)] von Slupecki": {
+    "places": "None"
+  },
+  "Franz Bieg": {
+    "places": "None"
+  },
+  "Richard Hochstetter": {
+    "places": "None"
+  },
+  "Oskar Oeffinger": {
+    "places": "None"
+  },
+  "Carl Friedrich Liesching": {
+    "places": "None"
+  },
+  "Friedrich Wilhelm Mayer": {
+    "places": "None"
+  },
+  "Carl [(Carl Heinrich)] Finckh": {
+    "places": "None"
+  },
+  "Albert Zeller": {
+    "places": "None"
+  },
+  "Max Zeller": {
+    "places": "None"
+  },
+  "Ludwig Zeller": {
+    "places": "None"
+  },
+  "Georg Lechler": {
+    "places": "None"
+  },
+  "Carl Palmer": {
+    "places": "None"
+  },
+  "Gottlob August Luppold": {
+    "places": "None"
+  },
+  "Friedrich von Lindequist": {
+    "places": "None"
+  },
+  "Friedrich (Karl Adolf Friedrich) Hartte": {
+    "places": "None"
+  },
+  "Friedrich [(Friedrich Otto)] Boesner": {
+    "places": "None"
+  },
+  "Ernst Frey": {
+    "places": "None"
+  },
+  "Lothar Pfau": {
+    "places": "None"
+  },
+  "Heinrich [(Heinrich Ernst Benno)] Fischer": {
+    "places": "None"
+  },
+  "Gottlob Linck": {
+    "places": "None"
+  },
+  "Karl [(Karl Friedrich)] Schall": {
+    "places": "None"
+  },
+  "Julius [(Julius Ludwig Friedrich)] Weizsaecker": {
+    "places": "None"
+  },
+  "August Oesterlen": {
+    "places": "None"
+  },
+  "Carl Heinrich Weizs\u00e4cker": {
+    "places": "None"
+  },
+  "Gustav Essig": {
+    "places": "None"
+  },
+  "Adolf [(Ferdinand Wilhelm Adolph)] Kleinmann": {
+    "places": "None"
+  },
+  "Franz Reinhard": {
+    "places": "None"
+  },
+  "Johann Martin Usteri": {
+    "places": "None"
+  },
+  "Friedrich Schweizer": {
+    "places": "None"
+  },
+  "Adolf (Adolf Heinrich Wilhelm Ferdinand) Eyme": {
+    "places": "None"
+  },
+  "Friedrich [(Eduard Friedrich)] Sailer": {
+    "places": "None"
+  },
+  "Otto [(Karl Otto)] L\u00fcdecke": {
+    "places": "None"
+  },
+  "Eugen (Ludwig Max Eugen) Flatt": {
+    "places": "None"
+  },
+  "Friedrich Michael Martin Schiele": {
+    "places": "None"
+  },
+  "Otto [(Carl Otto)] R\u00f6sler": {
+    "places": "None"
+  },
+  "Otto Schauer": {
+    "places": "None"
+  },
+  "Christian Seefried": {
+    "places": "None"
+  },
+  "Manfred Eimer": {
+    "places": "None"
+  },
+  "Johannes [(Johannes Martin Immanuel)] Block": {
+    "places": "None"
+  },
+  "Bernhard Trittelvitz": {
+    "places": "None"
+  },
+  "Leopold Hodrus": {
+    "places": "None"
+  },
+  "Carl [(Karl Maria Eberhard)] Graf von Waldburg-[Zeil-]Wurzach": {
+    "places": "None"
+  },
+  "Josef Haug": {
+    "places": "None"
+  },
+  "Paul Ehebald": {
+    "places": "None"
+  },
+  "Franz Xaver Schweizer": {
+    "places": "None"
+  },
+  "Robert Heu\u00df": {
+    "places": "None"
+  },
+  "Gottlob Heinrich Schlichter": {
+    "places": "None"
+  },
+  "Wilhelm Keller": {
+    "places": "None"
+  },
+  "Carl [(Carl Daniel)] Maier": {
+    "places": "None"
+  },
+  "Paul Robert Schlack": {
+    "places": "None"
+  },
+  "Otto Sch\u00fctz": {
+    "places": "None"
+  },
+  "Carl Fortenbach": {
+    "places": "None"
+  },
+  "Hermann Eugen Erhardt": {
+    "places": "None"
+  },
+  "Math\u00e4us Heinrich Gau\u00df": {
+    "places": "None"
+  },
+  "Gustav [(Karl Gustav Albert)] M\u00fcller": {
+    "places": "None"
+  },
+  "Alfred Kihlmann": {
+    "places": "None"
+  },
+  "Johannes Oestring": {
+    "places": "None"
+  },
+  "Josef Freisen": {
+    "places": "None"
+  },
+  "Otto Sprengel": {
+    "places": "None"
+  },
+  "Heinrich [(Theodor Paul Heinrich)] Pressel": {
+    "places": "None"
+  },
+  "Robert Klaiber": {
+    "places": "None"
+  },
+  "Ludwig (Ludwig Friedrich) Schmidt": {
+    "places": "None"
+  },
+  "Wilhelm (Carl Friedrich Wilhelm) Leypold": {
+    "places": "None"
+  },
+  "Emil Friedrich Maximilian Dreifs": {
+    "places": "None"
+  },
+  "Heinrich Beckmann": {
+    "places": "None"
+  },
+  "Jakob Coray": {
+    "places": "None"
+  },
+  "Karl G\u00f6bels": {
+    "places": "None"
+  },
+  "Otto B\u00f6hringer": {
+    "places": "None"
+  },
+  "Carl Maximilian Keppler": {
+    "places": "None"
+  },
+  "Friedrich [(Friedrich Leopold Maria Joseph Michael)] Erbgraf von Waldburg-Wolfegg": {
+    "places": "None"
+  },
+  "Otto [(Ludwig Friedrich Otto)] Hegelmaier": {
+    "places": "None"
+  },
+  "Wilhelm Ekert": {
+    "places": "None"
+  },
+  "Gustav Schleich": {
+    "places": "None"
+  },
+  "Carl Heim": {
+    "places": "None"
+  },
+  "Friedrich Ludwig Ernst Neud\u00f6rfer": {
+    "places": "None"
+  },
+  "Carl Friedrich Eugen Zahn": {
+    "places": "None"
+  },
+  "Georg (Max Emil Hugo Georg) Ilberg": {
+    "places": "None"
+  },
+  "Friedrich (Friedrich Wilhelm Heinrich Lauritz) Jessen": {
+    "places": "None"
+  },
+  "Georg Ludwig Schmid": {
+    "places": "None"
+  },
+  "Gustav (Gustav Friedrich Karl) Stein": {
+    "places": "None"
+  },
+  "Philipp Stein": {
+    "places": "None"
+  },
+  "Friedrich Otto Richard Nippold": {
+    "places": "None"
+  },
+  "Julius Nestel": {
+    "places": "None"
+  },
+  "Robert Wilbrandt": {
+    "places": "None"
+  },
+  "Alfred (Alfred Theodor) Hoffmann": {
+    "places": "None"
+  },
+  "Rudolf Bultmann": {
+    "places": "None"
+  },
+  "Heinrich (Heinrich Jan\u00dfen) Iben": {
+    "places": "None"
+  },
+  "Theodor Keller": {
+    "places": "None"
+  },
+  "Max Christlieb": {
+    "places": "None"
+  },
+  "Erwin  [(Erwin Karl Ernst)] von Seckendorff": {
+    "places": "None"
+  },
+  "Friedrich Swart": {
+    "places": "None"
+  },
+  "Friedrich Ludwig Sachs": {
+    "places": "None"
+  },
+  "Oskar von Gebhardt": {
+    "places": "None"
+  },
+  "Gustav Ragotzky": {
+    "places": "None"
+  },
+  "Wilhelm Berenbruch": {
+    "places": "None"
+  },
+  "Karl Wei\u00df": {
+    "places": "None"
+  },
+  "Eugen Bilfinger": {
+    "places": "None"
+  },
+  "Martin Naumann": {
+    "places": "None"
+  },
+  "Heinrich (Gotthold Gustav Heinrich) J\u00fcrgens": {
+    "places": "None"
+  },
+  "Ferdinand Mainzer": {
+    "places": "None"
+  },
+  "Robert Mainzer": {
+    "places": "None"
+  },
+  "Otto B\u00f6klen": {
+    "places": "None"
+  },
+  "Hermann Schickhardt": {
+    "places": "None"
+  },
+  "Carl Wilhelm Schickhardt": {
+    "places": "None"
+  },
+  "Ludwig Karrer": {
+    "places": "None"
+  },
+  "Adolf (Eduard Adolf) Hille": {
+    "places": "None"
+  },
+  "Gustav (Gustav Georg Hans) Rosenhagen": {
+    "places": "None"
+  },
+  "Joseph [Joseph Karl Pankraz)] Morel": {
+    "places": "None"
+  },
+  "Ernst Kapff": {
+    "places": "None"
+  },
+  "Fritz [(Friedrich Hermann)] R\u00f6rig": {
+    "places": "None"
+  },
+  "Friedrich (Fritz) Morin": {
+    "places": "None"
+  },
+  "Wilhelm Seufert": {
+    "places": "None"
+  },
+  "Christian [(Christian Friedrich)] Maisch": {
+    "places": "None"
+  },
+  "Albert Picot": {
+    "places": "None"
+  },
+  "Friedrich [(Friedrich Heinrich Robert)] Leonhard": {
+    "places": "None"
+  },
+  "Wilhelm Biesten": {
+    "places": "None"
+  },
+  "Wilhelm Hopfm\u00fcller": {
+    "places": "None"
+  },
+  "Ernst Riemschneider": {
+    "places": "None"
+  },
+  "Julius [(Julius Ruprecht)] von Loewenfeld": {
+    "places": "None"
+  },
+  "Otto Liesching": {
+    "places": "None"
+  },
+  "Wilhelm [(Wilhelm Hermann Paul)] Hasel": {
+    "places": "None"
+  },
+  "Karl Theodor Liesching": {
+    "places": "None"
+  },
+  "Wilhelm Pitsch-Schroener": {
+    "places": "None"
+  },
+  "Karl Kieser": {
+    "places": "None"
+  },
+  "Michael G\u00fcldenstein": {
+    "places": "None"
+  },
+  "Gerhard Riebicke": {
+    "places": "None"
+  },
+  "Hugo [(Karl Wilhelm Julius Hugo)] Riemann": {
+    "places": "None"
+  },
+  "Hugo Holth\u00f6fer": {
+    "places": "None"
+  },
+  "Karl Weigel": {
+    "places": "None"
+  },
+  "Julius Helbling": {
+    "places": "None"
+  },
+  "Johann Adolph Dinkelacker": {
+    "places": "None"
+  },
+  "Constantin Saelzlen": {
+    "places": "None"
+  },
+  "Gustav Hartmann": {
+    "places": "None"
+  },
+  "Johannes Haldenwang": {
+    "places": "None"
+  },
+  "Hermann Kremers": {
+    "places": "None"
+  },
+  "Gustav Adolph Saxer": {
+    "places": "None"
+  },
+  "Franz Oster": {
+    "places": "None"
+  },
+  "Paul Gschwind": {
+    "places": "None"
+  },
+  "Karl Renz": {
+    "places": "None"
+  },
+  "Paul [(Georg Paul Julius)] Koch": {
+    "places": "None"
+  },
+  "Paul Gottfried Delius": {
+    "places": "None"
+  },
+  "Friedrich Schultz": {
+    "places": "None"
+  },
+  "August Scholl": {
+    "places": "None"
+  },
+  "Hans [(Hans Ulrich Karl Hermann)] von Gaisberg": {
+    "places": "None"
+  },
+  "Hermann von Gaisberg": {
+    "places": "None"
+  },
+  "Paul H\u00e4u\u00dfler": {
+    "places": "None"
+  },
+  "Hermann Mager": {
+    "places": "None"
+  },
+  "Joseph Anton Nieder": {
+    "places": "None"
+  },
+  "Theodor Wyder": {
+    "places": "None"
+  },
+  "Heinrich Hagge": {
+    "places": "None"
+  },
+  "Erich Schmieden": {
+    "places": "None"
+  },
+  "Robert [(Otto Karl Heinrich Robert)] Leonhardt": {
+    "places": "None"
+  },
+  "Franz Niederberger": {
+    "places": "None"
+  },
+  "Arnold von Salis": {
+    "places": "None"
+  },
+  "Erich Behrenroth": {
+    "places": "None"
+  },
+  "Johannes Justus M\u00fcller": {
+    "places": "None"
+  },
+  "Adolf Schlatter": {
+    "places": "None"
+  },
+  "Jakob Busch": {
+    "places": "None"
+  },
+  "Samuel Eck": {
+    "places": "None"
+  },
+  "Peter von Bradke": {
+    "places": "None"
+  },
+  "Karl (Karl Wilhelm) Arnd": {
+    "places": "None"
+  },
+  "Julius [(John Gottlieb Julius)] Kirchner": {
+    "places": "None"
+  },
+  "Alexander (Alexander Johann) Marben": {
+    "places": "None"
+  },
+  "Alfred (Julius Alfred) Jaquet": {
+    "places": "None"
+  },
+  "Albert Locher": {
+    "places": "None"
+  },
+  "Ernst Haffner": {
+    "places": "None"
+  },
+  "Karl [(Karl Hermann Adolf)] Fluhme": {
+    "places": "None"
+  },
+  "Ferdinand Albert Viktor Meinrad Prinz von Hohenzollern": {
+    "places": "None"
+  },
+  "Friedrich Bultmann": {
+    "places": "None"
+  },
+  "Eugen Stemmer": {
+    "places": "None"
+  },
+  "Alexander Wilhelm D\u00f6llen": {
+    "places": "None"
+  },
+  "Wilhelm [(Carl Wilhelm Friederich)] Schrag": {
+    "places": "None"
+  },
+  "Eugen Wittich": {
+    "places": "None"
+  },
+  "Carl (Carl August) Golther": {
+    "places": "None"
+  },
+  "August Gaupp": {
+    "places": "None"
+  },
+  "Friedrich R\u00f6sler": {
+    "places": "None"
+  },
+  "Carl Buhl": {
+    "places": "None"
+  },
+  "Heinrich (Johann Heinrich) Mahle": {
+    "places": "None"
+  },
+  "Friedrich August R\u00f6sler": {
+    "places": "None"
+  },
+  "Gottfried [(Johannes Gottfried)] Gleis": {
+    "places": "None"
+  },
+  "Oskar Wiebeck": {
+    "places": "None"
+  },
+  "Joseph Uhl": {
+    "places": "None"
+  },
+  "Carl Goerdeler": {
+    "places": "None"
+  },
+  "Fritz (Goerdeler) G\u00f6rdeler": {
+    "places": "None"
+  },
+  "Hermann [(Hermann Heinrich Rudolf)] Werner": {
+    "places": "None"
+  },
+  "Adolph Pf\u00e4fflin": {
+    "places": "None"
+  },
+  "Friedrich Karl Stockmann": {
+    "places": "None"
+  },
+  "Georg Meyer": {
+    "places": "None"
+  },
+  "Georg (Georg Friedrich) Hartmann": {
+    "places": "None"
+  },
+  "August Dorrer": {
+    "places": "None"
+  },
+  "Karl von Speth-Sch\u00fclzburg": {
+    "places": "None"
+  },
+  "Stephan von Dziembowski": {
+    "places": "None"
+  },
+  "Ernst Erbprinz von Hohenlohe-Langenburg": {
+    "places": "None"
+  },
+  "Friedrich von Schwerin": {
+    "places": "None"
+  },
+  "Karl Kringer": {
+    "places": "None"
+  },
+  "Emil Schweickhardt": {
+    "places": "None"
+  },
+  "Eduard [(Julius Eduard)] Wunderer": {
+    "places": "None"
+  },
+  "Friedrich Hoering": {
+    "places": "None"
+  },
+  "Richard Schuller": {
+    "places": "None"
+  },
+  "Richard (Ernst Friedrich Richard) Leist": {
+    "places": "None"
+  },
+  "Paul Theodor Glitsch": {
+    "places": "None"
+  },
+  "Berthold Eberhardt": {
+    "places": "None"
+  },
+  "Karl (Karl Johannes Friedrich) Lang": {
+    "places": "None"
+  },
+  "Ernst (Franz Erich Ernst) Habermann": {
+    "places": "None"
+  },
+  "Johann Andreas Cederberg": {
+    "places": "None"
+  },
+  "Karl Bauer": {
+    "places": "None"
+  },
+  "Theodor Kohler": {
+    "places": "None"
+  },
+  "Polykarp Pflieger": {
+    "places": "None"
+  },
+  "Carl Theodor Dann": {
+    "places": "None"
+  },
+  "Heinrich (Heinrich Eberhard) Zeller": {
+    "places": "None"
+  },
+  "Adolf [(Georg Adolf)] Schuller": {
+    "places": "None"
+  },
+  "Heinrich Friedrich Wilhelm Nelle": {
+    "places": "None"
+  },
+  "Clemens Neisser": {
+    "places": "None"
+  },
+  "Franz (Franz Friedrich) Mayer": {
+    "places": "None"
+  },
+  "Theodor Kern": {
+    "places": "None"
+  },
+  "Paul [(Johannes Paul)] Moelchert": {
+    "places": "None"
+  },
+  "Achilles Doll": {
+    "places": "None"
+  },
+  "Benno (Robert Benno) Nicaeus": {
+    "places": "None"
+  },
+  "Bernhard W\u00fcrmeling": {
+    "places": "None"
+  },
+  "Friedrich [(Friedrich Franz Christian Eduard Adolph Freiherr)] von Nettelbladt": {
+    "places": "None"
+  },
+  "Gustav [(Gustav Emil Julius Ludwig)] Langmann": {
+    "places": "None"
+  },
+  "Eugen H\u00e4hnle": {
+    "places": "None"
+  },
+  "Carl H\u00e4hnle": {
+    "places": "None"
+  },
+  "Ernst Haehnle": {
+    "places": "None"
+  },
+  "Richard Gropius": {
+    "places": "None"
+  },
+  "Gustav Albert Pfeilsticker": {
+    "places": "None"
+  },
+  "Ernst Lemppenau": {
+    "places": "None"
+  },
+  "Friedrich (Friedrich Hermann) L\u00f6we": {
+    "places": "None"
+  },
+  "Eugen Heintzeler": {
+    "places": "None"
+  },
+  "Carl [(Karl Friedrich)] Schumacher": {
+    "places": "None"
+  },
+  "Emil [(Theobald Gustav Ernst Emil)] Niethammer": {
+    "places": "None"
+  },
+  "Friedrich (Andre\u00e4) [(Johann Wilhelm Friedrich)] Andreae": {
+    "places": "None"
+  },
+  "Eugen [(Eugen Franz Karl August)] Zoller": {
+    "places": "None"
+  },
+  "Wilhelm Ferdinand Roser": {
+    "places": "None"
+  },
+  "Carl Georg Rudolf von Neubronner": {
+    "places": "None"
+  },
+  "Theodor [(Karl Theodor Heinrich Adolph)] von Arand": {
+    "places": "None"
+  },
+  "Eugen Schott von Schottenstein": {
+    "places": "None"
+  },
+  "Friedrich (Friedrich Franz Moritz) H\u00e4nel": {
+    "places": "None"
+  },
+  "Gustav Heinrich Sch\u00f6ttle": {
+    "places": "None"
+  },
+  "Ernst Reusch": {
+    "places": "None"
+  },
+  "Julius Hetterich": {
+    "places": "None"
+  },
+  "Friedrich [(Friderich August Theodor)] Wechsler": {
+    "places": "None"
+  },
+  "Wilhelm Gottlob Eisenbach": {
+    "places": "None"
+  },
+  "Hermann Niethammer": {
+    "places": "None"
+  },
+  "Julius Friedrich [(Julius Friedrich Karl)] Sallmann": {
+    "places": "None"
+  },
+  "Albert Ellinger": {
+    "places": "None"
+  },
+  "Carl [(Carl Christian Ludwig Heinrich)] Osiander": {
+    "places": "None"
+  },
+  "Adolph Wullen": {
+    "places": "None"
+  },
+  "Karl Knauss": {
+    "places": "None"
+  },
+  "Hermann Martin M\u00f6rike": {
+    "places": "None"
+  },
+  "Hermann N\u00f6rdlinger": {
+    "places": "None"
+  },
+  "Gottlob Adolf Rueff": {
+    "places": "None"
+  },
+  "Theodor Souchay": {
+    "places": "None"
+  },
+  "Wilhelm Stockmayer": {
+    "places": "None"
+  },
+  "Carl [(Carl Christoph)] Tafel": {
+    "places": "None"
+  },
+  "Hermann Renz": {
+    "places": "None"
+  },
+  "Emil (Ferdinand) [(Rudolph Theodor Emil Eduard)] Essich": {
+    "places": "None"
+  },
+  "Wilhelm Friedrich Erbe": {
+    "places": "None"
+  },
+  "Edmund (Maria Edmund Prinz) Radziwill": {
+    "places": "None"
+  },
+  "Hermann (Heinrich Hermann Friedrich) von Lengerke": {
+    "places": "None"
+  },
+  "Karl Gottfried Daume": {
+    "places": "None"
+  },
+  "Karl Rettinger": {
+    "places": "None"
+  },
+  "Georg Keintzel": {
+    "places": "None"
+  },
+  "Theodor [(Wilhelm August Theodor)] Meyer": {
+    "places": "None"
+  },
+  "Carl Daniel Paul Theodor Goos": {
+    "places": "None"
+  },
+  "Friedrich Riehm": {
+    "places": "None"
+  },
+  "August R\u00f6mer": {
+    "places": "None"
+  },
+  "Erwin [(Erwin Karl Gottlieb)] Auer": {
+    "places": "None"
+  },
+  "Carl August Wunderlich": {
+    "places": "None"
+  },
+  "Friedrich (Otto Friedrich) Kalchreuter": {
+    "places": "None"
+  },
+  "Paul [(Paul Albert Otto)] Blau": {
+    "places": "None"
+  },
+  "Gustav (Gustav Adolf) Keppler": {
+    "places": "None"
+  },
+  "Karl R\u00f6nckendorff": {
+    "places": "None"
+  },
+  "Friedrich [(Hermann Martin Friedrich)] B\u00fcchsel": {
+    "places": "None"
+  },
+  "Theodor (Gustav Heinrich Theodor) Eimer": {
+    "places": "None"
+  },
+  "Arthur [(Arthur Wilhelm)] M\u00fclberger": {
+    "places": "None"
+  },
+  "Julius Eugen Schlossberger": {
+    "places": "None"
+  },
+  "Heinrich Umgelter": {
+    "places": "None"
+  },
+  "Eduard [(Eduard Carl Victor) Riecke": {
+    "places": "None"
+  },
+  "Carl [(Carl Johann Peter)] Schwarz": {
+    "places": "None"
+  },
+  "Robert [(Carl Wilhelm Robert)] Kn\u00f6ller": {
+    "places": "None"
+  },
+  "Constantin [(Franz Theodor Paul August Constantin)] Renz": {
+    "places": "None"
+  },
+  "Wilhelm V\u00f6lter": {
+    "places": "None"
+  },
+  "Heinrich Moerike": {
+    "places": "None"
+  },
+  "Max R\u00fcmelin": {
+    "places": "None"
+  },
+  "Immanuel Kirn": {
+    "places": "None"
+  },
+  "Otto Schumann": {
+    "places": "None"
+  },
+  "Philipp Julius Frisoni": {
+    "places": "None"
+  },
+  "Paul [(Paul Ludwig)] Kettenbach": {
+    "places": "None"
+  },
+  "Karl [(Karl Hermann)] Osiander": {
+    "places": "None"
+  },
+  "Emil (Emil Eberhardt) Wiedersheim": {
+    "places": "None"
+  },
+  "Adolph Wilhelm Dornfeld": {
+    "places": "None"
+  },
+  "Eduard [(Eduard Carl)] von Martens": {
+    "places": "None"
+  },
+  "Armand [(Armand Carl Bernhard)] H\u00fcckel": {
+    "places": "None"
+  },
+  "Adolf Blumhardt": {
+    "places": "None"
+  },
+  "Max Ziegler": {
+    "places": "None"
+  },
+  "Carl Majer": {
+    "places": "None"
+  },
+  "August Carl Wiedersheim": {
+    "places": "None"
+  },
+  "Eduard Friedrich Wiedersheim": {
+    "places": "None"
+  },
+  "Albert Kleinknecht": {
+    "places": "None"
+  },
+  "Alfred [(Alfred Karl August)] von Soden": {
+    "places": "None"
+  },
+  "Adolf (Theodor Adolf) H\u00fcbener": {
+    "places": "None"
+  },
+  "Felix von Brusselle Schaubeck": {
+    "places": "None"
+  },
+  "Robert Lorentz": {
+    "places": "None"
+  },
+  "Gotthard Zacharias": {
+    "places": "None"
+  },
+  "Erich Abramowski": {
+    "places": "None"
+  },
+  "Christoph Friedrich Reinhold Ziemsen": {
+    "places": "None"
+  },
+  "Emil Baumecker": {
+    "places": "None"
+  },
+  "Heinrich Drummond": {
+    "places": "None"
+  },
+  "Aloys Henninger": {
+    "places": "None"
+  },
+  "Detloff Graf von Schwerin-Ziethen": {
+    "places": "None"
+  },
+  "John (John Harper) Long": {
+    "places": "None"
+  },
+  "Karl (Karl Hermann) Gutmann": {
+    "places": "None"
+  },
+  "Hermann [(Otto Hermann)] Reimarus": {
+    "places": "None"
+  },
+  "Leopold (August Ludwig Leopold) von Schl\u00f6zer": {
+    "places": "None"
+  },
+  "Carl Reis": {
+    "places": "None"
+  },
+  "Hermann [(Hermann Albert)] Schleehauf": {
+    "places": "None"
+  },
+  "Eduard Christoph Ludwig Carl von Seckendorff": {
+    "places": "None"
+  },
+  "Edgar [(Edgar Conrad)] Kurz": {
+    "places": "None"
+  },
+  "Karl (Karl Christian Ernst) Haderer": {
+    "places": "None"
+  },
+  "Theodor [(Gustav Theodor)] Goll": {
+    "places": "None"
+  },
+  "Carl Doll": {
+    "places": "None"
+  },
+  "Heinrich Gess": {
+    "places": "None"
+  },
+  "Berthold [(Johannes Berthold)] Pfeiffer": {
+    "places": "None"
+  },
+  "Heinrich [(Wilhelm Heinrich)] Lorenz": {
+    "places": "None"
+  },
+  "Maximilian [(Maximilian Wilhelm)] Binder": {
+    "places": "None"
+  },
+  "Richard (Richard Friedrich) Weissenstein": {
+    "places": "None"
+  },
+  "Carl Fricker": {
+    "places": "None"
+  },
+  "Ferdinand Frey": {
+    "places": "None"
+  },
+  "Eugen [(Adolph Eugen)] Gantter": {
+    "places": "None"
+  },
+  "Otto [(Otto Henrich)] Guoth": {
+    "places": "None"
+  },
+  "Adolf [(Adolph Jacob)] Schaeffer": {
+    "places": "None"
+  },
+  "Carl Friedrich [(Heinrich Fridrich Carl)] Kohler": {
+    "places": "None"
+  },
+  "Carl [(Carl Gustav)] Schaeffer": {
+    "places": "None"
+  },
+  "Wilhelm Dieterle": {
+    "places": "None"
+  },
+  "Felix [(Karl Hugo Felix)] von W\u00e4chter-Spittler": {
+    "places": "None"
+  },
+  "Albert (Albert Hermann) Kurz": {
+    "places": "None"
+  },
+  "Hermann [(Herrmann Immanuel Theodor August)] Osiander": {
+    "places": "None"
+  },
+  "Otto von Thumb": {
+    "places": "None"
+  },
+  "Theodor [(Theodor Julius Ludwig Carl Heinrich August)] von Soden": {
+    "places": "None"
+  },
+  "Erich (Erich Walter) Mayer": {
+    "places": "None"
+  },
+  "Karl [(Karl Wilhelm August)] Seitz": {
+    "places": "None"
+  },
+  "Carl Heinrich Cronberger": {
+    "places": "None"
+  },
+  "Sigmund [(Sigmund Friedrich)] G\u00f6z": {
+    "places": "None"
+  },
+  "Arnold [(Arnold Rudolph Constantin)] von Wurstemberger": {
+    "places": "None"
+  },
+  "Friedrich [(Friedrich Georg Eduard Adolf)] Mosengel": {
+    "places": "None"
+  },
+  "Rudolf Tischner": {
+    "places": "None"
+  },
+  "Christoph Paulus": {
+    "places": "None"
+  },
+  "Hermann Ludwig Heinrich Roecker": {
+    "places": "None"
+  },
+  "Otto Huber": {
+    "places": "None"
+  },
+  "Moriz Sch\u00e4fer": {
+    "places": "None"
+  },
+  "Ernst Harttmann": {
+    "places": "None"
+  },
+  "Heinrich Mosthaf": {
+    "places": "None"
+  },
+  "Hermann [(Karl Julius Hermann9] Scheurlen": {
+    "places": "None"
+  },
+  "Franz Kayfel": {
+    "places": "None"
+  },
+  "Karl Cronm\u00fcller": {
+    "places": "None"
+  },
+  "Imanuel Friedrich Carl Dillenius": {
+    "places": "None"
+  },
+  "Constantin Hoegg": {
+    "places": "None"
+  },
+  "Gustav Bossert": {
+    "places": "None"
+  },
+  "Karl Christian [(Carl Christian Friderich)] St\u00fcrmer": {
+    "places": "None"
+  },
+  "Paul [(Karl Friedrich Paul)] Ernst": {
+    "places": "None"
+  },
+  "Carl Hermann Wilhelm Piutti": {
+    "places": "None"
+  },
+  "Harry Karl Ernst Engel": {
+    "places": "None"
+  },
+  "Karl (Andreas Friedrich Karl) Habicht": {
+    "places": "None"
+  },
+  "Friedrich Linz": {
+    "places": "None"
+  },
+  "Otto Caesar Procksch": {
+    "places": "None"
+  },
+  "Karl Seybold": {
+    "places": "None"
+  },
+  "Richard [(Richard Hermann)] B\u00fcrger": {
+    "places": "None"
+  },
+  "Friedrich (Friedrich Wilhelm Albert) Mellin": {
+    "places": "None"
+  },
+  "Albert (Wilhelm Albert) Schmidt": {
+    "places": "None"
+  },
+  "Albert Hartter": {
+    "places": "None"
+  },
+  "August Heinrich Friedrich Schliz": {
+    "places": "None"
+  },
+  "Friedrich August Schmid": {
+    "places": "None"
+  },
+  "Eugen Link": {
+    "places": "None"
+  },
+  "Ferdinand Eisenmenger": {
+    "places": "None"
+  },
+  "Ernst Boehme": {
+    "places": "None"
+  },
+  "Simon Gottlieb Stollsteiner": {
+    "places": "None"
+  },
+  "August Finckh": {
+    "places": "None"
+  },
+  "Hermann Heinrich Werner": {
+    "places": "None"
+  },
+  "Friedrich Otto Osiander": {
+    "places": "None"
+  },
+  "Wilhelm Karbe": {
+    "places": "None"
+  },
+  "Friedrich (Ludwig Friedrich) Gess": {
+    "places": "None"
+  },
+  "August W\u00f6llwarth": {
+    "places": "None"
+  },
+  "Martin [(Martin Wilhelm Siegmund)] Nelle": {
+    "places": "None"
+  },
+  "Johannes Josef Alexander Bell": {
+    "places": "None"
+  },
+  "Franz Bucher": {
+    "places": "None"
+  },
+  "Hugo Naumann": {
+    "places": "None"
+  },
+  "Moriz Kallmann": {
+    "places": "None"
+  },
+  "Carl August Schott": {
+    "places": "None"
+  },
+  "Julius Hartmann": {
+    "places": "None"
+  },
+  "Hans [(Ernst Johannes)] Diederichs": {
+    "places": "None"
+  },
+  "Hermann Gottlob Friedrich D\u00f6rr": {
+    "places": "None"
+  },
+  "Eduard L\u00f6wenthal": {
+    "places": "None"
+  },
+  "Ulrich Schelling": {
+    "places": "None"
+  },
+  "Gustav Hermann [(Carl Hermann Gustav)] Ecke": {
+    "places": "None"
+  },
+  "August Adolf Engelhard": {
+    "places": "None"
+  },
+  "Carl (Karl Mauritius) Schefold": {
+    "places": "None"
+  },
+  "Hermann Brian": {
+    "places": "None"
+  },
+  "Emil Knodt": {
+    "places": "None"
+  },
+  "Carl von G\u00fcltlingen": {
+    "places": "None"
+  },
+  "Paul [(Paul Theodor)] Haeussler": {
+    "places": "None"
+  },
+  "Eugen (Hartmann Eugen) Friederich": {
+    "places": "None"
+  },
+  "Otto Leuze": {
+    "places": "None"
+  },
+  "Eduard Kemmler": {
+    "places": "None"
+  },
+  "Franz Anton Heinrich Boner": {
+    "places": "None"
+  },
+  "August (August Heinrich) von Bremen": {
+    "places": "None"
+  },
+  "Max Schermann": {
+    "places": "None"
+  },
+  "Johann Adolph Heinrich Schliz": {
+    "places": "None"
+  },
+  "Wilhelm von Breitschwert": {
+    "places": "None"
+  },
+  "Ludwig von Breitschwert": {
+    "places": "None"
+  },
+  "August [(August Friedrich Wilhelm)] Moegling": {
+    "places": "None"
+  },
+  "August Landenberger": {
+    "places": "None"
+  },
+  "Julius Schmidt": {
+    "places": "None"
+  },
+  "Eduard Brill": {
+    "places": "None"
+  },
+  "Ferdinand Thamm": {
+    "places": "None"
+  },
+  "Ernst Gelderblom": {
+    "places": "None"
+  },
+  "Paul Pfizenmaier": {
+    "places": "None"
+  },
+  "Fidelis Bodenmiller": {
+    "places": "None"
+  },
+  "Paul [(Paul Albrecht)] Reuss": {
+    "places": "None"
+  },
+  "Arnold [(Johann Georg Arnold)] Berkemeier": {
+    "places": "None"
+  },
+  "Otto D\u00e4hnert": {
+    "places": "None"
+  },
+  "Leopold Greppin": {
+    "places": "None"
+  },
+  "Hermann Gerhard Ibbecken": {
+    "places": "None"
+  },
+  "Erich (Karl Wilhelm Erich) Walter": {
+    "places": "None"
+  },
+  "Johannes Wicke": {
+    "places": "None"
+  },
+  "Lucius Spengler": {
+    "places": "None"
+  },
+  "Carl Ruedi": {
+    "places": "None"
+  },
+  "Waldemar [(Waldemar Jacob Walther)] Petersen": {
+    "places": "None"
+  },
+  "Paul [(Paul Friedrich)] Wolfskehl": {
+    "places": "None"
+  },
+  "Paul Haueisen": {
+    "places": "None"
+  },
+  "Georg (Johann Georg) Hinsberg": {
+    "places": "None"
+  },
+  "Konrad Wandel": {
+    "places": "None"
+  },
+  "Heinrich (Carl Heinrich) Marquardt": {
+    "places": "None"
+  },
+  "Richard Abegg": {
+    "places": "None"
+  },
+  "Wilhelm Arndt": {
+    "places": "None"
+  },
+  "Friedrich Haag": {
+    "places": "None"
+  },
+  "Walter [(Karl Friedrich Walter)] Haun": {
+    "places": "None"
+  },
+  "Otto (Georg Max Otto) Wahrenholz": {
+    "places": "None"
+  },
+  "Paul Doenitz": {
+    "places": "None"
+  },
+  "Ludwig G\u00fcmbel": {
+    "places": "None"
+  },
+  "Karl [(Karl Friedrich Johann)] Schultz": {
+    "places": "None"
+  },
+  "Franz Theobald Penzoldt": {
+    "places": "None"
+  },
+  "Hermann Wolff": {
+    "places": "None"
+  },
+  "Gustav (Gustav Adolph) Goeller": {
+    "places": "None"
+  },
+  "Xaverius (Franz Xaver) Rembold": {
+    "places": "None"
+  },
+  "Gustav Adolph Euler": {
+    "places": "None"
+  },
+  "Julius [(Julius August Emil)] Hellweg": {
+    "places": "None"
+  },
+  "Benjamin Kossuth": {
+    "places": "None"
+  },
+  "Arndt [(Arndt Ernst Georg Anton)] von Steuben": {
+    "places": "None"
+  },
+  "Heinrich Th[eodor] Lutz": {
+    "places": "None"
+  },
+  "Wilhelm Otto Seeger": {
+    "places": "None"
+  },
+  "Arnold (Arnold August) Kurrer": {
+    "places": "None"
+  },
+  "Karl M\u00f6gling": {
+    "places": "None"
+  },
+  "Johannes Walz": {
+    "places": "None"
+  },
+  "Karl Friedrich Keim": {
+    "places": "None"
+  },
+  "Johann Georg Wolfhard": {
+    "places": "None"
+  },
+  "Ottmar La Roche": {
+    "places": "None"
+  },
+  "Hermann [(Karl Hermann)] Zeller": {
+    "places": "None"
+  },
+  "Karl K\u00fcnzig": {
+    "places": "None"
+  },
+  "Carl Gockel": {
+    "places": "None"
+  },
+  "Lewis Gordon Paul": {
+    "places": "None"
+  },
+  "Gottfried (Gottfried Johann Heinrich) Quistorp": {
+    "places": "None"
+  },
+  "Paul (Paul Ludwig Friedrich) Moennich": {
+    "places": "None"
+  },
+  "[Johannes] (Johannes Bernhard Samuel) [Freiherr] von [Hoyningen gen.] Huene": {
+    "places": "None"
+  },
+  "Kurt Schwabe": {
+    "places": "None"
+  },
+  "Alfred Stieda": {
+    "places": "None"
+  },
+  "August Gr\u00fcnewald": {
+    "places": "None"
+  },
+  "Julius [(Jacob Julius)] Levi": {
+    "places": "None"
+  },
+  "Karl Friedrich Hermann Kaiser": {
+    "places": "None"
+  },
+  "Max Gutknecht": {
+    "places": "None"
+  },
+  "Johannes Gustav Warneck": {
+    "places": "None"
+  },
+  "Adolf (Carl August Fritz Emil Georg Adolf) Schlettwein": {
+    "places": "None"
+  },
+  "Edmund Rau": {
+    "places": "None"
+  },
+  "Andreas Renner": {
+    "places": "None"
+  },
+  "Karl Buhl": {
+    "places": "None"
+  },
+  "Friedrich (Friedrich Wilhelm) Cuno": {
+    "places": "None"
+  },
+  "Max [(Maximilian)] Ilgen": {
+    "places": "None"
+  },
+  "August Boscher": {
+    "places": "None"
+  },
+  "Friedrich Faulhaber": {
+    "places": "None"
+  },
+  "Carl Pantlen": {
+    "places": "None"
+  },
+  "Karl Wolbrecht": {
+    "places": "None"
+  },
+  "Wilhelm (Wilhelm Hans Otto) Steffen": {
+    "places": "None"
+  },
+  "Emil [(Friedrich Ludwig Emil)] Gandert": {
+    "places": "None"
+  },
+  "Konrad Kayser": {
+    "places": "None"
+  },
+  "Eduard Friedrich Samuel Keller": {
+    "places": "None"
+  },
+  "Carl Eduard Dick": {
+    "places": "None"
+  },
+  "Friedrich Wilhelm Cuno": {
+    "places": "None"
+  },
+  "August (August Paul Theodor) Becker": {
+    "places": "None"
+  },
+  "Reinhold Herzog": {
+    "places": "None"
+  },
+  "Hugo [(Carl Georg Hugo)] Hofmann": {
+    "places": "None"
+  },
+  "Karl (Charles) Hahn": {
+    "places": "None"
+  },
+  "Friedrich (Friedrich Karl Emil) Andersen": {
+    "places": "None"
+  },
+  "Alfred Maier": {
+    "places": "None"
+  },
+  "Friedrich August Lehner": {
+    "places": "None"
+  },
+  "Karl Schlenker": {
+    "places": "None"
+  },
+  "Johannes Schmid": {
+    "places": "None"
+  },
+  "Eugen [(Albert Eugen)] Rau": {
+    "places": "None"
+  },
+  "Karl Stricker": {
+    "places": "None"
+  },
+  "Gustav Adolf Miller": {
+    "places": "None"
+  },
+  "Albert [(Karl Albert Christoph)] Sch\u00fcz": {
+    "places": "None"
+  },
+  "Georg [(Georg Friedrich)] Bauernfeind": {
+    "places": "None"
+  },
+  "Ludwig [(Ludwig Joseph)] Hundhausen": {
+    "places": "None"
+  },
+  "Adolf Messner": {
+    "places": "None"
+  },
+  "Karl Friedrich Zimmer": {
+    "places": "None"
+  },
+  "Karl Zimmer": {
+    "places": "None"
+  },
+  "August Savels": {
+    "places": "None"
+  },
+  "Johann Alexandersen": {
+    "places": "None"
+  },
+  "Theobald Kerner": {
+    "places": "None"
+  },
+  "Gustav Bruder": {
+    "places": "None"
+  },
+  "Carl Wilhelm August Kr\u00fcger": {
+    "places": "None"
+  },
+  "Ludwig Schwabe": {
+    "places": "None"
+  },
+  "Richard Martini": {
+    "places": "None"
+  },
+  "Alfred Herwig": {
+    "places": "None"
+  },
+  "Karl Daniel Schniewind": {
+    "places": "None"
+  },
+  "Gerhard Spanuth": {
+    "places": "None"
+  },
+  "Peter Schleyer": {
+    "places": "None"
+  },
+  "Hans [(Hans Carl G\u00fcnter)] von Jagemann": {
+    "places": "None"
+  },
+  "Adolph Greeff": {
+    "places": "None"
+  },
+  "Georg [(Georg Johann Hermann)] L\u00fcdeling": {
+    "places": "None"
+  },
+  "Paul Theodor Schumann": {
+    "places": "None"
+  },
+  "Martin Zipse": {
+    "places": "None"
+  },
+  "Otto (Karl Otto) Bartels": {
+    "places": "None"
+  },
+  "Adolf Kieffer": {
+    "places": "None"
+  },
+  "Karl Ludwig J\u00fchlke": {
+    "places": "None"
+  },
+  "Ubbo (Ubbo Gerhard) Hobbing": {
+    "places": "None"
+  },
+  "Arnold Senfft von Pilsach": {
+    "places": "None"
+  },
+  "Hermann Bendix Todsen": {
+    "places": "None"
+  },
+  "Hermann [(Gustav Albert Hermann)] Schiele": {
+    "places": "None"
+  },
+  "Max Erich Richard Matthes": {
+    "places": "None"
+  },
+  "Paul Richter": {
+    "places": "None"
+  },
+  "Emil Adolf Wilhelm Zenneck": {
+    "places": "None"
+  },
+  "Julius [(Johannes Karl Gustav Fritz August Aloys Julius)] Kaerst": {
+    "places": "None"
+  },
+  "Wilhelm [(Wilhelm Christian Ludwig)] T\u00fcmpel": {
+    "places": "None"
+  },
+  "Oswald Bokmayer": {
+    "places": "None"
+  },
+  "Eugen Gustav Wilhelm Braunholtz": {
+    "places": "None"
+  },
+  "Karl Ernst M\u00fcller": {
+    "places": "None"
+  },
+  "Georg A[lbrecht] Zwick": {
+    "places": "None"
+  },
+  "Joseph Romerio": {
+    "places": "None"
+  },
+  "Johann Keppler": {
+    "places": "None"
+  },
+  "Hermann (Hermann Julius Detlef) Bagge": {
+    "places": "None"
+  },
+  "Julius K\u00fchn": {
+    "places": "None"
+  },
+  "Franz (Franz Karl Ernst Wilhelm) von der Reck": {
+    "places": "None"
+  },
+  "Caspar Blumer": {
+    "places": "None"
+  },
+  "Friedrich von Wrisberg": {
+    "places": "None"
+  },
+  "August Sperl": {
+    "places": "None"
+  },
+  "Ernst Freiherr [(Hans Konstantin Karl Friedrich Adolf Ernst Freiherr)] Schenk von Geyern": {
+    "places": "None"
+  },
+  "Johann Christian Daniel Stahlberg": {
+    "places": "None"
+  },
+  "Karl [(Carl Sebastian)] Haegler": {
+    "places": "None"
+  },
+  "Friedrich Macco": {
+    "places": "None"
+  },
+  "Theodor Hermann J\u00fcrgensen": {
+    "places": "None"
+  },
+  "Georg Otto Rettich": {
+    "places": "None"
+  },
+  "August Mayer": {
+    "places": "None"
+  },
+  "Anton Allgayer": {
+    "places": "None"
+  },
+  "Julius Eberhard": {
+    "places": "None"
+  },
+  "Ernst Wilhelm G\u00fcnther von Berg": {
+    "places": "None"
+  },
+  "Otto (Otto Wilhelm Friedrich) Hellwag": {
+    "places": "None"
+  },
+  "Adolf Wendling": {
+    "places": "None"
+  },
+  "Karl Heinrich Engelbrecht": {
+    "places": "None"
+  },
+  "Otto [(Otto Karl Adolf)] Schleicher": {
+    "places": "None"
+  },
+  "Otto Haecker": {
+    "places": "None"
+  },
+  "Karl [(Karl Hermann Friedrich)] Eisele": {
+    "places": "None"
+  },
+  "Carl (Carl Friedrich) Mayer": {
+    "places": "None"
+  },
+  "Hermann Hufnagel": {
+    "places": "None"
+  },
+  "Eduard Tritschler": {
+    "places": "None"
+  },
+  "Karl Eberhard Otto Schott": {
+    "places": "None"
+  },
+  "Victor [(Viktor Wilhelm Gottfried)] Wiest": {
+    "places": "None"
+  },
+  "Albert [(Christian Albert)] Hochstetter": {
+    "places": "None"
+  },
+  "Wilhelm (Wilhelm Gottlieb) Mayer": {
+    "places": "None"
+  },
+  "Louis Frank": {
+    "places": "None"
+  },
+  "Ernst [(Ernst Heinrich Oskar Kasimir)] Weinschenk": {
+    "places": "None"
+  },
+  "Carl [(Carl Georg Wilhelm)] Zeyer": {
+    "places": "None"
+  },
+  "Wilhelm Carl Martin Kuhn": {
+    "places": "None"
+  },
+  "Julius [(Julius Karl Ferdinand)] Zeyer": {
+    "places": "None"
+  },
+  "Karl (Karl Moriz Friedrich) von Gemmingen-Gutenberg": {
+    "places": "None"
+  },
+  "Adolph (Adolph [Friedrich Ewald]) Otto": {
+    "places": "None"
+  },
+  "Richard Calwer": {
+    "places": "None"
+  },
+  "Wilhelm Hebsacker": {
+    "places": "None"
+  },
+  "Karl August Hermann R\u00fcbesamen": {
+    "places": "None"
+  },
+  "Johann Ibbach": {
+    "places": "None"
+  },
+  "Julius [(Carl Gottlieb Julius)] Vosseler": {
+    "places": "None"
+  },
+  "Carl Heinrich Hochstetter": {
+    "places": "None"
+  },
+  "Heinrich Christian Hochstetter": {
+    "places": "None"
+  },
+  "Karl Beth": {
+    "places": "None"
+  },
+  "Friedrich Bering": {
+    "places": "None"
+  },
+  "Robert [(Robert Hermann Ludwig)] Herdieckerhoff": {
+    "places": "None"
+  },
+  "Karl (Karl Konrad August) Andrassy": {
+    "places": "None"
+  },
+  "Friedrich Adolph Nieden": {
+    "places": "None"
+  },
+  "Friedrich Gottlieb Nieden": {
+    "places": "None"
+  },
+  "Otto (Otto Hermann) Schmid": {
+    "places": "None"
+  },
+  "Wilhelm (Johann Wilhelm Emmanuel) Mannhardt": {
+    "places": "None"
+  },
+  "Karl Heinrich Anton van der Smissen": {
+    "places": "None"
+  },
+  "Julius Gustav Friedrich Weigelin": {
+    "places": "None"
+  },
+  "Richard (Friedr. Eduard Richard) Bank": {
+    "places": "None"
+  },
+  "Emil Hartmann": {
+    "places": "None"
+  },
+  "Curt Freiherr (Kurt [Johann Michael August Albrecht Kurt]) Seutter von Loetzen": {
+    "places": "None"
+  },
+  "Eugen Renner": {
+    "places": "None"
+  },
+  "Otto Buob": {
+    "places": "None"
+  },
+  "Wilhelm Wolf": {
+    "places": "None"
+  },
+  "Wilhelm Edmund K\u00fcbel": {
+    "places": "None"
+  },
+  "Hermann Sandberger": {
+    "places": "None"
+  },
+  "Gottlob Friedrich Moser": {
+    "places": "None"
+  },
+  "Hermann Haccius": {
+    "places": "None"
+  },
+  "Konrad [(Karl Philipp Jakob Conrad)] Spener": {
+    "places": "None"
+  },
+  "Otto (F\u00fcrchtegott Johannes Otto) K\u00fcstermann": {
+    "places": "None"
+  },
+  "Ludwig (Johann Ludwig) Camerer": {
+    "places": "None"
+  },
+  "Albert Willich": {
+    "places": "None"
+  },
+  "Samuel [(Ferdinand Johann Jakob Samuel)] Jaeger": {
+    "places": "None"
+  },
+  "Julius G\u00f6bel": {
+    "places": "None"
+  },
+  "Louis Amson": {
+    "places": "None"
+  },
+  "Ferdinand Nagel": {
+    "places": "None"
+  },
+  "Moriz W\u00f6llhaf": {
+    "places": "None"
+  },
+  "Eberhard (Eberhard Arnold Adolf) Marggraff": {
+    "places": "None"
+  },
+  "Ludwig Wilhelm Joh. Ernst Engels": {
+    "places": "None"
+  },
+  "Oskar Hinsberg": {
+    "places": "None"
+  },
+  "Reginald Henry Holmes Pierson": {
+    "places": "None"
+  },
+  "Heinrich Spitta": {
+    "places": "None"
+  },
+  "Karl Heinrich Brandt": {
+    "places": "None"
+  },
+  "Hermann [(Karl Herman Traugott)] Auer": {
+    "places": "None"
+  },
+  "Wilhelm Teudt": {
+    "places": "None"
+  },
+  "Carl Gerhard Berg": {
+    "places": "None"
+  },
+  "Wilhelm Theodor Camerer": {
+    "places": "None"
+  },
+  "Hans (Karl Gotthilf Hans) Rasch": {
+    "places": "None"
+  },
+  "Martin [(Martin Ernst Friedrich)] Kirchhoff": {
+    "places": "None"
+  },
+  "Theodor (Theodor Alexander) Meyer": {
+    "places": "None"
+  },
+  "August Christmann": {
+    "places": "None"
+  },
+  "Eduard [(Christian Eduard)] Bollacher": {
+    "places": "None"
+  },
+  "Max von Biberstein": {
+    "places": "None"
+  },
+  "Julius von Biberstein": {
+    "places": "None"
+  },
+  "Hermann Leonhardt": {
+    "places": "None"
+  },
+  "Albert Baur": {
+    "places": "None"
+  },
+  "Sigmund Mayer": {
+    "places": "None"
+  },
+  "Rudolph Probst": {
+    "places": "None"
+  },
+  "Lukas Businger": {
+    "places": "None"
+  },
+  "Felician Gess": {
+    "places": "None"
+  },
+  "Karl August Koller": {
+    "places": "None"
+  },
+  "Bernhard Riggenbach": {
+    "places": "None"
+  },
+  "Rudolf [G.] Binding": {
+    "places": "None"
+  },
+  "Daniel Rudolf Philipp Huber": {
+    "places": "None"
+  },
+  "Karl Passavant": {
+    "places": "None"
+  },
+  "Theophil Wurm": {
+    "places": "None"
+  },
+  "Rudolph Staehelin": {
+    "places": "None"
+  },
+  "Franz Heindorf": {
+    "places": "None"
+  },
+  "Friedrich Freiherr Hiller von G\u00e4rtringen": {
+    "places": "None"
+  },
+  "Eduard Ziegler": {
+    "places": "None"
+  },
+  "Helmuth [(Otto Max Helmuth)] von Glasenapp": {
+    "places": "None"
+  },
+  "Viktor Zipperlen": {
+    "places": "None"
+  },
+  "Adolph [(Adolf Friedrich)] Widenmann": {
+    "places": "None"
+  },
+  "Karl Krafft": {
+    "places": "None"
+  },
+  "Carl Ludwig Heinrich Widenmann": {
+    "places": "None"
+  },
+  "Moriz Probst": {
+    "places": "None"
+  },
+  "Adolf Krafft": {
+    "places": "None"
+  },
+  "Albrecht (Johann Ferdinand Albrecht) Franzius": {
+    "places": "None"
+  },
+  "Friedrich Saile": {
+    "places": "None"
+  },
+  "Theodor Reinders": {
+    "places": "None"
+  },
+  "Arthur Feuerlein": {
+    "places": "None"
+  },
+  "Carl Friedrich Wilhelm Osiander": {
+    "places": "None"
+  },
+  "Reinhold (Reinhold Wilhelm) Rilling": {
+    "places": "None"
+  },
+  "Xaver Herzog": {
+    "places": "None"
+  },
+  "Theodor Rumpff": {
+    "places": "None"
+  },
+  "Alfred [(Alfred Gustav Adolf)] Rammenstein": {
+    "places": "None"
+  },
+  "Albert Kilian": {
+    "places": "None"
+  },
+  "Ludwig Mayer": {
+    "places": "None"
+  },
+  "Maximilian Ferdinand Emmert": {
+    "places": "None"
+  },
+  "Friedrich (Andreas Heinrich Friedrich) H\u00fcnecke": {
+    "places": "None"
+  },
+  "Oskar Jolles": {
+    "places": "None"
+  },
+  "Gustav Seeligmann": {
+    "places": "None"
+  },
+  "Johannes [(Johannes Friedrich Wilhelm)] B\u00fcchsel": {
+    "places": "None"
+  },
+  "Emmerich Schubert": {
+    "places": "None"
+  },
+  "Justus [(Justus Julius August)] Jacobi": {
+    "places": "None"
+  },
+  "Albert (Albert Sigismund) Kramer": {
+    "places": "None"
+  },
+  "Ernst Moritz Romberg": {
+    "places": "None"
+  },
+  "Walter [(Carl Georg Walter)] K\u00f6nig": {
+    "places": "None"
+  },
+  "Walter [(Ulrich Karl Anton Walter)] Nithack": {
+    "places": "None"
+  },
+  "Paul Karl Gr\u00f6bler": {
+    "places": "None"
+  },
+  "Wilhelm (Bernhard Adalbert Wilhelm) Putzler": {
+    "places": "None"
+  },
+  "Ferdinand (Martin Karl Ferdinand) Schreiner": {
+    "places": "None"
+  },
+  "Max Le Blanc": {
+    "places": "None"
+  },
+  "Kurt Melcher": {
+    "places": "None"
+  },
+  "Hugo [Karl Hugo) Pfleiderer": {
+    "places": "None"
+  },
+  "Otto Stahmer": {
+    "places": "None"
+  },
+  "Georg Ernst Strube": {
+    "places": "None"
+  },
+  "Christian (Christian Gottlob) Moser": {
+    "places": "None"
+  },
+  "Gustav [(Gustav Adolf)] Faber": {
+    "places": "None"
+  },
+  "Karl Oskar Rudolf Voretzsch": {
+    "places": "None"
+  },
+  "Walther Burckhardt": {
+    "places": "None"
+  },
+  "Eduard Ettle": {
+    "places": "None"
+  },
+  "Benedikt Graf": {
+    "places": "None"
+  },
+  "Karl [(Karl Theodor Johannes)] Kappesser": {
+    "places": "None"
+  },
+  "Karl Motz": {
+    "places": "None"
+  },
+  "Immanuel Mohr": {
+    "places": "None"
+  },
+  "Emil Roth": {
+    "places": "None"
+  },
+  "Heinrich Wilhelm Joachim Landt": {
+    "places": "None"
+  },
+  "Georg Christian Theodor [(Georg Christian Ludwig Theodor)] Teichmann": {
+    "places": "None"
+  },
+  "Otto (Christoph Otto) Furian": {
+    "places": "None"
+  },
+  "Emil Bessler": {
+    "places": "None"
+  },
+  "Reinhold Blind": {
+    "places": "None"
+  },
+  "Gustav Roser": {
+    "places": "None"
+  },
+  "Richard Lauxmann": {
+    "places": "None"
+  },
+  "Hermann Erbacher": {
+    "places": "None"
+  },
+  "Theodor Probst": {
+    "places": "None"
+  },
+  "Hermann Bohner": {
+    "places": "None"
+  },
+  "Axel (Axel Wilhelm) Sj\u00f6str\u00f6m": {
+    "places": "None"
+  },
+  "Alexander Mackie": {
+    "places": "None"
+  },
+  "Monteith (Earle Monteith) Macphail": {
+    "places": "None"
+  },
+  "Hermann (Karl Hermann) Kasser": {
+    "places": "None"
+  },
+  "Otto Stockmayer": {
+    "places": "None"
+  },
+  "Wilhelm Ensslin": {
+    "places": "None"
+  },
+  "Aloys Fuchs": {
+    "places": "None"
+  },
+  "Willy Marwitz": {
+    "places": "None"
+  },
+  "Richard Flashar": {
+    "places": "None"
+  },
+  "Hermann Adolph Lempp": {
+    "places": "None"
+  },
+  "Karl [Immanuel] Ernst": {
+    "places": "None"
+  },
+  "Karl (Karl Wilhelm) Werckshagen": {
+    "places": "None"
+  },
+  "Gustav (Gustav Adolf) Frenssen": {
+    "places": "None"
+  },
+  "Gottfreid Stamm": {
+    "places": "None"
+  },
+  "Ernst (Friedrich Heinrich Ernst) Lingner": {
+    "places": "None"
+  },
+  "Ernst Sigfried Walther": {
+    "places": "None"
+  },
+  "August Bormann": {
+    "places": "None"
+  },
+  "Gustav Brecht": {
+    "places": "None"
+  },
+  "Karl [(Carl Friedrich)] Bulling": {
+    "places": "None"
+  },
+  "Julius Rath": {
+    "places": "None"
+  },
+  "Robert K\u00fcbel": {
+    "places": "None"
+  },
+  "Friedrich August Osiander": {
+    "places": "None"
+  },
+  "Hermann Weil": {
+    "places": "None"
+  },
+  "Carlos Da Rocha-Schmidt": {
+    "places": "None"
+  },
+  "Rudolf Br\u00fcnnow": {
+    "places": "None"
+  },
+  "Matthias Goebbels": {
+    "places": "None"
+  },
+  "Ernst [(Ernst Christian Heinrich)] Schmid": {
+    "places": "None"
+  },
+  "Ludwig (Ludwig Franz (Louis)) Kern": {
+    "places": "None"
+  },
+  "August Riecker": {
+    "places": "None"
+  },
+  "Gerhard Lange": {
+    "places": "None"
+  },
+  "Sigmund Weil": {
+    "places": "None"
+  },
+  "Theodor (Theodor Albert Wilhelm) Kaiser": {
+    "places": "None"
+  },
+  "Karl (Karl Hugo) Jentzsch": {
+    "places": "None"
+  },
+  "Julius von Hoesslin": {
+    "places": "None"
+  },
+  "Ernst [(Ernst Martin Traugott)] Goerne": {
+    "places": "None"
+  },
+  "Carl Wilhelm Rudolph Bertelsmann": {
+    "places": "None"
+  },
+  "Hartmund von Beulwitz": {
+    "places": "None"
+  },
+  "Albert [(Albert Gustav Immanuel)] Meuret": {
+    "places": "None"
+  },
+  "Aloys Zotz": {
+    "places": "None"
+  },
+  "Julius Christian Baelz": {
+    "places": "None"
+  },
+  "Gustav Jaeckh": {
+    "places": "None"
+  },
+  "Paul Fronm\u00fcller": {
+    "places": "None"
+  },
+  "Thomas Eduard Sandeman": {
+    "places": "None"
+  },
+  "Adolph Federhaff": {
+    "places": "None"
+  },
+  "Karl Wilhelm Gottlieb Dietz": {
+    "places": "None"
+  },
+  "Heinrich (Heinrich Theodor) Andler": {
+    "places": "None"
+  },
+  "Konrad Rieger": {
+    "places": "None"
+  },
+  "Carl Ludwig Friedrich Federhaff": {
+    "places": "None"
+  },
+  "Ernst (Ernst Paul Gottlob) Rieger": {
+    "places": "None"
+  },
+  "Wilhelm (Christian Theodor Wilhelm) Gmelin": {
+    "places": "None"
+  },
+  "Johannes Ostermeyer": {
+    "places": "None"
+  },
+  "Oskar Hugo Br\u00e4uning": {
+    "places": "None"
+  },
+  "Maximilian Heinrich Maercker": {
+    "places": "None"
+  },
+  "Ludolf [Hermann] M\u00fcller": {
+    "places": "None"
+  },
+  "Paul Kegel": {
+    "places": "None"
+  },
+  "Karl [(Karl Paul Friedrich Wilhelm)] Dugge": {
+    "places": "None"
+  },
+  "Otto [(Otto Heinrich)] Jaeger": {
+    "places": "None"
+  },
+  "Johannes [(Wilhelm Johannes)] Hennicke": {
+    "places": "None"
+  },
+  "Richard Schobert": {
+    "places": "None"
+  },
+  "Otto (Ernst Emil Otto) Rausch": {
+    "places": "None"
+  },
+  "Karl M\u00f6rike": {
+    "places": "None"
+  },
+  "Gotthilf Marstaller": {
+    "places": "None"
+  },
+  "Wilhelm (Wilhelm Christian) Ganzhorn": {
+    "places": "None"
+  },
+  "Hermann [(Hermann Friederich Johannes)] Villinger": {
+    "places": "None"
+  },
+  "Heinrich Felix Ernst [(Henri)] Du Bois": {
+    "places": "None"
+  },
+  "Rudolf (Friedrich Rudolf) Banning": {
+    "places": "None"
+  },
+  "Eugen M\u00fcller": {
+    "places": "None"
+  },
+  "Adolph M\u00fcller": {
+    "places": "None"
+  },
+  "Bernhard D\u00f6bber": {
+    "places": "None"
+  },
+  "Hugo (Gustav Hugo) Mager": {
+    "places": "None"
+  },
+  "Gustav Meuret": {
+    "places": "None"
+  },
+  "Johannes Meinhold": {
+    "places": "None"
+  },
+  "Johann Ferdinand Gabriel Klein": {
+    "places": "None"
+  },
+  "Karl (Karl Friedrich) Baelz": {
+    "places": "None"
+  },
+  "Gustav Lemppenau": {
+    "places": "None"
+  },
+  "Paul [(Paul Arthur Edmond)] Pettavel": {
+    "places": "None"
+  },
+  "Gerhard Heinzelmann": {
+    "places": "None"
+  },
+  "Ernst Gotthard Bluth": {
+    "places": "None"
+  },
+  "Otto (Richard Ludwig Otto) Gloel": {
+    "places": "None"
+  },
+  "Gustav [(Friedrich Karl gustav)] Wedding": {
+    "places": "None"
+  },
+  "Maximilian Adolph Parisius": {
+    "places": "None"
+  },
+  "Ernst Gumlich": {
+    "places": "None"
+  },
+  "Albert [(Karl Arnold Andreas Albert)] Boitz": {
+    "places": "None"
+  },
+  "Arthur Washington von Soden": {
+    "places": "None"
+  },
+  "Eduard Killias": {
+    "places": "None"
+  },
+  "Paul Kind": {
+    "places": "None"
+  },
+  "Christian Kind": {
+    "places": "None"
+  },
+  "Leonhard Herold": {
+    "places": "None"
+  },
+  "Philipp Schaf": {
+    "places": "None"
+  },
+  "Paul Christ": {
+    "places": "None"
+  },
+  "Paul Menzel": {
+    "places": "None"
+  },
+  "Heinrich Bernhardt Baumgartner": {
+    "places": "None"
+  },
+  "Kurd von Lenthe": {
+    "places": "None"
+  },
+  "Ernst von dem Bussche[-Haddenhausen]": {
+    "places": "None"
+  },
+  "Klemens Harms": {
+    "places": "None"
+  },
+  "Ernst (Ernst Karl Edmund) Rasch": {
+    "places": "None"
+  },
+  "Wilhelm Prinzhorn": {
+    "places": "None"
+  },
+  "Moriz [(Moritz Rudolf Ferdinand Heinrich)] von Hundelshausen": {
+    "places": "None"
+  },
+  "Heinrich Kraut": {
+    "places": "None"
+  },
+  "Wilhelm (Wilhelm Bernhard) Moennich": {
+    "places": "None"
+  },
+  "Emil [(Emil Gottlob)] Schickler": {
+    "places": "None"
+  },
+  "Eugen Baumann": {
+    "places": "None"
+  },
+  "Paul Obermiller": {
+    "places": "None"
+  },
+  "Elisabeth von Westenholz": {
+    "places": "None"
+  },
+  "Oskar Felix Baur": {
+    "places": "None"
+  },
+  "Paul Moos": {
+    "places": "None"
+  },
+  "Martin Einstein": {
+    "places": "None"
+  },
+  "Paul [(Paul Heinrich Franz)] Moerike": {
+    "places": "None"
+  },
+  "Friedrich Fritsch": {
+    "places": "None"
+  },
+  "Gustav Adolf Bohnstengel": {
+    "places": "None"
+  },
+  "Adolf [( Adolf Wilhelm Karl-Theodor)] Jess": {
+    "places": "None"
+  },
+  "Walter [(Walter Karl Alexander)] von Below": {
+    "places": "None"
+  },
+  "Arnold Gottlieb Bovet": {
+    "places": "None"
+  },
+  "Eugen Bonh\u00f4te": {
+    "places": "None"
+  },
+  "Thomas Stenhouse": {
+    "places": "None"
+  },
+  "Eugen Rommel": {
+    "places": "None"
+  },
+  "Theodor Nast": {
+    "places": "None"
+  },
+  "Gustav Friedrich Carl Christian Priester": {
+    "places": "None"
+  },
+  "Carl Lay": {
+    "places": "None"
+  },
+  "Robert (Wilhelm Oskar Robert) Rasch": {
+    "places": "None"
+  },
+  "Gotthold Kilbel": {
+    "places": "None"
+  },
+  "Hermann Gottlieb Friedrich Wittich": {
+    "places": "None"
+  },
+  "Wilhelm Rau": {
+    "places": "None"
+  },
+  "Karl Rau": {
+    "places": "None"
+  },
+  "Edo [(Eduard)] Niebour": {
+    "places": "None"
+  },
+  "Ferdinand Conrad Schott": {
+    "places": "None"
+  },
+  "Ernst (Ernst Friedrich Wilhelm) Zerndt": {
+    "places": "None"
+  },
+  "Heinrich (Heinrich Georg) Ibbecken": {
+    "places": "None"
+  },
+  "Ernst Uhland": {
+    "places": "None"
+  },
+  "Gottlieb Theodor Reu\u00df": {
+    "places": "None"
+  },
+  "Adolph (Gustav Adolph Friedrich) Arnold": {
+    "places": "None"
+  },
+  "Oskar Wittstock": {
+    "places": "None"
+  },
+  "Gustav [(Gustav Adolf)] Bilhuber": {
+    "places": "None"
+  },
+  "Carl Friedrich Nanz": {
+    "places": "None"
+  },
+  "Karl (Karl August) Bartels": {
+    "places": "None"
+  },
+  "Hermann Osthoff": {
+    "places": "None"
+  },
+  "Theodor Friedrich M\u00f6gling": {
+    "places": "None"
+  },
+  "Wilhelm [(Karl Gottlob Wilhelm)] G\u00f6ssler": {
+    "places": "None"
+  },
+  "Paul Otto Moser": {
+    "places": "None"
+  },
+  "Otto (Otto Julius Rudolf) K\u00f6stlin": {
+    "places": "None"
+  },
+  "Gustav M\u00fcller": {
+    "places": "None"
+  },
+  "Julius Wolf": {
+    "places": "None"
+  },
+  "Julius Caspart": {
+    "places": "None"
+  },
+  "Heinrich Wiederkehr": {
+    "places": "None"
+  },
+  "Otto Gildemeister": {
+    "places": "None"
+  },
+  "Johannes Deipser": {
+    "places": "None"
+  },
+  "Martin Kanitz": {
+    "places": "None"
+  },
+  "Paul Ernst Karl Schiffmann": {
+    "places": "None"
+  },
+  "Erich[(Erich Rudolf Ferdinand)] Jaensch": {
+    "places": "None"
+  },
+  "Karl Loewe": {
+    "places": "None"
+  },
+  "Frank Schwarz": {
+    "places": "None"
+  },
+  "Leo Bloch": {
+    "places": "None"
+  },
+  "Otto (Otto Eduard) Kummer": {
+    "places": "None"
+  },
+  "Gustav (Gustav Wilhelm) Dreyer": {
+    "places": "None"
+  },
+  "Karl Krauch": {
+    "places": "None"
+  },
+  "Johann Heinrich Schelb": {
+    "places": "None"
+  },
+  "Konstantin [(Constantin Adolph)] Fritze": {
+    "places": "None"
+  },
+  "Johann [(Johann Zwilling von Heinrich)] Stoevesandt": {
+    "places": "None"
+  },
+  "Christian Friedrich Lahusen": {
+    "places": "None"
+  },
+  "Hermann Goedecke": {
+    "places": "None"
+  },
+  "Alfred Neud\u00f6rffer": {
+    "places": "None"
+  },
+  "Johannes Wilhelm Theodor Dalmer": {
+    "places": "None"
+  },
+  "Karl [(Karl Georg Christian)] Spener": {
+    "places": "None"
+  },
+  "Alfred Parrisius": {
+    "places": "None"
+  },
+  "Ludwig Heuss": {
+    "places": "None"
+  },
+  "Gustav Palm": {
+    "places": "None"
+  },
+  "Gottlob Lutz": {
+    "places": "None"
+  },
+  "Hermann Schmidt": {
+    "places": "None"
+  },
+  "Wilhelm Diehl": {
+    "places": "None"
+  },
+  "Philipp Julius Gottfried Heinrich Elwert": {
+    "places": "None"
+  },
+  "Ernst Koch": {
+    "places": "None"
+  },
+  "Max Leube": {
+    "places": "None"
+  },
+  "Eduard Kies": {
+    "places": "None"
+  },
+  "Karl Bilfinger": {
+    "places": "None"
+  },
+  "Samuel Hoffmann": {
+    "places": "None"
+  },
+  "Wilhelm von Wagner": {
+    "places": "None"
+  },
+  "Paul Weber": {
+    "places": "None"
+  },
+  "Friedrich Graner": {
+    "places": "None"
+  },
+  "Ferdinand Graner": {
+    "places": "None"
+  },
+  "Paul Ludwig Friedrich Daser": {
+    "places": "None"
+  },
+  "Eduard Hochstetter": {
+    "places": "None"
+  },
+  "Gustav Gottlob Friedrich Schoder": {
+    "places": "None"
+  },
+  "Gustav Ernst Ludwig Uhland": {
+    "places": "None"
+  },
+  "Paul Fissler": {
+    "places": "None"
+  },
+  "Cuno [(Cuno Friedrich Viktor)] Graf von Westarp": {
+    "places": "None"
+  },
+  "Augustin [(Augustin Friedrich)] Kr\u00e4mer": {
+    "places": "None"
+  },
+  "Victor Seeger": {
+    "places": "None"
+  },
+  "Christian Hochstetter": {
+    "places": "None"
+  },
+  "Hermann Gauss": {
+    "places": "None"
+  },
+  "Wilhelm (Christian Heinrich Wilhelm) Finckh": {
+    "places": "None"
+  },
+  "Gerhard (Karl Nathaniel Gerhard) Schmidt": {
+    "places": "None"
+  },
+  "Hermann Schmidgall": {
+    "places": "None"
+  },
+  "Eduard (Heinrich Eduard) Burlage": {
+    "places": "None"
+  },
+  "Adolf Parisius": {
+    "places": "None"
+  },
+  "Ernst (Ernst Johann Melchior) M\u00f6ller": {
+    "places": "None"
+  },
+  "Hermann Pabst": {
+    "places": "None"
+  },
+  "Karl Rupp": {
+    "places": "None"
+  },
+  "Carl August Mauch": {
+    "places": "None"
+  },
+  "Theodor [(Theodor Emanuel Jacob)] Raydt": {
+    "places": "None"
+  },
+  "Martin Konrad Demmering": {
+    "places": "None"
+  },
+  "Gustav (Gustav Ferdinand Erdmann) Selle": {
+    "places": "None"
+  },
+  "Theodor Weber": {
+    "places": "None"
+  },
+  "Felix Steudel": {
+    "places": "None"
+  },
+  "Theodor Ferdinand Gustav Franz Vorbrodt": {
+    "places": "None"
+  },
+  "Julius [(Julius August Heinrich Konstantin Franz Wolfgang Karl)] von Soden": {
+    "places": "None"
+  },
+  "Hermann Otto Zillessen": {
+    "places": "None"
+  },
+  "Friedrich Curt von Rohrscheidt": {
+    "places": "None"
+  },
+  "Hilmar von der Wense": {
+    "places": "None"
+  },
+  "Wilhelm Haack": {
+    "places": "None"
+  },
+  "Heinrich (Johann Heinrich) Pels-Leusden": {
+    "places": "None"
+  },
+  "Karl Bode": {
+    "places": "None"
+  },
+  "Marc Andr\u00e9 Souchay": {
+    "places": "None"
+  },
+  "Eberhard [(Ernst Eberhard)] Baumann": {
+    "places": "None"
+  },
+  "Ernst Benno Kuehn": {
+    "places": "None"
+  },
+  "Julius Rauth": {
+    "places": "None"
+  },
+  "Albert Eberhard Moser": {
+    "places": "None"
+  },
+  "Ludwig Bauer": {
+    "places": "None"
+  },
+  "Friedgar Mone": {
+    "places": "None"
+  },
+  "Karl Mondon": {
+    "places": "None"
+  },
+  "Joseph Winkler": {
+    "places": "None"
+  },
+  "Ernst (Julius Ernst) Schrecker": {
+    "places": "None"
+  },
+  "Gregor [(Gregor Johann Hermann)] von Glasenapp": {
+    "places": "None"
+  },
+  "Hermann Hoser": {
+    "places": "None"
+  },
+  "Adolph Guoth": {
+    "places": "None"
+  },
+  "Wilhelm Guoth": {
+    "places": "None"
+  },
+  "Karl Emil Theodor Bollow": {
+    "places": "None"
+  },
+  "Alois Liebherr": {
+    "places": "None"
+  },
+  "Hugo Schoder": {
+    "places": "None"
+  },
+  "Otto G\u00f6z": {
+    "places": "None"
+  },
+  "Oskar Nast": {
+    "places": "None"
+  },
+  "Max [(Maximilian Maria Julius Konstantin August)] von Soden": {
+    "places": "None"
+  },
+  "Ludwig Richard Alfred von Wider": {
+    "places": "None"
+  },
+  "Friedrich von Gaisberg": {
+    "places": "None"
+  },
+  "Imanuel Hiller": {
+    "places": "None"
+  },
+  "Eugen [(Gottlob Eugen)] V\u00f6lter": {
+    "places": "None"
+  },
+  "Christof [(Christoph Friedrich)] K\u00f6gel": {
+    "places": "None"
+  },
+  "Hendrik (Johann Hendrik) Kern": {
+    "places": "None"
+  },
+  "Adolf [(Gustav Adolf)] Deissmann": {
+    "places": "None"
+  },
+  "Karl Weller": {
+    "places": "None"
+  },
+  "Georg [(Georg Friedrich Karl August)] Mosengel": {
+    "places": "None"
+  },
+  "Max Kern": {
+    "places": "None"
+  },
+  "Ludwig (Lakkorn) Laccorn": {
+    "places": "None"
+  },
+  "Heinrich Hiller": {
+    "places": "None"
+  },
+  "Friedrich Wilhelm Heinrich Habermaas": {
+    "places": "None"
+  },
+  "Gustav Adolph Speidel": {
+    "places": "None"
+  },
+  "Hugo Speidel": {
+    "places": "None"
+  },
+  "Karl (Karl Adolf) Camerer": {
+    "places": "None"
+  },
+  "Hermann Fuoss": {
+    "places": "None"
+  },
+  "Hermann Albert (Albrecht) Dieterich": {
+    "places": "None"
+  },
+  "Paul (Paul Julius Albert) Axhausen": {
+    "places": "None"
+  },
+  "Otto Kaufmann": {
+    "places": "None"
+  },
+  "Paul (Paul Friedr. Eugen) Buhrow": {
+    "places": "None"
+  },
+  "Otto (Otto Christian Ludwig) Fischer": {
+    "places": "None"
+  },
+  "Karl Eduard [(Charles Edouard)] Cordey": {
+    "places": "None"
+  },
+  "Heinrich Cordey": {
+    "places": "None"
+  },
+  "Gustav Widenmann": {
+    "places": "None"
+  },
+  "Wilhelm (Gottfried Wilhelm) Schmid": {
+    "places": "None"
+  },
+  "Oscar Liebreich": {
+    "places": "None"
+  },
+  "Johann Ludwig Schultzky": {
+    "places": "None"
+  },
+  "Walther Simon": {
+    "places": "None"
+  },
+  "Wilhelm Ziebold": {
+    "places": "None"
+  },
+  "Florian Beely": {
+    "places": "None"
+  },
+  "Friedrich Stolz": {
+    "places": "None"
+  },
+  "Carl Stolz": {
+    "places": "None"
+  },
+  "Christian Stoltz": {
+    "places": "None"
+  },
+  "Sigismund Kappes": {
+    "places": "None"
+  },
+  "Jakob Schlo\u00df": {
+    "places": "None"
+  },
+  "August Wagner": {
+    "places": "None"
+  },
+  "Johann Wilhelm Viktor Alber Alexander von Dassel": {
+    "places": "None"
+  },
+  "Martin Lang": {
+    "places": "None"
+  },
+  "Friedrich Gustav Philipp H\u00f6chstetter": {
+    "places": "None"
+  },
+  "Richard Schultes": {
+    "places": "None"
+  },
+  "Erich Blaich": {
+    "places": "None"
+  },
+  "Meinrad Kessler": {
+    "places": "None"
+  },
+  "Joseph Bodenm\u00fcller": {
+    "places": "None"
+  },
+  "Werner Adolph Friedrich von Trott": {
+    "places": "None"
+  },
+  "Nathanael Josenhans": {
+    "places": "None"
+  },
+  "Robert Moser": {
+    "places": "None"
+  },
+  "Albert Hoelzle": {
+    "places": "None"
+  },
+  "Richard Lechler": {
+    "places": "None"
+  },
+  "Gotthold (Gotthold Friedrich) Hegele": {
+    "places": "None"
+  },
+  "Johannes (Johannes Adolf) Zander": {
+    "places": "None"
+  },
+  "Karl (Christian Karl) Clemen": {
+    "places": "None"
+  },
+  "Carl Ferdinand Schimpf": {
+    "places": "None"
+  },
+  "William K\u00fcster": {
+    "places": "None"
+  },
+  "Georg (Georg Daniel) Liebster": {
+    "places": "None"
+  },
+  "Arnold Thompson": {
+    "places": "None"
+  },
+  "Floren [(Martin Johannes Florenz)] Smend": {
+    "places": "None"
+  },
+  "Theodor (Theodor Carl Friedrich) Arnold": {
+    "places": "None"
+  },
+  "Rudolf Mehmke": {
+    "places": "None"
+  },
+  "Karl (Karl Theodor) Walz": {
+    "places": "None"
+  },
+  "Max S\u00e4nger": {
+    "places": "None"
+  },
+  "Paul (Karl Paul Christian) Hochstetter": {
+    "places": "None"
+  },
+  "Hermann Steiner": {
+    "places": "None"
+  },
+  "Albert [(Albert Abraham)] Mayer": {
+    "places": "None"
+  },
+  "Gottlieb Sandel": {
+    "places": "None"
+  },
+  "Paul Julius Nick": {
+    "places": "None"
+  },
+  "Wilhelm Grams": {
+    "places": "None"
+  },
+  "Martin Friedrich Engelhard [von] Nathusius": {
+    "places": "None"
+  },
+  "Hermann Mauk": {
+    "places": "None"
+  },
+  "Friedrich M\u00fchlh\u00e4usser": {
+    "places": "None"
+  },
+  "Adolph [(Gustav Adolf)] von Crailsheim": {
+    "places": "None"
+  },
+  "Samuel Berger": {
+    "places": "None"
+  },
+  "Hugo Bertsch": {
+    "places": "None"
+  },
+  "Georg Wiebe": {
+    "places": "None"
+  },
+  "Theodor [(Theodor Sigismund)] Haarbeck": {
+    "places": "None"
+  },
+  "Julius Hochstetter": {
+    "places": "None"
+  },
+  "Ernst [(Eugen Rudolf Wilhelm)] Thym": {
+    "places": "None"
+  },
+  "Carl Victor Heinrich Zahn": {
+    "places": "None"
+  },
+  "Leonhard [(Leonhard Reinhold)] Seesemann": {
+    "places": "None"
+  },
+  "Adolf Diedrich Brunkhorst": {
+    "places": "None"
+  },
+  "Jan Friesemann Vietor": {
+    "places": "None"
+  },
+  "Karl Diehl": {
+    "places": "None"
+  },
+  "Albert Schwegler": {
+    "places": "None"
+  },
+  "Ferdinand Hochstetter": {
+    "places": "None"
+  },
+  "Adolph Heinrich Herrmann": {
+    "places": "None"
+  },
+  "Hermann Metzger": {
+    "places": "None"
+  },
+  "Christian Voelter": {
+    "places": "None"
+  },
+  "Peter [(Wilhelm Peter)] Bockm\u00fchl": {
+    "places": "None"
+  },
+  "Paul [(Paul Gustav Siegfried)] Pieper": {
+    "places": "None"
+  },
+  "Theodor Carl Liesching": {
+    "places": "None"
+  },
+  "Theodor Voigt": {
+    "places": "None"
+  },
+  "Albrecht Bengel": {
+    "places": "None"
+  },
+  "Hermann Bayha": {
+    "places": "None"
+  },
+  "Carl Ferdinand Friedrich Harpprecht": {
+    "places": "None"
+  },
+  "Eugen [(Eugen Otto)] Valet": {
+    "places": "None"
+  },
+  "Theodor B\u00e4chtold": {
+    "places": "None"
+  },
+  "Gustav Adolf Dehlinger": {
+    "places": "None"
+  },
+  "Friedrich [(Friedrich Hermann Karl)] Scheurlen": {
+    "places": "None"
+  },
+  "Carl Schray": {
+    "places": "None"
+  },
+  "Wilhelm von Crailsheim": {
+    "places": "None"
+  },
+  "Eduard Strau\u00df": {
+    "places": "None"
+  },
+  "Richard B\u00f6tticher": {
+    "places": "None"
+  },
+  "Julian [(Julian A.)] Kulakowsky": {
+    "places": "None"
+  },
+  "Hugo (Julius Wilhelm Hugo) Weizs\u00e4cker": {
+    "places": "None"
+  },
+  "Arthur Seidl": {
+    "places": "None"
+  },
+  "Albert [(Albert Otto)] Oppel": {
+    "places": "None"
+  },
+  "Karl [Dietrich] Bever": {
+    "places": "None"
+  },
+  "Josef Rosenfeld": {
+    "places": "None"
+  },
+  "Wilhelm Steinh\u00e4user": {
+    "places": "None"
+  },
+  "Alfred [(Paul Alfred)] Zeller": {
+    "places": "None"
+  },
+  "Johannes (Johannes Eberhard Burghard) von L\u00fcpke": {
+    "places": "None"
+  },
+  "Christoph Blumhardt": {
+    "places": "None"
+  },
+  "Theophil Blumhardt": {
+    "places": "None"
+  },
+  "Christian Friedrich Wiedersheim": {
+    "places": "None"
+  },
+  "Hermann Friedrich Landskron": {
+    "places": "None"
+  },
+  "August Gasser": {
+    "places": "None"
+  },
+  "Theodor G\u00fcnther": {
+    "places": "None"
+  },
+  "Max Adae": {
+    "places": "None"
+  },
+  "Theodor Weiss": {
+    "places": "None"
+  },
+  "Gottlieb Friedrich Ochsenbein": {
+    "places": "None"
+  },
+  "Julius Schallenm\u00fcller": {
+    "places": "None"
+  },
+  "Friedrich Schwandner": {
+    "places": "None"
+  },
+  "Robert Haecker": {
+    "places": "None"
+  },
+  "Carl Schreyvogel": {
+    "places": "None"
+  },
+  "Wilhelm Holzwarth": {
+    "places": "None"
+  },
+  "Hans Dinkelacker": {
+    "places": "None"
+  },
+  "Hermann Mayer": {
+    "places": "None"
+  },
+  "Virgil Mayer": {
+    "places": "None"
+  },
+  "Friedrich Oelschlaeger": {
+    "places": "None"
+  },
+  "Martin (Martin Karl) Klewitz": {
+    "places": "None"
+  },
+  "Julius Parke": {
+    "places": "None"
+  },
+  "Johann Friedrich Nagel": {
+    "places": "None"
+  },
+  "Emil Steudel": {
+    "places": "None"
+  },
+  "Mayer Hirsch": {
+    "places": "None"
+  },
+  "Franz Huber": {
+    "places": "None"
+  },
+  "Karl August C\u00e4sar Rudolf Beneke": {
+    "places": "None"
+  },
+  "Friedrich Weinbrenner": {
+    "places": "None"
+  },
+  "Julius Friedrich Carl Kuder": {
+    "places": "None"
+  },
+  "Wilhelm (Wilhelm August) Weisser": {
+    "places": "None"
+  },
+  "Adolph (Friedrich) Foehr": {
+    "places": "None"
+  },
+  "Karl [(Karl Emil)] Ehringhaus": {
+    "places": "None"
+  },
+  "Carl Gustav Hobohm": {
+    "places": "None"
+  },
+  "Carl Fuhr": {
+    "places": "None"
+  },
+  "Bernhard Herzog": {
+    "places": "None"
+  },
+  "Markus Hoch": {
+    "places": "None"
+  },
+  "Richard (Richard James Horatio) Gottheil": {
+    "places": "None"
+  },
+  "Gustav Menton": {
+    "places": "None"
+  },
+  "Nathanael Kretschmer": {
+    "places": "None"
+  },
+  "Lucius [(Luzius)] Raschein": {
+    "places": "None"
+  },
+  "Gabriel Marti": {
+    "places": "None"
+  },
+  "Johannes [(Ernst Wilhelm Johannes)] Mosch\u00fctz": {
+    "places": "None"
+  },
+  "Adolf Pfeilsticker": {
+    "places": "None"
+  },
+  "Heinrich Heidenheimer": {
+    "places": "None"
+  },
+  "Johann Holzammer": {
+    "places": "None"
+  },
+  "Albert (Albert Gustav) Kind": {
+    "places": "None"
+  },
+  "Adolf (Adolf Friedrich) Klemm": {
+    "places": "None"
+  },
+  "Hans (Hans Gottlieb) Wolff": {
+    "places": "None"
+  },
+  "Eberhard Christoph Reineck": {
+    "places": "None"
+  },
+  "Walter [(Walter Paul)] von Krenski": {
+    "places": "None"
+  },
+  "Friedrich [(Friedrich Robert)] Kretschmann": {
+    "places": "None"
+  },
+  "Friedrich [(Friedrich Karl Gustav)] Eiselen": {
+    "places": "None"
+  },
+  "Otto [(Ludwig Martin Otto)] Morgenstern": {
+    "places": "None"
+  },
+  "Karl (Karl Friedrich Wilhelm) Hahn": {
+    "places": "None"
+  },
+  "Karl [(Daniel Wilhelm Karl)] Goernemann": {
+    "places": "None"
+  },
+  "Ulrich Kuhlmann": {
+    "places": "None"
+  },
+  "Gerhard Wessel": {
+    "places": "None"
+  },
+  "Gottfried Meyer": {
+    "places": "None"
+  },
+  "Friedrich August Otto Scheerschmidt": {
+    "places": "None"
+  },
+  "Heinrich Maier": {
+    "places": "None"
+  },
+  "Peter Joseph Heggelin": {
+    "places": "None"
+  },
+  "Mathias Riedweg": {
+    "places": "None"
+  },
+  "Joseph Luib": {
+    "places": "None"
+  },
+  "Paul Roth": {
+    "places": "None"
+  },
+  "C\u00e4sar Reinert": {
+    "places": "None"
+  },
+  "Bernhard [(Bernhard David Friedrich)] Willms": {
+    "places": "None"
+  },
+  "Heinrich Kaiser": {
+    "places": "None"
+  },
+  "Eugen Neud\u00f6rffer": {
+    "places": "None"
+  },
+  "Eberhard Gottlob Rieger": {
+    "places": "None"
+  },
+  "Eugen Wider": {
+    "places": "None"
+  },
+  "Adolf Bornefeld": {
+    "places": "None"
+  },
+  "Carl Gustav Reuschle": {
+    "places": "None"
+  },
+  "Joseph Zingg": {
+    "places": "None"
+  },
+  "John (John Max) Pickering": {
+    "places": "None"
+  },
+  "Emil D\u00f6rflinger": {
+    "places": "None"
+  },
+  "Gottlieb Andreas Scheiner": {
+    "places": "None"
+  },
+  "Wilhelm [(Karl Heinrich August Wilhelm)] Ruer": {
+    "places": "None"
+  },
+  "Carl Lepper": {
+    "places": "None"
+  },
+  "Ernst Osiander": {
+    "places": "None"
+  },
+  "Theodor Molt": {
+    "places": "None"
+  },
+  "Alois Alzheimer": {
+    "places": "None"
+  },
+  "Albert Walter": {
+    "places": "None"
+  },
+  "Felix Eugen Gussmann": {
+    "places": "None"
+  },
+  "Pul Kehl": {
+    "places": "None"
+  },
+  "Martin Bertsch": {
+    "places": "None"
+  },
+  "August Siemsen": {
+    "places": "None"
+  },
+  "Langdon C[heves] Stewardson": {
+    "places": "None"
+  },
+  "Gerhard (Aug. Heinr. Gerhard) F\u00fcllkrug": {
+    "places": "None"
+  },
+  "Konrad [(Paul Konrad Friedrich)] Niethammer": {
+    "places": "None"
+  },
+  "Richard Koch": {
+    "places": "None"
+  },
+  "Roderich Stintzing": {
+    "places": "None"
+  },
+  "Ernst Luz": {
+    "places": "None"
+  },
+  "Gustav Krome": {
+    "places": "None"
+  },
+  "Christian Friedrich Hartmann": {
+    "places": "None"
+  },
+  "Theodor Schmitt": {
+    "places": "None"
+  },
+  "Edwin Friedrich Carl Wilhelm Schuster": {
+    "places": "None"
+  },
+  "Friedrich (Gottlob Friedrich Ludwig) Baur": {
+    "places": "None"
+  },
+  "Paul Eduard Stoll": {
+    "places": "None"
+  },
+  "Wilhelm Hassbach": {
+    "places": "None"
+  },
+  "Paul Arens": {
+    "places": "None"
+  },
+  "William (Max William) Gibsone": {
+    "places": "None"
+  },
+  "Ernst (Ernst Eduard) Adickes": {
+    "places": "None"
+  },
+  "Ferdinand (Ferdinand Eduard Theodor) Cohrs": {
+    "places": "None"
+  },
+  "Richard (Richard August) [(Heinrich Richard August)] Linde": {
+    "places": "None"
+  },
+  "Gustav [(Gustav Wilhelm Karl)] Struckmann": {
+    "places": "None"
+  },
+  "Franz [(Alexander Georg Franz)] von Klenck": {
+    "places": "None"
+  },
+  "Hermann Steinmetz": {
+    "places": "None"
+  },
+  "Eduard (Hermann Oskar Eduard) Marcard": {
+    "places": "None"
+  },
+  "Theodor Karl August Deneke": {
+    "places": "None"
+  },
+  "Ludwig (Ludwig August Bernhard Friedrich) von Pufendorf": {
+    "places": "None"
+  },
+  "Albert Brackmann": {
+    "places": "None"
+  },
+  "Theodor G. Fr. Gies": {
+    "places": "None"
+  },
+  "Anton Benedikt Eduard Pelissier": {
+    "places": "None"
+  },
+  "Adolf Otto Deetjen": {
+    "places": "None"
+  },
+  "Eduard Birt": {
+    "places": "None"
+  },
+  "Alfred Einhorn": {
+    "places": "None"
+  },
+  "Georg [(Christian Conrad Georg)] Behrmann": {
+    "places": "None"
+  },
+  "Otto Ecker": {
+    "places": "None"
+  },
+  "Hermann (Hermann Adalbert) Bruntsch": {
+    "places": "None"
+  },
+  "Johannes (Johannes Martin Wolfgang) Lappenberg": {
+    "places": "None"
+  },
+  "Heinrich Junker": {
+    "places": "None"
+  },
+  "Ludwig [(Ludwig Otto Peter)] Piazolo": {
+    "places": "None"
+  },
+  "Wilhelm Adolf Bossert": {
+    "places": "None"
+  },
+  "Emil [(Emil Paul Georg)] Seckel": {
+    "places": "None"
+  },
+  "Heinrich [(Christian Heinrich)] Holland": {
+    "places": "None"
+  },
+  "Max Haitinger": {
+    "places": "None"
+  },
+  "Friedrich (Johann Friedrich Karl August) Nebe": {
+    "places": "None"
+  },
+  "Peter Hedde": {
+    "places": "None"
+  },
+  "William [Christian Heinrich] Martensen": {
+    "places": "None"
+  },
+  "Christian Friedrich Schott": {
+    "places": "None"
+  },
+  "Eugen Sieger": {
+    "places": "None"
+  },
+  "Georg (Karl Georg Eduard) Bruns": {
+    "places": "None"
+  },
+  "Viktor Paul Bruns": {
+    "places": "None"
+  },
+  "Alois [(Aloys Adolf Felix Christian)] Homeyer": {
+    "places": "None"
+  },
+  "Adam Bauereisen": {
+    "places": "None"
+  },
+  "Heinrich [(Heinrich August)] Volz": {
+    "places": "None"
+  },
+  "Emil Cull": {
+    "places": "None"
+  },
+  "Friedrich Schippert": {
+    "places": "None"
+  },
+  "Alfred [(Joseph Christoph Alfred)] Schliz": {
+    "places": "None"
+  },
+  "Rudolph von Neubronner": {
+    "places": "None"
+  },
+  "Edmund Neuschler": {
+    "places": "None"
+  },
+  "Guido [(Heermann Guido)] Hauck": {
+    "places": "None"
+  },
+  "Heinrich von Bautz": {
+    "places": "None"
+  },
+  "Alfred Lempp": {
+    "places": "None"
+  },
+  "Oskar Bichart": {
+    "places": "None"
+  },
+  "Hugo Faisst": {
+    "places": "None"
+  },
+  "Ludwig (Ludwig Karl) Pfau": {
+    "places": "None"
+  },
+  "Carl [(Carl Friederich)] Finckh": {
+    "places": "None"
+  },
+  "Georg Haldenwang": {
+    "places": "None"
+  },
+  "Carl Ludwig Rominger": {
+    "places": "None"
+  },
+  "Christof Planck": {
+    "places": "None"
+  },
+  "Friedrich Furch": {
+    "places": "None"
+  },
+  "Karl Wild": {
+    "places": "None"
+  },
+  "Ludwig (Ludwig Ernst) Pinckernelle": {
+    "places": "None"
+  },
+  "Alexander (Alexander Georg Wilhelm) Schoen": {
+    "places": "None"
+  },
+  "Ascan [(Ascan Wilhelm)] Lutteroth": {
+    "places": "None"
+  },
+  "Karl (Johann Karl) Jacobj": {
+    "places": "None"
+  },
+  "Heinrich (Karl Heinrich Julius) K\u00f6stlin": {
+    "places": "None"
+  },
+  "Friedrich (Bernhard Viktor Wilhelm Friedrich) Krancke": {
+    "places": "None"
+  },
+  "Friedrich Siegmund-Schultze": {
+    "places": "None"
+  },
+  "Carl Theodor Engel": {
+    "places": "None"
+  },
+  "Richard [(Werner Richard)] Landerer": {
+    "places": "None"
+  },
+  "Paul Viktor Alfred Breitling": {
+    "places": "None"
+  },
+  "Gustav Supper": {
+    "places": "None"
+  },
+  "Paul Landerer": {
+    "places": "None"
+  },
+  "Hans Koch": {
+    "places": "None"
+  },
+  "Wilhelm Adolph Julius Lidel": {
+    "places": "None"
+  },
+  "Otto Br\u00f6samlen": {
+    "places": "None"
+  },
+  "Paul (Ernst Alexander Paul) Kranz": {
+    "places": "None"
+  },
+  "Carl Theodor Andreas Hauser": {
+    "places": "None"
+  },
+  "Georg Jaeger": {
+    "places": "None"
+  },
+  "Friedrich Heman": {
+    "places": "None"
+  },
+  "Gustav [(Gustav Julius Ferdinand)] Valet": {
+    "places": "None"
+  },
+  "Wilhelm [(Wilhelm Theodor)] Weiblen": {
+    "places": "None"
+  },
+  "Paul Schmid": {
+    "places": "None"
+  },
+  "Emil Martin Immanuel Blummer": {
+    "places": "None"
+  },
+  "Johannes Keller": {
+    "places": "None"
+  },
+  "Gustav Heinrich Lamparter": {
+    "places": "None"
+  },
+  "Hermann Koch": {
+    "places": "None"
+  },
+  "Julius Zindel": {
+    "places": "None"
+  },
+  "Adolph Friedrich Daniel": {
+    "places": "None"
+  },
+  "Nathanael Bunz": {
+    "places": "None"
+  },
+  "Hermann Grimm": {
+    "places": "None"
+  },
+  "Ulrich Ludwig Clasen": {
+    "places": "None"
+  },
+  "Adalbert Kolb": {
+    "places": "None"
+  },
+  "Karl [Wilhelm Gustav] Rahmsdorf": {
+    "places": "None"
+  },
+  "Hermann Lattmann": {
+    "places": "None"
+  },
+  "Eduard Schneider": {
+    "places": "None"
+  },
+  "Carl Friedrich Ziegler": {
+    "places": "None"
+  },
+  "Friedrich [(Johannes Julius Friedrich)] Heinzelmann": {
+    "places": "None"
+  },
+  "Heinrich K\u00f6tter": {
+    "places": "None"
+  },
+  "Eduard Koetter": {
+    "places": "None"
+  },
+  "Kurt Riemer": {
+    "places": "None"
+  },
+  "Etienne Laspeyres": {
+    "places": "None"
+  },
+  "Karl (Karl Heinrich) Grasshoff": {
+    "places": "None"
+  },
+  "Lothar Alfred Anton Pernice": {
+    "places": "None"
+  },
+  "Leo B\u00f6nhoff": {
+    "places": "None"
+  },
+  "Emil Hubmann": {
+    "places": "None"
+  },
+  "Bernhard Woerthle": {
+    "places": "None"
+  },
+  "Georg David Seckel": {
+    "places": "None"
+  },
+  "Hermann K\u00f6the": {
+    "places": "None"
+  },
+  "Johannes (Sigfried Ernst Johannes) Heinzelmann": {
+    "places": "None"
+  },
+  "Otto Hertzer": {
+    "places": "None"
+  },
+  "Theodor Rumpel": {
+    "places": "None"
+  },
+  "Hans [(Hans Erich)] von Slupecki": {
+    "places": "None"
+  },
+  "Max Hirsch": {
+    "places": "None"
+  },
+  "Friedrich [Wilhelm] Querner": {
+    "places": "None"
+  },
+  "Karl Kaefer": {
+    "places": "None"
+  },
+  "Heinrich Huthmacher": {
+    "places": "None"
+  },
+  "Meier Hilb": {
+    "places": "None"
+  },
+  "Karl (Karl Julius Wilhelm Theodor) Ohly": {
+    "places": "None"
+  },
+  "Wilhelm (Karl Friedrich Wilhelm) K\u00fcper": {
+    "places": "None"
+  },
+  "Lorenz Treplin": {
+    "places": "None"
+  },
+  "Carl Friedrich Reinhold Simon": {
+    "places": "None"
+  },
+  "Ernst Johannes Otto Simon": {
+    "places": "None"
+  },
+  "Adolf (Gustav Adolf) Mergenthaler": {
+    "places": "None"
+  },
+  "Erich Friedrich Heinrich Haake": {
+    "places": "None"
+  },
+  "Gustav Ludwig Ramsperger": {
+    "places": "None"
+  },
+  "Hermann [(Hermann Karl Richard)] Schiefferdecker": {
+    "places": "None"
+  },
+  "Paul Kulisch": {
+    "places": "None"
+  },
+  "Karl [Andreas] Glaser": {
+    "places": "None"
+  },
+  "Hans Neud\u00f6rffer": {
+    "places": "None"
+  },
+  "Richard Preu": {
+    "places": "None"
+  },
+  "Eduard Bacmeister": {
+    "places": "None"
+  },
+  "Heinrich [(Heinrich Carl Otto)] Schmid": {
+    "places": "None"
+  },
+  "Edmund H\u00f6lzle": {
+    "places": "None"
+  },
+  "Gustav Kapff": {
+    "places": "None"
+  },
+  "Carl Pregizer": {
+    "places": "None"
+  },
+  "Ernst Dr\u00fcck": {
+    "places": "None"
+  },
+  "Karl Ludwig Ernst Lang": {
+    "places": "None"
+  },
+  "Franz Metzieder": {
+    "places": "None"
+  },
+  "Wilhelm M\u00fcnzinger": {
+    "places": "None"
+  },
+  "Sigmund Gundelfinger": {
+    "places": "None"
+  },
+  "Friedrich [(Friedrich Carl Wilhelm)] Hoyer": {
+    "places": "None"
+  },
+  "William White": {
+    "places": "None"
+  },
+  "William Grant Macpherson": {
+    "places": "None"
+  },
+  "Otto (Otto Ude) Jessen": {
+    "places": "None"
+  },
+  "Heinrich (Heinrich Marten Friedrich) Meyer": {
+    "places": "None"
+  },
+  "Georg (Hermann Georg) Eichholz": {
+    "places": "None"
+  },
+  "Gustav Ruckhaber": {
+    "places": "None"
+  },
+  "Clemens Anton Eggenfels": {
+    "places": "None"
+  },
+  "Friedrich K\u00f6nigsheim": {
+    "places": "None"
+  },
+  "Kurt Freiherr von Schenck zu Schweinsberg": {
+    "places": "None"
+  },
+  "Zacharias Schalin": {
+    "places": "None"
+  },
+  "Adolf Gustav Holtzmann": {
+    "places": "None"
+  },
+  "Heinrich (Heinrich Burkhard) Abegg": {
+    "places": "None"
+  },
+  "Carl Prinz von Hohenlohe": {
+    "places": "None"
+  },
+  "Georg (Georg Friedrich) Abegg": {
+    "places": "None"
+  },
+  "Julius K\u00f6lle": {
+    "places": "None"
+  },
+  "Ernst Wagner": {
+    "places": "None"
+  },
+  "August G\u00fcnzler": {
+    "places": "None"
+  },
+  "Archibald Turnbull": {
+    "places": "None"
+  },
+  "Bernhard Rudolf Becker": {
+    "places": "None"
+  },
+  "Friedrich Niebergall": {
+    "places": "None"
+  },
+  "Eduard Max Scholtz": {
+    "places": "None"
+  },
+  "Christof Donner": {
+    "places": "None"
+  },
+  "Christoph Friedrich F\u00fcrchtegott Paulus": {
+    "places": "None"
+  },
+  "Gustav Flaxland": {
+    "places": "None"
+  },
+  "Gustav Schefold": {
+    "places": "None"
+  },
+  "Eduard Sigel": {
+    "places": "None"
+  },
+  "Adolph Hamm": {
+    "places": "None"
+  },
+  "Adolf Zeller": {
+    "places": "None"
+  },
+  "Max Herz": {
+    "places": "None"
+  },
+  "Otto Pfeilsticker": {
+    "places": "None"
+  },
+  "Carl Wilhelm [(Carl Wilhelm Friedrich)] Krell": {
+    "places": "None"
+  },
+  "Ernst Ludwig Friedrich Faber": {
+    "places": "None"
+  },
+  "Josef Hosius": {
+    "places": "None"
+  },
+  "Theodor Burkhardt": {
+    "places": "None"
+  },
+  "Hermann Friedrich Seeger": {
+    "places": "None"
+  },
+  "Christoph Mutschler": {
+    "places": "None"
+  },
+  "Gustav [Adolf Bernhard Rudolf] M\u00fcller": {
+    "places": "None"
+  },
+  "Alois Wiest": {
+    "places": "None"
+  },
+  "Otto Heermann": {
+    "places": "None"
+  },
+  "Karl [(Karl Gotthold Wolfgang)] Heinzelmann": {
+    "places": "None"
+  },
+  "Alexander Lutteroth": {
+    "places": "None"
+  },
+  "Eugen (Franz Eugen) Heer": {
+    "places": "None"
+  },
+  "Karl Hayessen": {
+    "places": "None"
+  },
+  "Clemens Bruckmann": {
+    "places": "None"
+  },
+  "Karl [Heinrich Sixt] Mutschler": {
+    "places": "None"
+  },
+  "Gustav Johannes Georg D\u00fcrr": {
+    "places": "None"
+  },
+  "Wilhelm Uhthoff": {
+    "places": "None"
+  },
+  "Albert Plochmann": {
+    "places": "None"
+  },
+  "Kurt Sturm": {
+    "places": "None"
+  },
+  "Wilhelm Volz": {
+    "places": "None"
+  },
+  "Paul (Ernst Paul) Menton": {
+    "places": "None"
+  },
+  "Ludwig M\u00fchlh\u00e4usser": {
+    "places": "None"
+  },
+  "Carl Ruoff": {
+    "places": "None"
+  },
+  "Ernst [(Johann Geworg Enst)] Graessle": {
+    "places": "None"
+  },
+  "Abraham Waelder": {
+    "places": "None"
+  },
+  "Samuel Rutherford Johnston": {
+    "places": "None"
+  },
+  "Karl Vollers": {
+    "places": "None"
+  },
+  "Gottlieb Fischer": {
+    "places": "None"
+  },
+  "Friedrich (Friedrich Johannes) H\u00f6rnemann": {
+    "places": "None"
+  },
+  "Walter Drude": {
+    "places": "None"
+  },
+  "Adolph Eduard Laiblin": {
+    "places": "None"
+  },
+  "Theodor [(Christian Heinrich Theodor)] Stein": {
+    "places": "None"
+  },
+  "William (William Alex) Osborne": {
+    "places": "None"
+  },
+  "Friedrich Wilhelm Martin Eiselen": {
+    "places": "None"
+  },
+  "Gotthilf Albert Knapp": {
+    "places": "None"
+  },
+  "Honor [(Honorius Leopold Clemens Sigmund Anselm Nikolaus)] Graf von Adelmann": {
+    "places": "None"
+  },
+  "Friedrich [Friedrich Joseph Karl (Carl) Patritius] Graf von Adelmann": {
+    "places": "None"
+  },
+  "Johann Hieronymus Scherr": {
+    "places": "None"
+  },
+  "Hermann Meynen Lohe": {
+    "places": "None"
+  },
+  "Paul Obermann": {
+    "places": "None"
+  },
+  "Hermann Fischbach": {
+    "places": "None"
+  },
+  "Robert Moerike": {
+    "places": "None"
+  },
+  "Ludwig Heinrich von Wider": {
+    "places": "None"
+  },
+  "Karl Weinland": {
+    "places": "None"
+  },
+  "Karl Cranz": {
+    "places": "None"
+  },
+  "Julius M\u00fclhens": {
+    "places": "None"
+  },
+  "Hans von Goeben": {
+    "places": "None"
+  },
+  "Friedrich (Friedrich Armin) Loofs": {
+    "places": "None"
+  },
+  "Friedrich [(Friedrich Karl Ludwig Wilhelm)] von Borries": {
+    "places": "None"
+  },
+  "Albert Pregizer": {
+    "places": "None"
+  },
+  "Adolf Hueck": {
+    "places": "None"
+  },
+  "Carl Herrmann": {
+    "places": "None"
+  },
+  "Franz [(Franz Salesius)] Schanz": {
+    "places": "None"
+  },
+  "Wilhelm August H\u00f6nig": {
+    "places": "None"
+  },
+  "Johann (Johann Michael) Gassner": {
+    "places": "None"
+  },
+  "Adolf Nebel": {
+    "places": "None"
+  },
+  "Carl Scholl": {
+    "places": "None"
+  },
+  "Friedrich [(August Herrmann Friedrich)] Kayser": {
+    "places": "None"
+  },
+  "Fritz Rohde": {
+    "places": "None"
+  },
+  "Mayer Hirsch Landauer": {
+    "places": "None"
+  },
+  "Rudolf Grill": {
+    "places": "None"
+  },
+  "Johannes [(Ernst Johannes] Schlemmer": {
+    "places": "None"
+  },
+  "Ludwig Medicus": {
+    "places": "None"
+  },
+  "Johannes Planitz": {
+    "places": "None"
+  },
+  "James Strachan": {
+    "places": "None"
+  },
+  "Reinhold Fritzg\u00e4rtner": {
+    "places": "None"
+  },
+  "Theodor Schneller": {
+    "places": "None"
+  },
+  "Vincenz von Hahn": {
+    "places": "None"
+  },
+  "Demetrios Marulis": {
+    "places": "None"
+  },
+  "Gavin Lambie": {
+    "places": "None"
+  },
+  "Theodor Glock": {
+    "places": "None"
+  },
+  "Albert [(Albert Heinrich)] Sch\u00f6nmann": {
+    "places": "None"
+  },
+  "August Luppold": {
+    "places": "None"
+  },
+  "Robert Baur": {
+    "places": "None"
+  },
+  "Karl Friedrich Ludwig Otto Roth": {
+    "places": "None"
+  },
+  "David Schwartzkopff": {
+    "places": "None"
+  },
+  "Gustav Tobler": {
+    "places": "None"
+  },
+  "Adolf Wolfhard": {
+    "places": "None"
+  },
+  "Friedrich (Friedrich Karl) Itzerott": {
+    "places": "None"
+  },
+  "Emil Moser": {
+    "places": "None"
+  },
+  "Andreas Wachter": {
+    "places": "None"
+  },
+  "Max Rosengart": {
+    "places": "None"
+  },
+  "Alfred Rahtge": {
+    "places": "None"
+  },
+  "Arthur Parcus": {
+    "places": "None"
+  }
+}

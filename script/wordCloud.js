@@ -54,7 +54,7 @@ export function wordCloud(selector, width, height) {
                 .data(words)
                 .enter().append("text")
                 .style("font-size", function (d) {
-                    return d.size;
+                    return d.size + "px";
                 })
                 .style("fill", function (d) { return color(d.text); })
                 //.style("fill", "#69b3a2")
